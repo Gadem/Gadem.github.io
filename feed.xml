@@ -3,10 +3,30 @@
     <title>Gadem&#x27;s Blog</title>
     <link href="https://gadem.github.io/Gadem/feed.xml" rel="self" />
     <link href="https://gadem.github.io/Gadem" />
-    <updated>1969-12-31T18:00:00-06:00</updated>
+    <updated>2021-10-09T16:44:27-06:00</updated>
     <author>
         <name>Adrián Mora Jiménez</name>
     </author>
     <id>https://gadem.github.io/Gadem</id>
 
+    <entry>
+        <title>Hola Mundo</title>
+        <author>
+            <name>Adrián Mora Jiménez</name>
+        </author>
+        <link href="https://gadem.github.io/Gadem/hola-mundo.html"/>
+        <id>https://gadem.github.io/Gadem/hola-mundo.html</id>
+
+        <updated>2021-10-09T16:44:27-06:00</updated>
+            <summary>
+                <![CDATA[
+                    Probando Publii
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Probando Publii</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
