@@ -3,12 +3,27 @@
     <title>Gadem&#x27;s Blog</title>
     <link href="https://gadem.github.io/feed.xml" rel="self" />
     <link href="https://gadem.github.io" />
-    <updated>2021-10-09T17:36:34-06:00</updated>
+    <updated>2021-10-09T17:43:31-06:00</updated>
     <author>
         <name>Adrián Mora Jiménez</name>
     </author>
     <id>https://gadem.github.io</id>
 
+    <entry>
+        <title>Hola Mundo 2.0</title>
+        <author>
+            <name>Adrián Mora Jiménez</name>
+        </author>
+        <link href="https://gadem.github.io/hola-mundo-20/index.html"/>
+        <id>https://gadem.github.io/hola-mundo-20/index.html</id>
+            <category term="Tutoriales"/>
+            <category term="Linux"/>
+            <category term="Audio"/>
+
+        <updated>2021-10-09T17:43:31-06:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Hola Mundo</title>
         <author>
