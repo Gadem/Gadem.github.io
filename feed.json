@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Gadem&#x27;s Blog",
     "description": "",
-    "home_page_url": "https://gadem.github.io/Gadem",
-    "feed_url": "https://gadem.github.io/Gadem/feed.json",
+    "home_page_url": "https://gadem.github.io",
+    "feed_url": "https://gadem.github.io/feed.json",
     "user_comment": "",
     "author": {
         "name": "Adrián Mora Jiménez"
     },
     "items": [
         {
-            "id": "https://gadem.github.io/Gadem/hola-mundo.html",
-            "url": "https://gadem.github.io/Gadem/hola-mundo.html",
+            "id": "https://gadem.github.io/hola-mundo.html",
+            "url": "https://gadem.github.io/hola-mundo.html",
             "title": "Hola Mundo",
             "summary": "Probando Publii",
             "content_html": "<p>Probando Publii</p>",

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Gadem&#x27;s Blog</title>
-    <link href="https://gadem.github.io/Gadem/feed.xml" rel="self" />
-    <link href="https://gadem.github.io/Gadem" />
+    <link href="https://gadem.github.io/feed.xml" rel="self" />
+    <link href="https://gadem.github.io" />
     <updated>2021-10-09T16:44:27-06:00</updated>
     <author>
         <name>Adrián Mora Jiménez</name>
     </author>
-    <id>https://gadem.github.io/Gadem</id>
+    <id>https://gadem.github.io</id>
 
     <entry>
         <title>Hola Mundo</title>
         <author>
             <name>Adrián Mora Jiménez</name>
         </author>
-        <link href="https://gadem.github.io/Gadem/hola-mundo.html"/>
-        <id>https://gadem.github.io/Gadem/hola-mundo.html</id>
+        <link href="https://gadem.github.io/hola-mundo.html"/>
+        <id>https://gadem.github.io/hola-mundo.html</id>
 
         <updated>2021-10-09T16:44:27-06:00</updated>
             <summary>
