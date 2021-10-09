@@ -1,13 +1,14 @@
 // Sticky menu
 var new_scroll_position = 0;
 var last_scroll_position;
-var header = document.getElementById("js-top");
+var header = document.getElementById("js-header");
+var stickyMenu = document.getElementById("js-navbar-menu");
 
 window.addEventListener('scroll', function (e) {
 	last_scroll_position = window.scrollY;
 
 	// Scrolling down
-	if (new_scroll_position < last_scroll_position && last_scroll_position > 184) {
+	if (new_scroll_position < last_scroll_position && last_scroll_position > 40) {
 		header.classList.remove("is-visible");
 		header.classList.add("is-hidden");
 
@@ -15,15 +16,21 @@ window.addEventListener('scroll', function (e) {
 	} else if (new_scroll_position > last_scroll_position) {
 		header.classList.remove("is-hidden");
 		header.classList.add("is-visible");
+		if (stickyMenu) {
+			stickyMenu.classList.add("is-sticky");
+		}
 	}
 
-	if (last_scroll_position < 184) {
+	if (last_scroll_position < 1) {
 		header.classList.remove("is-visible");
+
+		if (stickyMenu) {
+			stickyMenu.classList.remove("is-sticky");
+		}
 	}
 
 	new_scroll_position = last_scroll_position;
 });
-
 
 // Dropdown menu
 (function (menuConfig) {
@@ -433,6 +440,15 @@ window.addEventListener('scroll', function (e) {
     init();
 })(window.publiiThemeMenuConfig);
 
+// Load comments
+var comments = document.getElementById("js-comments");  
+   if (comments) {
+      comments.addEventListener("click", function() {   
+          comments.classList.toggle("is-hidden");      
+             var container = document.getElementById("js-comments__inner");   
+             container.classList.toggle("is-visible");  
+      });
+ }
 
 // Load search input area
 var searchButton = document.querySelector(".js-search-btn");
@@ -452,7 +468,6 @@ if (searchButton) {
         searchOverlay.classList.remove('expanded');
     });
 }
-
 
 // Share buttons pop-up
 (function () {
@@ -517,8 +532,8 @@ if (searchButton) {
 // Back to Top - by CodyHouse.co on MIT license
 (function(){    
 	var backTop = document.getElementsByClassName('js-footer__bttop')[0],		
-		offset = 400,		
-		offsetOpacity = 800,
+		offset = 600,		
+		offsetOpacity = 1200,
 		scrollDuration = 50,
 		scrolling = false;
 	if( backTop ) {		
