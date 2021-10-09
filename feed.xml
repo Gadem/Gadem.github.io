@@ -3,7 +3,7 @@
     <title>Gadem&#x27;s Blog</title>
     <link href="https://gadem.github.io/feed.xml" rel="self" />
     <link href="https://gadem.github.io" />
-    <updated>2021-10-09T17:30:58-06:00</updated>
+    <updated>2021-10-09T17:36:34-06:00</updated>
     <author>
         <name>Adrián Mora Jiménez</name>
     </author>
@@ -16,8 +16,9 @@
         </author>
         <link href="https://gadem.github.io/hola-mundo/index.html"/>
         <id>https://gadem.github.io/hola-mundo/index.html</id>
+            <category term="Linux"/>
 
-        <updated>2021-10-09T17:30:58-06:00</updated>
+        <updated>2021-10-09T17:36:34-06:00</updated>
             <summary>
                 <![CDATA[
                     Probando Publii
