@@ -10,8 +10,8 @@
     },
     "items": [
         {
-            "id": "https://gadem.github.io/hola-mundo.html",
-            "url": "https://gadem.github.io/hola-mundo.html",
+            "id": "https://gadem.github.io/hola-mundo/index.html",
+            "url": "https://gadem.github.io/hola-mundo/index.html",
             "title": "Hola Mundo",
             "summary": "Probando Publii",
             "content_html": "<p>Probando Publii</p>",
