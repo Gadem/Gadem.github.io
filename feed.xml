@@ -3,7 +3,7 @@
     <title>Gadem&#x27;s Blog</title>
     <link href="https://gadem.github.io/feed.xml" rel="self" />
     <link href="https://gadem.github.io" />
-    <updated>2021-10-13T15:59:57-06:00</updated>
+    <updated>2021-10-14T14:51:55-06:00</updated>
     <author>
         <name>Adrián Mora Jiménez</name>
     </author>
@@ -16,13 +16,16 @@
         </author>
         <link href="https://gadem.github.io/reto-30-dias-con-linux-mint-cinnamon/index.html"/>
         <id>https://gadem.github.io/reto-30-dias-con-linux-mint-cinnamon/index.html</id>
+            <category term="Videojuegos"/>
+            <category term="Tecnología"/>
             <category term="Software Libre"/>
+            <category term="RPG Maker"/>
             <category term="Linux Mint"/>
             <category term="Linux"/>
             <category term="Escritorio"/>
             <category term="Cinnamon"/>
 
-        <updated>2021-10-13T15:59:57-06:00</updated>
+        <updated>2021-10-14T14:51:55-06:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://gadem.github.io/media/posts/3/Captura-de-pantalla-de-2021-10-11-13-44-05.png" alt="" />
