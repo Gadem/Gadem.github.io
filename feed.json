@@ -1,12 +1,12 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Soluciones Interglob",
+    "title": "Gadem&#x27;s Blog",
     "description": "",
-    "home_page_url": "https://Gadem.github.io/Gadem",
-    "feed_url": "https://Gadem.github.io/Gadem/feed.json",
+    "home_page_url": "https://Gadem.github.io",
+    "feed_url": "https://Gadem.github.io/feed.json",
     "user_comment": "",
     "author": {
-        "name": "Adrian Mora Jiménez"
+        "name": "Adrian Mora"
     },
     "items": [
     ]
