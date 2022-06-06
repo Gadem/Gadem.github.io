@@ -53,8 +53,8 @@
             "id": "https://Gadem.github.io/hola-mundo/",
             "url": "https://Gadem.github.io/hola-mundo/",
             "title": "Bienvenidos a mi Blog",
-            "summary": "Bienvenidos a mi Blog Me gusta tratar temas relacionados al Software Libre, GNU/Linux, Videojuegos, Producción Musical, Podcast, y mucho más.",
-            "content_html": "<header class=\"hero__content\">\n<div class=\"wrapper\">\n<h1>Bienvenidos a mi Blog</h1>\n<p>Me gusta tratar temas relacionados al Software Libre, GNU/Linux, Videojuegos, Producción Musical, Podcast, y mucho más. </p>\n</div>\n</header>",
+            "summary": "Me gusta tratar temas relacionados al Software Libre, GNU/Linux, Videojuegos, Producción Musical, Podcast, y mucho más. ",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://Gadem.github.io/media/posts/1/Captura-desde-2022-06-06-17-42-50-2.png\" sizes=\"100vw\" srcset=\"https://Gadem.github.io/media/posts/1/responsive/Captura-desde-2022-06-06-17-42-50-2-xs.png 300w ,https://Gadem.github.io/media/posts/1/responsive/Captura-desde-2022-06-06-17-42-50-2-sm.png 480w ,https://Gadem.github.io/media/posts/1/responsive/Captura-desde-2022-06-06-17-42-50-2-md.png 768w ,https://Gadem.github.io/media/posts/1/responsive/Captura-desde-2022-06-06-17-42-50-2-lg.png 1024w ,https://Gadem.github.io/media/posts/1/responsive/Captura-desde-2022-06-06-17-42-50-2-xl.png 1360w ,https://Gadem.github.io/media/posts/1/responsive/Captura-desde-2022-06-06-17-42-50-2-2xl.png 1600w\"  alt=\"\" width=\"1366\" height=\"768\"></figure>\n<p>Me gusta tratar temas relacionados al Software Libre, GNU/Linux, Videojuegos, Producción Musical, Podcast, y mucho más. </p>",
             "author": {
                 "name": "Adrian Mora (Gadem)"
             },
@@ -68,7 +68,7 @@
                    "Fedora"
             ],
             "date_published": "2022-06-06T15:00:51-06:00",
-            "date_modified": "2022-06-06T15:54:27-06:00"
+            "date_modified": "2022-06-06T17:44:36-06:00"
         }
     ]
 }
