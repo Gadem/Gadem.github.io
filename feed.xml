@@ -3,7 +3,7 @@
     <title>Gadem&#x27;s Blog</title>
     <link href="https://Gadem.github.io/feed.xml" rel="self" />
     <link href="https://Gadem.github.io" />
-    <updated>2022-06-06T15:33:43-06:00</updated>
+    <updated>2022-06-06T15:37:06-06:00</updated>
     <author>
         <name>Adrian Mora</name>
     </author>
@@ -24,7 +24,7 @@
             <category term="Fedora 36"/>
             <category term="Fedora"/>
 
-        <updated>2022-06-06T15:33:43-06:00</updated>
+        <updated>2022-06-06T15:37:06-06:00</updated>
             <summary>
                 <![CDATA[
                     Qué hay de nuevo: * Correcciones para el fondo de YouTube * Correcciones para desplazamiento suave y enlaces de anclaje. * Solución para una situación en la que hay un espacio al comienzo del título de la página * Menú arreglado para Safari en Mobirise&hellip;
@@ -32,7 +32,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <div id="tw-target-text-container" class="tw-ta-container F0azHf tw-nfl align-right" tabindex="0">
+                <div id="tw-target-text-container" class="tw-ta-container F0azHf tw-nfl align-left" tabindex="0">
 <pre id="tw-target-text" class="tw-data-text tw-text-large tw-ta" dir="ltr" data-placeholder="Traducción"><span class="Y2IQFc" lang="es">Qué hay de nuevo:
 * Correcciones para el fondo de YouTube
 * Correcciones para desplazamiento suave y enlaces de anclaje.
@@ -42,7 +42,7 @@
 * El botón Exportar sitio se renombró a Exportar proyecto
 * Arreglos para la carga del proyecto</span></pre>
 </div>
-<div id="tw-target-rmn-container" class="tw-target-rmn tw-ta-container F0azHf tw-nfl">
+<div id="tw-target-rmn-container" class="tw-target-rmn tw-ta-container F0azHf tw-nfl align-left">
 <pre id="tw-target-text" class="tw-data-text tw-text-large tw-ta" dir="ltr" data-placeholder="Traducción"><span class="Y2IQFc" lang="es">Si tiene algún problema con sus proyectos, puede restaurarlos a través del Historial de proyectos:
 https://mobirise.com/help/project-history-465.html</span></pre>
 <pre id="tw-target-rmn" class="tw-data-placeholder tw-text-small tw-ta" dir="ltr" data-placeholder="">Enlace de Descarga: h<a href="https://itsyour.site/mobirise/mobirise-5.6.9-60.x86_64.rpm" title="Mobirise 5.6.9 Beta para Fedora 36" target="_blank" rel="noopener noreferrer">ttps://itsyour.site/mobirise/mobirise-5.6.9-60.x86_64.rpm</a></pre>
