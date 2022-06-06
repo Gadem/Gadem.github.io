@@ -3,7 +3,7 @@
     <title>Gadem&#x27;s Blog</title>
     <link href="https://Gadem.github.io/feed.xml" rel="self" />
     <link href="https://Gadem.github.io" />
-    <updated>2022-06-06T15:37:48-06:00</updated>
+    <updated>2022-06-06T15:40:37-06:00</updated>
     <author>
         <name>Adrian Mora</name>
     </author>
@@ -50,27 +50,33 @@
         </content>
     </entry>
     <entry>
-        <title>Hola Mundo</title>
+        <title>Bienvenidos a mi Blog</title>
         <author>
             <name>Adrian Mora</name>
         </author>
         <link href="https://Gadem.github.io/hola-mundo/"/>
         <id>https://Gadem.github.io/hola-mundo/</id>
+            <category term="Videojuegos"/>
             <category term="Tutoriales"/>
             <category term="Producción Musical"/>
             <category term="MMORPG"/>
             <category term="GNU/Linux"/>
             <category term="Fedora"/>
 
-        <updated>2022-06-06T15:11:33-06:00</updated>
+        <updated>2022-06-06T15:40:37-06:00</updated>
             <summary>
                 <![CDATA[
-                    Post de prueba
+                    Bienvenidos a mi Blog Me gusta tratar temas relacionados al Software Libre, GNU/Linux, Videojuegos, Producción Musical, Podcast, y mucho más.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Post de prueba</p>
+                <header class="hero__content">
+<div class="wrapper">
+<h1>Bienvenidos a mi Blog</h1>
+<p>Me gusta tratar temas relacionados al Software Libre, GNU/Linux, Videojuegos, Producción Musical, Podcast, y mucho más. </p>
+</div>
+</header>
             ]]>
         </content>
     </entry>
