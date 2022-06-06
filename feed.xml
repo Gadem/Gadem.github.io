@@ -3,7 +3,7 @@
     <title>Gadem&#x27;s Blog</title>
     <link href="https://Gadem.github.io/feed.xml" rel="self" />
     <link href="https://Gadem.github.io" />
-    <updated>2022-06-06T15:50:13-06:00</updated>
+    <updated>2022-06-06T15:54:27-06:00</updated>
     <author>
         <name>Adrian Mora (Gadem)</name>
     </author>
@@ -19,17 +19,20 @@
             <category term="Splashy"/>
             <category term="Software"/>
             <category term="RPM"/>
+            <category term="GNU/Linux"/>
             <category term="Fedora 36"/>
             <category term="Fedora"/>
 
-        <updated>2022-06-06T15:50:13-06:00</updated>
+        <updated>2022-06-06T15:52:25-06:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://Gadem.github.io/media/posts/3/Captura-desde-2022-06-06-15-52-14.png" alt="" />
                     Explore obras de arte diarias, desde fotografías hasta ilustraciones, cuidadosamente seleccionadas para usted. Splashy trae miles de fondos de pantalla cuidadosamente seleccionados y los convierte en colecciones. Se agregan nuevos fondos de pantalla cada semana y nuevas colecciones cada mes. Elija rápidamente su próximo fondo&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://Gadem.github.io/media/posts/3/Captura-desde-2022-06-06-15-52-14.png" alt="" />
                 <div id="tw-target-text-container" class="tw-ta-container F0azHf tw-nfl" tabindex="0">
 <pre class="tw-data-text tw-text-large tw-ta" dir="ltr" data-placeholder="Traducción"><span class="Y2IQFc" lang="es">Explore obras de arte diarias, desde fotografías hasta ilustraciones, cuidadosamente seleccionadas para usted.<br></span></pre>
 <div id="tw-target-text-container" class="tw-ta-container F0azHf tw-nfl" tabindex="0">
@@ -62,14 +65,16 @@
             <category term="Fedora 36"/>
             <category term="Fedora"/>
 
-        <updated>2022-06-06T15:43:24-06:00</updated>
+        <updated>2022-06-06T15:53:33-06:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://Gadem.github.io/media/posts/2/Captura-desde-2022-06-06-15-53-22.png" alt="" />
                     Qué hay de nuevo: * Correcciones para el fondo de YouTube * Correcciones para desplazamiento suave y enlaces de anclaje. * Solución para una situación en la que hay un espacio al comienzo del título de la página * Menú arreglado para Safari en Mobirise&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://Gadem.github.io/media/posts/2/Captura-desde-2022-06-06-15-53-22.png" alt="" />
                 <div id="tw-target-text-container" class="tw-ta-container F0azHf tw-nfl align-left" tabindex="0">
 <pre id="tw-target-text" class="tw-data-text tw-text-large tw-ta" dir="ltr" data-placeholder="Traducción"><span class="Y2IQFc" lang="es">Qué hay de nuevo:
 * Correcciones para el fondo de YouTube
@@ -96,12 +101,13 @@
         <id>https://Gadem.github.io/hola-mundo/</id>
             <category term="Videojuegos"/>
             <category term="Tutoriales"/>
+            <category term="SysAdmin"/>
             <category term="Producción Musical"/>
             <category term="MMORPG"/>
             <category term="GNU/Linux"/>
             <category term="Fedora"/>
 
-        <updated>2022-06-06T15:40:37-06:00</updated>
+        <updated>2022-06-06T15:54:27-06:00</updated>
             <summary>
                 <![CDATA[
                     Bienvenidos a mi Blog Me gusta tratar temas relacionados al Software Libre, GNU/Linux, Videojuegos, Producción Musical, Podcast, y mucho más.
