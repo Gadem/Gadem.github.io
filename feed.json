@@ -10,8 +10,8 @@
     },
     "items": [
         {
-            "id": "https://Gadem.github.io/hola-mundo.html",
-            "url": "https://Gadem.github.io/hola-mundo.html",
+            "id": "https://Gadem.github.io/hola-mundo/",
+            "url": "https://Gadem.github.io/hola-mundo/",
             "title": "Hola Mundo",
             "summary": "Post de prueba",
             "content_html": "<p>Post de prueba</p>",
@@ -19,13 +19,14 @@
                 "name": "Adrian Mora"
             },
             "tags": [
-                   "produccionmusical",
-                   "mmorpg",
-                   "gnulinux",
-                   "fedora"
+                   "Tutoriales",
+                   "Producción Musical",
+                   "MMORPG",
+                   "GNU/Linux",
+                   "Fedora"
             ],
             "date_published": "2022-06-06T15:00:51-06:00",
-            "date_modified": "2022-06-06T15:00:51-06:00"
+            "date_modified": "2022-06-06T15:11:33-06:00"
         }
     ]
 }
