@@ -1,12 +1,12 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Gadem Blog - Tencología, Software Libre, Producción Músical y Videojuegos",
+    "title": "Gadem&#x27;s Blog",
     "description": "",
     "home_page_url": "https://Gadem.github.io",
     "feed_url": "https://Gadem.github.io/feed.json",
     "user_comment": "",
     "author": {
-        "name": "Adrian Mora Jimenez"
+        "name": "Adrian Mora"
     },
     "items": [
     ]
