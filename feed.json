@@ -9,5 +9,23 @@
         "name": "Adrian Mora"
     },
     "items": [
+        {
+            "id": "https://Gadem.github.io/hola-mundo.html",
+            "url": "https://Gadem.github.io/hola-mundo.html",
+            "title": "Hola Mundo",
+            "summary": "Post de prueba",
+            "content_html": "<p>Post de prueba</p>",
+            "author": {
+                "name": "Adrian Mora"
+            },
+            "tags": [
+                   "produccionmusical",
+                   "mmorpg",
+                   "gnulinux",
+                   "fedora"
+            ],
+            "date_published": "2022-06-06T15:00:51-06:00",
+            "date_modified": "2022-06-06T15:00:51-06:00"
+        }
     ]
 }
