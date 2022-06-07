@@ -3,12 +3,67 @@
     <title>Gadem&#x27;s Blog</title>
     <link href="https://Gadem.github.io/feed.xml" rel="self" />
     <link href="https://Gadem.github.io" />
-    <updated>2022-06-06T17:44:36-06:00</updated>
+    <updated>2022-06-06T19:44:37-06:00</updated>
     <author>
         <name>Adrian Mora (Gadem)</name>
     </author>
     <id>https://Gadem.github.io</id>
 
+    <entry>
+        <title>aaPanel, una alternativa a cPanel gratuito y Open Source</title>
+        <author>
+            <name>Adrian Mora (Gadem)</name>
+        </author>
+        <link href="https://Gadem.github.io/aapanel-una-alternativa-a-cpanel-gratuito-y-open-source/"/>
+        <id>https://Gadem.github.io/aapanel-una-alternativa-a-cpanel-gratuito-y-open-source/</id>
+
+        <updated>2022-06-06T19:44:37-06:00</updated>
+            <summary>
+                <![CDATA[
+                    En el siguiente artículo vamos a echar un vistazo a aaPanel. Este es un panel de control de servidor gratuito y de código abierto, que es simple y liviano. Con este software podremos administrar servidores en un entorno de alojamiento web. Aquí tendremos la posibilidad&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>En el siguiente artículo vamos a echar un vistazo a aaPanel. Este es un panel de control de servidor gratuito y de código abierto, que es simple y liviano. Con este software podremos administrar servidores en un entorno de alojamiento web. Aquí tendremos la posibilidad de administrar y controlar dominios, SSL, bases de datos MySQL y otras funciones del alojamiento web. En las siguientes líneas, vamos a ver cómo instalar este software en Ubuntu.</p>
+<p>aaPanel también se ejecuta con buenos resultado en servidores de bajos recursos. Este software nos ofrecer a los usuarios un panel de control simple pero poderoso, el cual nos va a permitir administrar el servidor web a través de una GUI (interfaz gráfica de usuario) basada en la web.</p>
+<p>aaPanel proporciona la función de instalación con un solo clic, y gracias a esta dispondremos de la posibilidad de instalar con un solo clic el entorno de desarrollo y el software LNMP / LAMP. Con este instalador automático, se pueden instalar diferentes aplicaciones con un solo clic. Su objetivo principal es ayudar a los usuarios a ahorrar tiempo de implementación, para que se centren en su propio proyecto.</p>
+<figure class="post__image"><img loading="lazy"  src="https://Gadem.github.io/media/posts/4/aapanel_375517_full.webp" sizes="100vw" srcset="https://Gadem.github.io/media/posts/4/responsive/aapanel_375517_full-xs.webp 300w ,https://Gadem.github.io/media/posts/4/responsive/aapanel_375517_full-sm.webp 480w ,https://Gadem.github.io/media/posts/4/responsive/aapanel_375517_full-md.webp 768w ,https://Gadem.github.io/media/posts/4/responsive/aapanel_375517_full-lg.webp 1024w ,https://Gadem.github.io/media/posts/4/responsive/aapanel_375517_full-xl.webp 1360w ,https://Gadem.github.io/media/posts/4/responsive/aapanel_375517_full-2xl.webp 1600w"  alt="aaPanel" width="1143" height="627"></figure>
+<h2><span id="Caracteristicas_generales_de_aaPanel">Características generales de aaPanel</span></h2>
+<ul>
+<li>El concepto de<strong> desarrollo modular</strong> que utiliza aaPanel, permite que los usuarios tan solo instalemos las extensiones que nos interesen.</li>
+<li>Permite la<strong> monitorización de los recursos</strong>. Podremos supervisar la ocupación de los recursos de nuestro servidor en tiempo real, lo que nos permitirá comprender mejor su capacidad de carga.</li>
+<li>El panel<strong> proporciona una puerta de enlace antispam gratuita</strong>, Nginx WAF, recordatorio de inicio de sesión SSH y extensión de seguridad del firewall del sistema, entre otras cosas.</li>
+<li>Dispone de un potente <strong>editor en línea</strong>. aaPanel añade un poderoso editor en línea, combinado con el administrador de archivos.</li>
+<li>Además de todo esto, este software nos va a permitir <strong>trabajar con; dominios web, dominios DNS, dominios de correo, bases de datos, CRON, directorios de usuarios y más</strong>.</li>
+</ul>
+<p>Este programa <strong>cuenta con una versión gratuita y otras de pago</strong>. En la versión gratuita encontraremos un buen puñado de opciones disponibles, aun que en las versiones de pago, como es lógico, encontraremos más opciones. Todas las características disponibles de la versión gratuita se pueden consultar en la <a title="Página web de aaPanel" href="https://www.aapanel.com/product_buy.html" target="_blank" rel="nofollow noopener">página web del proyecto</a>.</p>
+<h2><span id="Instalar_aaPanel_en_Ubuntu">Instalar aaPanel en Ubuntu</span></h2>
+<p>Para <strong>instalar aaPanel en Ubuntu</strong>, vamos a abrir una terminal (Ctrl+Alt+T) y a ejecutar los siguientes comandos para comenzar la instalación:</p>
+<figure class="post__image"><img loading="lazy"  src="https://Gadem.github.io/media/posts/4/Captura-desde-2022-06-06-19-36-48.png" sizes="100vw" srcset="https://Gadem.github.io/media/posts/4/responsive/Captura-desde-2022-06-06-19-36-48-xs.png 300w ,https://Gadem.github.io/media/posts/4/responsive/Captura-desde-2022-06-06-19-36-48-sm.png 480w ,https://Gadem.github.io/media/posts/4/responsive/Captura-desde-2022-06-06-19-36-48-md.png 768w ,https://Gadem.github.io/media/posts/4/responsive/Captura-desde-2022-06-06-19-36-48-lg.png 1024w ,https://Gadem.github.io/media/posts/4/responsive/Captura-desde-2022-06-06-19-36-48-xl.png 1360w ,https://Gadem.github.io/media/posts/4/responsive/Captura-desde-2022-06-06-19-36-48-2xl.png 1600w"  alt="aaPanel Install Ubuntu" width="1300" height="523"></figure>
+<p>Después de ejecutar los comandos anteriores,<strong> aaPanel empezará a descargar y a ejecutar todos los paquetes para instalarlos</strong>. Cuando termine la instalación, deberíamos ver en la terminal un mensaje similar al siguiente, en el que se nos mostrará la URL y los datos de acceso (<em>nombre de usuario y contraseña</em>).</p>
+<figure class="post__image"><img loading="lazy"  src="https://Gadem.github.io/media/posts/4/aapanellogin.png" sizes="100vw" srcset="https://Gadem.github.io/media/posts/4/responsive/aapanellogin-xs.png 300w ,https://Gadem.github.io/media/posts/4/responsive/aapanellogin-sm.png 480w ,https://Gadem.github.io/media/posts/4/responsive/aapanellogin-md.png 768w ,https://Gadem.github.io/media/posts/4/responsive/aapanellogin-lg.png 1024w ,https://Gadem.github.io/media/posts/4/responsive/aapanellogin-xl.png 1360w ,https://Gadem.github.io/media/posts/4/responsive/aapanellogin-2xl.png 1600w"  alt="" width="1024" height="181"></figure>
+<p>Cuando terminemos con los pasos anteriores, tan solo tendremos que <strong>abrir nuestro navegador web y escribir la URL de acceso que aparece en el mensaje en el que nos avisaba de la instalación exitosa</strong>. Será necesario reemplazar la dirección IP del ejemplo con la dirección de tu servidor.</p>
+<p><a href="http://midireccionip:7800">http://midireccionip:7800/clavedeseguridad</a> (Puerto 7800)</p>
+<p>En la pantalla que vamos a ver, <strong>iniciaremos sesión con los datos de acceso de acceso que obtuvimos al finalizar la instalación</strong>. Cuando iniciemos sesión, se nos pedirá que elijamos el entorno para ejecutar con aaPanel. Las opciones son:</p>
+<figure class="post__image"><img loading="lazy"  src="https://Gadem.github.io/media/posts/4/seleccion-lamp-lnmp-1024x469.png" sizes="100vw" srcset="https://Gadem.github.io/media/posts/4/responsive/seleccion-lamp-lnmp-1024x469-xs.png 300w ,https://Gadem.github.io/media/posts/4/responsive/seleccion-lamp-lnmp-1024x469-sm.png 480w ,https://Gadem.github.io/media/posts/4/responsive/seleccion-lamp-lnmp-1024x469-md.png 768w ,https://Gadem.github.io/media/posts/4/responsive/seleccion-lamp-lnmp-1024x469-lg.png 1024w ,https://Gadem.github.io/media/posts/4/responsive/seleccion-lamp-lnmp-1024x469-xl.png 1360w ,https://Gadem.github.io/media/posts/4/responsive/seleccion-lamp-lnmp-1024x469-2xl.png 1600w"  alt="Selección LAMP o Nginx" width="1024" height="469"></figure>
+<ul>
+<li>Nginx con MySQL y PHP (LNMP)</li>
+<li>Apache y MySQL y PHP (LAMP)</li>
+</ul>
+<p>Para este ejemplo opté por instalar LNMP, ya que es el recomendado. El programa descargó e instaló los paquetes necesarios. <em>Esto puede tomar cierto tiempo</em>.<br><span style="color: #e03e2d;">(SI YA CUENTAS CON UN LAMP INSTALADO EN TU SISTEMA, ESTE PASO PUEDE ROMPER TU INSTALACIÓN)</span></p>
+<figure class="post__image"><img loading="lazy"  src="https://Gadem.github.io/media/posts/4/pantalla-inicio-aapanel-1024x469.png" sizes="100vw" srcset="https://Gadem.github.io/media/posts/4/responsive/pantalla-inicio-aapanel-1024x469-xs.png 300w ,https://Gadem.github.io/media/posts/4/responsive/pantalla-inicio-aapanel-1024x469-sm.png 480w ,https://Gadem.github.io/media/posts/4/responsive/pantalla-inicio-aapanel-1024x469-md.png 768w ,https://Gadem.github.io/media/posts/4/responsive/pantalla-inicio-aapanel-1024x469-lg.png 1024w ,https://Gadem.github.io/media/posts/4/responsive/pantalla-inicio-aapanel-1024x469-xl.png 1360w ,https://Gadem.github.io/media/posts/4/responsive/pantalla-inicio-aapanel-1024x469-2xl.png 1600w"  alt="Pantalla de Inicio aaPanel" width="1024" height="469"></figure>
+<p>Una vez hecho todo, ya <strong>podemos comenzar a configurar el entorno de trabajo</strong>.</p>
+<h3><span id="Desinstalar">Desinstalar</span></h3>
+<p>Según indican en los <a title="¿Cómo desinstalar aaPanel?" href="https://forum.aapanel.com/d/43-how-to-uninstall-the-aapanel-from-my-ubuntu" target="_blank" rel="nofollow noopener">foros</a>, <strong>se puede utilizar la siguiente secuencia de comandos para desinstalar aaPanel de Ubuntu</strong>. Tan solo es necesario escribir en una terminal (Ctrl+Alt+T):</p>
+<blockquote>
+<p>sudo bt stop &amp;&amp;sudo update-rc.d -f bt remove &amp;&amp;sudo rm -f /etc/init.d/bt &amp;&amp;sudo rm -rf /www/server/panel</p>
+</blockquote>
+<p>En este pequeño artículo, acabamos de ver cómo instalar aaPanel en un sistema Ubuntu 20.04. Si necesitas una plataforma de control de alojamiento que esté diseñada para la velocidad, la seguridad y la estabilidad, entonces puede que te resulte interesante probar la plataforma de control de host aaPanel. Para obtener más información sobre este software, <strong>los usuarios podemos dirigirnos a la <a title="Página web de aaPanel" href="https://www.aapanel.com" target="_blank" rel="nofollow noopener">página web del proyecto</a> o recibir soporte en los <a title="Foros de aaPanel" href="https://forum.aapanel.com/t/official" target="_blank" rel="nofollow noopener">foros</a></strong>.</p>
+<p>Fuente: <a href="https://ubunlog.com/aapanel-panel-control-hosting-gratuito-codigo-abierto/#Instalar_aaPanel_en_Ubuntu" title="Fuente de la entrada" target="_blank" rel="noopener noreferrer">https://ubunlog.com/aapanel-panel-control-hosting-gratuito-codigo-abierto/#Instalar_aaPanel_en_Ubuntu</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Splashy Desktop 2.0.1-2 para Fedora 36 (Distros RPM) </title>
         <author>
