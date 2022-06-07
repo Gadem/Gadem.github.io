@@ -3,7 +3,7 @@
     <title>Gadem&#x27;s Blog</title>
     <link href="https://Gadem.github.io/feed.xml" rel="self" />
     <link href="https://Gadem.github.io" />
-    <updated>2022-06-06T19:44:37-06:00</updated>
+    <updated>2022-06-06T19:47:06-06:00</updated>
     <author>
         <name>Adrian Mora (Gadem)</name>
     </author>
@@ -16,15 +16,23 @@
         </author>
         <link href="https://Gadem.github.io/aapanel-una-alternativa-a-cpanel-gratuito-y-open-source/"/>
         <id>https://Gadem.github.io/aapanel-una-alternativa-a-cpanel-gratuito-y-open-source/</id>
+            <category term="cPanel"/>
+            <category term="aaPanel"/>
+            <category term="Ubuntu"/>
+            <category term="Tutoriales"/>
+            <category term="SysAdmin"/>
+            <category term="GNU/Linux"/>
 
-        <updated>2022-06-06T19:44:37-06:00</updated>
+        <updated>2022-06-06T19:47:06-06:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://Gadem.github.io/media/posts/4/Captura-desde-2022-06-06-19-36-48-2.png" alt="aaPanel, una alternativa gratuita a cPanel" />
                     En el siguiente artículo vamos a echar un vistazo a aaPanel. Este es un panel de control de servidor gratuito y de código abierto, que es simple y liviano. Con este software podremos administrar servidores en un entorno de alojamiento web. Aquí tendremos la posibilidad&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://Gadem.github.io/media/posts/4/Captura-desde-2022-06-06-19-36-48-2.png" alt="aaPanel, una alternativa gratuita a cPanel" />
                 <p>En el siguiente artículo vamos a echar un vistazo a aaPanel. Este es un panel de control de servidor gratuito y de código abierto, que es simple y liviano. Con este software podremos administrar servidores en un entorno de alojamiento web. Aquí tendremos la posibilidad de administrar y controlar dominios, SSL, bases de datos MySQL y otras funciones del alojamiento web. En las siguientes líneas, vamos a ver cómo instalar este software en Ubuntu.</p>
 <p>aaPanel también se ejecuta con buenos resultado en servidores de bajos recursos. Este software nos ofrecer a los usuarios un panel de control simple pero poderoso, el cual nos va a permitir administrar el servidor web a través de una GUI (interfaz gráfica de usuario) basada en la web.</p>
 <p>aaPanel proporciona la función de instalación con un solo clic, y gracias a esta dispondremos de la posibilidad de instalar con un solo clic el entorno de desarrollo y el software LNMP / LAMP. Con este instalador automático, se pueden instalar diferentes aplicaciones con un solo clic. Su objetivo principal es ayudar a los usuarios a ahorrar tiempo de implementación, para que se centren en su propio proyecto.</p>
