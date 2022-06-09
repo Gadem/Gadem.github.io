@@ -3,12 +3,49 @@
     <title>Gadem&#x27;s Blog</title>
     <link href="https://Gadem.github.io/feed.xml" rel="self" />
     <link href="https://Gadem.github.io" />
-    <updated>2022-06-08T15:49:16-06:00</updated>
+    <updated>2022-06-08T20:40:47-06:00</updated>
     <author>
         <name>Adrian Mora (Gadem)</name>
     </author>
     <id>https://Gadem.github.io</id>
 
+    <entry>
+        <title>Contribuya en la semana de prueba de Fedora Linux 37 para Kernel 5.18 </title>
+        <author>
+            <name>Adrian Mora (Gadem)</name>
+        </author>
+        <link href="https://Gadem.github.io/contribuya-en-la-semana-de-prueba-de-fedora-linux-37-para-kernel-518/"/>
+        <id>https://Gadem.github.io/contribuya-en-la-semana-de-prueba-de-fedora-linux-37-para-kernel-518/</id>
+            <category term="Test Day"/>
+            <category term="Noticias"/>
+            <category term="GNU/Linux"/>
+            <category term="Fedora"/>
+
+        <updated>2022-06-08T20:40:47-06:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://Gadem.github.io/media/posts/7/test-days-816x345.jpg" alt="Fedora Test Days" />
+                    El equipo del kernel está trabajando en la integración final para el kernel de Linux 5.18. Esta versión se lanzó&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://Gadem.github.io/media/posts/7/test-days-816x345.jpg" alt="Fedora Test Days" />
+                <p><span>El equipo del kernel está trabajando en la integración final para el kernel de Linux 5.18. Esta versión se lanzó recientemente y llegará pronto a Fedora. Como resultado, el kernel de Fedora y los equipos de control de calidad organizaron una semana de prueba hasta </span><strong><span>el domingo 12 de junio de 2022.</span></strong><span> Consulte la <a href="https://translate.google.com/website?sl=auto&amp;tl=es&amp;hl=es&amp;client=webapp&amp;u=http://fedoraproject.org/wiki/Test_Day:2022-06-05_Kernel_5.18_Test_Week">página </a></span><a href="https://translate.google.com/website?sl=auto&amp;tl=es&amp;hl=es&amp;client=webapp&amp;u=http://fedoraproject.org/wiki/Test_Day:2022-06-05_Kernel_5.18_Test_Week" target="_blank" rel="noreferrer noopener"><span>wiki</span></a><span> para obtener enlaces a las imágenes de prueba que necesitará para participar. Lea a continuación para obtener más detalles.</span><a href="https://translate.google.com/website?sl=auto&amp;tl=es&amp;hl=es&amp;client=webapp&amp;u=http://fedoraproject.org/wiki/Test_Day:2022-06-05_Kernel_5.18_Test_Week"></a></p>
+<p><span id="more-36556"></span></p>
+<h2><span><span class="">¿Cómo funciona una semana de prueba?</span></span></h2>
+<p><span>Una semana de prueba es un evento en el que cualquiera puede ayudar a asegurarse de que los cambios en Fedora funcionen bien en una próxima versión. Los miembros de la comunidad de Fedora suelen participar y el público es bienvenido en estos eventos. Si nunca ha contribuido antes, esta es una manera perfecta de comenzar.</span></p>
+<p><span>Para contribuir, solo necesita poder hacer lo siguiente:</span></p>
+<ul>
+<li><span>Descargar materiales de prueba, que incluyen algunos archivos grandes</span></li>
+<li><span>Lea y siga las instrucciones paso a paso</span></li>
+</ul>
+<p><span>La  </span><a href="https://translate.google.com/website?sl=auto&amp;tl=es&amp;hl=es&amp;client=webapp&amp;u=http://fedoraproject.org/wiki/Test_Day:2022-06-05_Kernel_5.18_Test_Week" target="_blank" rel="noreferrer noopener"><span>página wiki</span></a><span>  para el día de la prueba del kernel tiene mucha información buena sobre qué y cómo probar. Después de realizar algunas pruebas, puede registrar sus resultados en la  <a href="https://translate.google.com/website?sl=auto&amp;tl=es&amp;hl=es&amp;client=webapp&amp;u=https://testdays.fedoraproject.org/events/136" target="_blank" rel="noreferrer noopener">aplicación </a></span><a href="https://translate.google.com/website?sl=auto&amp;tl=es&amp;hl=es&amp;client=webapp&amp;u=https://testdays.fedoraproject.org/events/136"><span>web</span></a><span> del día de la prueba . Si está disponible el día del evento o alrededor de esa fecha, realice algunas pruebas e informe sus resultados. Tenemos un documento que proporciona  <a href="https://translate.google.com/website?sl=auto&amp;tl=es&amp;hl=es&amp;client=webapp&amp;u=https://docs.fedoraproject.org/en-US/quick-docs/kernel/howto-kernel-testday/" target="_blank" rel="noreferrer noopener">todos los pasos</a> por  escrito.</span><a href="https://translate.google.com/website?sl=auto&amp;tl=es&amp;hl=es&amp;client=webapp&amp;u=https://testdays.fedoraproject.org/events/136" target="_blank" rel="noreferrer noopener"></a><a href="https://translate.google.com/website?sl=auto&amp;tl=es&amp;hl=es&amp;client=webapp&amp;u=https://docs.fedoraproject.org/en-US/quick-docs/kernel/howto-kernel-testday/" target="_blank" rel="noreferrer noopener"></a></p>
+<p><span>Felices pruebas, y esperamos verte el día de la prueba.</span></p>
+<p><a href="https://fedoramagazine.org/contribute-at-the-fedora-linux-37-test-week-for-kernel-5-18/" title="Fuente" target="_blank" rel="noopener noreferrer">Fuente: https://fedoramagazine.org/contribute-at-the-fedora-linux-37-test-week-for-kernel-5-18/</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Política de Privacidad</title>
         <author>
