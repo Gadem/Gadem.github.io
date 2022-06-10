@@ -10,6 +10,25 @@
     },
     "items": [
         {
+            "id": "https://Gadem.github.io/github-jubila-el-editor-de-texto-atom-para-centrarse-en-vscode-en-su-lugar/",
+            "url": "https://Gadem.github.io/github-jubila-el-editor-de-texto-atom-para-centrarse-en-vscode-en-su-lugar/",
+            "title": "Github jubila el editor de texto Atom  para centrarse en VSCode en su lugar",
+            "summary": "¿Alguien por ahí todavía usa el editor de texto Atom de GitHub? Si es así, tengo malas noticias para impactar:&hellip;",
+            "content_html": "<p><strong><span>¿Alguien por ahí todavía usa el editor de texto Atom de GitHub?</span></strong></p>\n<p><span>Si es así, tengo malas noticias para impactar: ​​¡se está descontinuando! Oh, lo sé: precisamente </span><em><span>nadie que</span></em><span> lea esto está sorprendido por la noticia, aunque sospecho que más de uno se entristecerá.</span></p>\n<p><span>GitHub fue adquirido por Microsoft hace unos años. Dado que Microsoft tiene su propio editor de texto basado en Electron en VSCode, era probable, si no inevitable, que se eligiera uno y el otro fuera enlatado.</span></p>\n<p><span><span class=\"\">No para disminuir Atom de ninguna manera, pero VSCode de los dos editores es, con mucho, el más popular y ampliamente utilizado. </span>Diablos, incluso yo uso VSCode de vez en cuando (aunque yo mismo prefiero el nuevo editor de texto de GNOME).</span></p>\n<p><em><span><span class=\"\">“Hoy, estamos anunciando que vamos a cerrar Atom y archivaremos todos los proyectos bajo la organización el 15 de diciembre de 2022”, </span></span></em> <a href=\"https://translate.google.com/website?sl=auto&amp;tl=es&amp;hl=es&amp;client=webapp&amp;u=https://github.blog/2022-06-08-sunsetting-atom/\" target=\"_blank\" rel=\"noreferrer noopener\"><span><span class=\"\">ha anunciado GitHub</span></span></a><span><span class=\"\"> . </span>Atom ha seguido recibiendo actualizaciones de mantenimiento y seguridad en los últimos años pero, como señala GitHub, el \"desarrollo de características significativas\" se ha estancado.</span></p>\n<p><span>Por desgracia, y lo que es igual de importante, también lo ha sido la participación de la comunidad en el proyecto, el elemento vital de cualquier código abierto.</span></p>\n<p><span>Como resultado, GitHub dice que ha decidido </span><em><span>\"... retirar Atom para promover nuestro compromiso de llevar el desarrollo de software rápido y confiable a la nube a través de Microsoft Visual Studio Code y GitHub Codespaces\".</span></em></p>\n<p><span>Atom no vivirá como editor de texto, pero aún deja un legado bastante grande, a saber, Electron. Sí, el marco de habilitación de aplicaciones multiplataforma que muchos odian por su naturaleza de agregar recursos está en uso en cientos de millones de usuarios de computadoras todos los días, pero sus raíces están en Atom. De hecho, Electron se llamó originalmente 'Atom Shell'.</span></p>\n<p><span>¿Y ahora qué?</span></p>\n<p><span>Bueno, si usted o alguien que conoce está usando Atom, no necesita entrar en pánico, </span><em><span>todavía</span></em><span> no .</span></p>\n<p><span>Atom seguirá funcionando bien en lo previsible. Pero durante los próximos seis meses, los usuarios verán notificaciones en la aplicación de que la aplicación está por salir. El 15 de diciembre de 2022, los (muchos) repositorios relacionados con Atom en Github se archivarán y el </span><a href=\"https://translate.google.com/website?sl=auto&amp;tl=es&amp;hl=es&amp;client=webapp&amp;u=https://atom.io/\" target=\"_blank\" rel=\"noreferrer noopener\"><span>sitio web oficial de atom.io</span></a><span> (presuntamente) quedará suspendido.</span></p>",
+            "image": "https://Gadem.github.io/media/posts/9/screenshot-of-atom-text-editor-on-ubuntu-22.04.jpg",
+            "author": {
+                "name": "Adrian Mora (Gadem)"
+            },
+            "tags": [
+                   "VScode",
+                   "Ubuntu",
+                   "Noticias",
+                   "Atom"
+            ],
+            "date_published": "2022-06-09T21:52:58-06:00",
+            "date_modified": "2022-06-09T21:52:58-06:00"
+        },
+        {
             "id": "https://Gadem.github.io/albion-online-parche-into-the-fray/",
             "url": "https://Gadem.github.io/albion-online-parche-into-the-fray/",
             "title": "Albion Online Parche: Into the Fray",
