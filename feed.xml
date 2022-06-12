@@ -3,7 +3,7 @@
     <title>Gadem&#x27;s Blog</title>
     <link href="https://Gadem.github.io/feed.xml" rel="self" />
     <link href="https://Gadem.github.io" />
-    <updated>2022-06-12T16:46:01-06:00</updated>
+    <updated>2022-06-12T16:49:37-06:00</updated>
     <author>
         <name>Adrian Mora (Gadem)</name>
     </author>
@@ -25,7 +25,7 @@
             <category term="Flatpack App"/>
             <category term="Descargas"/>
 
-        <updated>2022-06-12T16:46:01-06:00</updated>
+        <updated>2022-06-12T16:49:37-06:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://Gadem.github.io/media/posts/10/Captura-desde-2022-06-12-16-38-16.png" alt="" />
@@ -37,13 +37,14 @@
                     <img src="https://Gadem.github.io/media/posts/10/Captura-desde-2022-06-12-16-38-16.png" alt="" />
                 <p><strong>Si está buscando una aplicación para tomar notas para Linux, querrá consultar <a href="https://translate.google.com/website?sl=auto&amp;tl=es&amp;hl=es&amp;client=webapp&amp;u=https://posidon.io/paper/" target="_blank" rel="noreferrer noopener">Paper</a> .</strong></p>
 <p><em>Paper</em> es una aplicación GTK moderna que <a href="https://translate.google.com/website?sl=auto&amp;tl=es&amp;hl=es&amp;client=webapp&amp;u=https://gitlab.com/posidon_software/paper" target="_blank" rel="noreferrer noopener">se presenta a sí misma</a> como una 'hermosa aplicación para tomar notas para GNOME', ¡y lo es! Estar basado en Markdown significa que la aplicación es compatible con el formato de texto, la adición de enlaces, el resaltado de secciones de texto, la inserción de bloques de código y más, desde el primer momento.</p>
-<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/10/Captura-desde-2022-06-12-16-45-33.png" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/10/responsive/Captura-desde-2022-06-12-16-45-33-xs.png 384w ,https://Gadem.github.io/media/posts/10/responsive/Captura-desde-2022-06-12-16-45-33-sm.png 600w ,https://Gadem.github.io/media/posts/10/responsive/Captura-desde-2022-06-12-16-45-33-md.png 768w ,https://Gadem.github.io/media/posts/10/responsive/Captura-desde-2022-06-12-16-45-33-lg.png 1200w ,https://Gadem.github.io/media/posts/10/responsive/Captura-desde-2022-06-12-16-45-33-xl.png 1600w"  alt="Paper App" width="904" height="617"></figure>
-<p>Ahora, me clasifico más como un tomador de notas casual. Utilizo aplicaciones como esta para recopilar ideas que tengo para futuras publicaciones, comandos de terminal que debo recordar y... Bueno, mantente al tanto de mi colección de juguetes He-Man.</p>
+<p> </p>
+<p>Ahora, me clasifico más como un tomador de notas casual. Utilizo aplicaciones como esta para recopilar ideas que tengo para futuras publicaciones, comandos de terminal que debo recordar.</p>
 <p>Necesidades básicas para tomar notas, por así decirlo. No estoy en la universidad haciendo un título que necesita citas, referencias, cálculos, clasificación jerárquica y otras opciones "avanzadas". Para tomar notas serias, lo mejor es un servicio, una aplicación y/o una plataforma más establecidos.</p>
-<p>Pero para las necesidades diarias? El papel es el billete.</p>
-<h2>Funciones en Paper, la aplicación GTK Notes</h2>
-<p>Paper te permite <strong>crear cuadernos</strong> (carpetas, por así decirlo) donde viven las notas. Cuando crea un nuevo cuaderno en Paper (a través del menú o el atajo <code>shift</code>++ <code>ctrl</code>) <code>n</code>, puede nombrarlo, establecer un color para denotarlo (que se muestra en la barra lateral) y elegir el esquema de 'nombramiento' que aparece en la portada ( o utilice un icono en su lugar).</p>
+<p>¿Pero para las necesidades diarias? ¿Es Paper tu app para notas?</p>
+<h2>Funciones de la aplicación GTK Paper.</h2>
+<p>Paper te permite <strong>crear cuadernos</strong> (carpetas, por así decirlo) donde viven las notas. Cuando crea un nuevo cuaderno en Paper (a través del menú o el atajo <code>shift</code>+ <code>ctrl + N</code>) , puede nombrarlo, establecer un color para denotarlo (que se muestra en la barra lateral) y elegir el esquema de 'nombramiento' que aparece en la portada ( o utilice un icono en su lugar).</p>
 <p>Si observa la captura de pantalla a continuación, verá varios cuadernos visibles en la franja en el lado izquierdo de la ventana de la aplicación. Las 'cubiertas' de estos cuadernos son todas diferentes. Algunos tienen nombres, algunos tienen iconos, todos tienen diferentes colores.</p>
+<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/10/Captura-desde-2022-06-12-16-45-33.png" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/10/responsive/Captura-desde-2022-06-12-16-45-33-xs.png 384w ,https://Gadem.github.io/media/posts/10/responsive/Captura-desde-2022-06-12-16-45-33-sm.png 600w ,https://Gadem.github.io/media/posts/10/responsive/Captura-desde-2022-06-12-16-45-33-md.png 768w ,https://Gadem.github.io/media/posts/10/responsive/Captura-desde-2022-06-12-16-45-33-lg.png 1200w ,https://Gadem.github.io/media/posts/10/responsive/Captura-desde-2022-06-12-16-45-33-xl.png 1600w"  alt="Paper App" width="904" height="617"></figure>
 <p>Además de poder crear cuadernos separados, también <strong>puede crear fácilmente notas</strong> dentro de los cuadernos.</p>
 <p>Paper <strong>admite Markdown</strong> de forma nativa (aunque los botones WYSIWG para acciones comunes como negrita, tachado, encabezados, enlaces, etc. se encuentran en la barra de herramientas en la parte inferior de la ventana de edición de notas), por lo que puede agregar la mayoría de los formatos de texto en línea con los elementos representados en la pantalla cuando esté completo. (similar a <em>Typora</em> y <em>Mark Text</em> ).</p>
 <p>El color de la opción de formato de resaltado cambiará entre las notas, ya que se deriva del color de la cubierta del cuaderno.</p>
