@@ -3,12 +3,62 @@
     <title>Gadem&#x27;s Blog</title>
     <link href="https://Gadem.github.io/feed.xml" rel="self" />
     <link href="https://Gadem.github.io" />
-    <updated>2022-06-19T19:15:32-06:00</updated>
+    <updated>2022-06-20T14:16:08-06:00</updated>
     <author>
         <name>Adrian Mora (Gadem)</name>
     </author>
     <id>https://Gadem.github.io</id>
 
+    <entry>
+        <title>LANZAMIENTO: Manjaro Linux 21.3.0 </title>
+        <author>
+            <name>Adrian Mora (Gadem)</name>
+        </author>
+        <link href="https://Gadem.github.io/lanzamiento-manjaro-linux-2130/"/>
+        <id>https://Gadem.github.io/lanzamiento-manjaro-linux-2130/</id>
+            <category term="XFCE"/>
+            <category term="Software Libre"/>
+            <category term="Plasma"/>
+            <category term="Open-Source"/>
+            <category term="Noticias"/>
+            <category term="Manjaro"/>
+            <category term="Lanzamiento"/>
+            <category term="KDE"/>
+            <category term="Gnome"/>
+            <category term="GNU/Linux"/>
+            <category term="Distribucion"/>
+
+        <updated>2022-06-20T14:16:08-06:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://Gadem.github.io/media/posts/14/Captura-desde-2022-06-20-14-11-39.png" alt="Manjaro 21.3.0" />
+                    Philip Müller ha anunciado el lanzamiento de Manjaro Linux 21.3.0, la última versión estable de la distribución de lanzamiento continuo&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://Gadem.github.io/media/posts/14/Captura-desde-2022-06-20-14-11-39.png" alt="Manjaro 21.3.0" />
+                <p><span><span class="">Philip Müller ha anunciado el lanzamiento de </span></span><a href="https://distrowatch-com.translate.goog/manjaro?_x_tr_sl=auto&amp;_x_tr_tl=es&amp;_x_tr_hl=es&amp;_x_tr_pto=wapp"><span><span class="">Manjaro</span></span></a><span><span class=""> Linux 21.3.0, la última versión estable de la distribución de lanzamiento continuo del proyecto que ofrece una selección de escritorios KDE Plasma, Xfce y GNOME. </span>Esta versión incluye la versión 3.2 del instalador de Calamares. "</span><span class="Quote"><span>Manjaro 21.3.0 'Ruah' lanzado. Desde que lanzamos 'Qonos' a fines del año pasado, nuestro equipo de desarrolladores trabajó arduamente para lanzar la próxima versión de Manjaro. Lo llamamos 'Ruah'. Esta versión presenta la versión final de Calamares 3.2. El módulo de partición obtuvo más soporte para las particiones LUKS. El módulo de usuarios ahora tiene listas de nombres de inicio de sesión y nombres de host prohibidos, para evitar configuraciones que arruinen la instalación. La edición de GNOME ha recibido una importante actualización de GNOME 42. Ha llegado una nueva preferencia de estilo de interfaz de usuario oscuro global. Esto se puede usar para solicitar que las aplicaciones usen un estilo de interfaz de usuario oscuro en lugar de claro. La nueva configuración se puede encontrar en el nuevo panel Apariencia en la aplicación Configuración, y la siguen la mayoría de las aplicaciones de GNOME. </span></span><span>"</span><a href="https://translate.google.com/website?sl=auto&amp;tl=es&amp;hl=es&amp;client=webapp&amp;u=https://forum.manjaro.org/t/manjaro-21-3-0-ruah-released/114220"></a><a href="https://translate.google.com/website?sl=auto&amp;tl=es&amp;hl=es&amp;client=webapp&amp;u=https://manjaro.org/download/"><span>Descarga</span></a><span> ( </span><a href="https://distrowatch-com.translate.goog/table.php?distribution=manjaro&amp;pkglist=true&amp;version=21.3.0&amp;_x_tr_sl=auto&amp;_x_tr_tl=es&amp;_x_tr_hl=es&amp;_x_tr_pto=wapp#pkglist"><span>pkglist</span></a><span> ): </span><a href="https://translate.google.com/website?sl=auto&amp;tl=es&amp;hl=es&amp;client=webapp&amp;u=https://download.manjaro.org/kde/21.3.0/manjaro-kde-21.3.0-220617-linux515.iso"><span>manjaro-kde-21.3.0-220617-linux515.iso</span></a><span> (3524 MB, </span><a href="https://translate.google.com/website?sl=auto&amp;tl=es&amp;hl=es&amp;client=webapp&amp;u=https://download.manjaro.org/kde/21.3.0/manjaro-kde-21.3.0-220617-linux515.iso.sha256"><span>SHA256</span></a><span> , </span><a href="https://translate.google.com/website?sl=auto&amp;tl=es&amp;hl=es&amp;client=webapp&amp;u=https://download.manjaro.org/kde/21.3.0/manjaro-kde-21.3.0-220617-linux515.iso.sig"><span>firma</span></a><span> , </span><a href="https://translate.google.com/website?sl=auto&amp;tl=es&amp;hl=es&amp;client=webapp&amp;u=https://download.manjaro.org/kde/21.3.0/manjaro-kde-21.3.0-220617-linux515.iso.torrent"><span>torrent</span></a><span> ), </span><a href="https://translate.google.com/website?sl=auto&amp;tl=es&amp;hl=es&amp;client=webapp&amp;u=https://download.manjaro.org/xfce/21.3.0/manjaro-xfce-21.3.0-220617-linux515.iso"><span>manjaro-xfce-21.3.0-220617-linux515.iso</span></a><span> (3287 MB, </span><a href="https://translate.google.com/website?sl=auto&amp;tl=es&amp;hl=es&amp;client=webapp&amp;u=https://download.manjaro.org/xfce/21.3.0/manjaro-xfce-21.3.0-220617-linux515.iso.sha256"><span>SHA256</span></a><span> , </span><a href="https://translate.google.com/website?sl=auto&amp;tl=es&amp;hl=es&amp;client=webapp&amp;u=https://download.manjaro.org/xfce/21.3.0/manjaro-xfce-21.3.0-220617-linux515.iso.sig"><span>firma</span></a><span> , </span><a href="https://translate.google.com/website?sl=auto&amp;tl=es&amp;hl=es&amp;client=webapp&amp;u=https://download.manjaro.org/xfce/21.3.0/manjaro-xfce-21.3.0-220617-linux515.iso.torrent"><span>torrent</span></a><span> ), </span><a href="https://translate.google.com/website?sl=auto&amp;tl=es&amp;hl=es&amp;client=webapp&amp;u=https://download.manjaro.org/gnome/21.3.0/manjaro-gnome-21.3.0-220617-linux515.iso"><span>manjaro-gnome-21.3.0-220617-linux515.iso</span></a><span> (3316 MB, </span><a href="https://translate.google.com/website?sl=auto&amp;tl=es&amp;hl=es&amp;client=webapp&amp;u=https://download.manjaro.org/gnome/21.3.0/manjaro-gnome-21.3.0-220617-linux515.iso.sha256"><span>SHA256</span></a><span> , </span><a href="https://translate.google.com/website?sl=auto&amp;tl=es&amp;hl=es&amp;client=webapp&amp;u=https://download.manjaro.org/gnome/21.3.0/manjaro-gnome-21.3.0-220617-linux515.iso.sig"><span>firma</span></a><span> , </span><a href="https://translate.google.com/website?sl=auto&amp;tl=es&amp;hl=es&amp;client=webapp&amp;u=https://download.manjaro.org/gnome/21.3.0/manjaro-gnome-21.3.0-220617-linux515.iso.torrent"><span>torrent</span></a><span> ).</span></p>
+<h6 class="mb-2 font-semibold leading-5"><span><span class="">¿Qué es una edición?</span></span></h6>
+<p class="text-sm text-gray-900"><span><span class="">Una edición es una interfaz de usuario (UI) única, cambia la forma en que interactuamos con nuestra computadora. </span>Pruebe diferentes imágenes y descubra qué interfaz de usuario le gusta, esta es una preferencia puramente personal.</span></p>
+<h6 class="mb-2 font-semibold leading-5"><span>¿Es manjaro mejor que otras distribuciones?</span></h6>
+<p class="text-sm text-gray-900"><span>Manjaro no es superior ni inferior a ninguna otra distribución de Linux, todas hacen lo mismo. Manjaro tiene su propio administrador de paquetes, temas, herramientas y Kernels personalizados.</span></p>
+<h6 class="mb-2 font-semibold leading-5"><span>¿Cómo es la disponibilidad del software?</span></h6>
+<p class="text-sm text-gray-900"><span>Manjaro permite la instalación de paquetes nativos que también admiten formatos de paquetes de terceros, como Snap, Flatpack o Appimages; es importante contar con una amplia gama de software.</span></p>
+<h2>KDE Plasma</h2>
+<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/14/plasma.jpg" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/14/responsive/plasma-xs.jpg 384w ,https://Gadem.github.io/media/posts/14/responsive/plasma-sm.jpg 600w ,https://Gadem.github.io/media/posts/14/responsive/plasma-md.jpg 768w ,https://Gadem.github.io/media/posts/14/responsive/plasma-lg.jpg 1200w ,https://Gadem.github.io/media/posts/14/responsive/plasma-xl.jpg 1600w"  alt="Manjaro KDE Plasma" width="800" height="404"></figure>
+<p class="text-sm text-gray-900"><span>El entorno de escritorio Plasma favorece las tecnologías KDE/QT y desde todos los escritorios ofrece las configuraciones y opciones más completas dentro de una interfaz de usuario. La interfaz de usuario se asemeja al diseño de Windows, si conoce Windows de adentro hacia afuera y no está abrumado con la cantidad de opciones disponibles, entonces esta puede ser la adecuada para usted.</span></p>
+<h2>Gnome Shell</h2>
+<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/14/gnome.jpg" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/14/responsive/gnome-xs.jpg 384w ,https://Gadem.github.io/media/posts/14/responsive/gnome-sm.jpg 600w ,https://Gadem.github.io/media/posts/14/responsive/gnome-md.jpg 768w ,https://Gadem.github.io/media/posts/14/responsive/gnome-lg.jpg 1200w ,https://Gadem.github.io/media/posts/14/responsive/gnome-xl.jpg 1600w"  alt="Gnome Shell" width="800" height="404"></figure>
+<p class="text-sm text-gray-900"><span>Gnome es un entorno de escritorio moderno, el diseño es diferente de otras opciones pero fácil e intuitivo de aprender, le dará a su computadora un nuevo comienzo.</span></p>
+<p>XFCE</p>
+<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/14/xfce.jpg" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/14/responsive/xfce-xs.jpg 384w ,https://Gadem.github.io/media/posts/14/responsive/xfce-sm.jpg 600w ,https://Gadem.github.io/media/posts/14/responsive/xfce-md.jpg 768w ,https://Gadem.github.io/media/posts/14/responsive/xfce-lg.jpg 1200w ,https://Gadem.github.io/media/posts/14/responsive/xfce-xl.jpg 1600w"  alt="" width="800" height="450"></figure>
+<p class="text-sm text-gray-900"><span>Xfce es un entorno de escritorio ligero. Su objetivo es ser rápido y bajo en los recursos del sistema, mientras que es sólido como una roca. El diseño de la interfaz de usuario se asemeja al sistema operativo Windows, si nunca antes ha probado Manjaro o Linux, este es un excelente punto de partida.</span></p>
+<p> </p>
+<p><a href="https://manjaro.org/download/" target="_blank" rel="noopener noreferrer">Descargas: https://manjaro.org/download/</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Microsoft le da $ 10k a GNOME por… Ser asombroso, básicamente</title>
         <author>
@@ -428,69 +478,6 @@ Es posible hacer que el servidor de audio predeterminado de PipeWire en 22.04 LT
 <p><a href="https://www.omgubuntu.co.uk/2022/05/ubuntu-22-10-makes-pipewire-default" target="_blank" rel="noopener noreferrer">Fuente: https://www.omgubuntu.co.uk/2022/05/ubuntu-22-10-makes-pipewire-default</a></p>
 </blockquote>
 <pre id="tw-target-text" class="tw-data-text tw-text-large tw-ta" dir="ltr" data-placeholder="Traducción"><span class="Y2IQFc" lang="es"><br><br></span></pre>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>aaPanel, una alternativa a cPanel gratuito y Open Source</title>
-        <author>
-            <name>Adrian Mora (Gadem)</name>
-        </author>
-        <link href="https://Gadem.github.io/aapanel-una-alternativa-a-cpanel-gratuito-y-open-source/"/>
-        <id>https://Gadem.github.io/aapanel-una-alternativa-a-cpanel-gratuito-y-open-source/</id>
-            <category term="cPanel"/>
-            <category term="aaPanel"/>
-            <category term="Ubuntu"/>
-            <category term="Tutoriales"/>
-            <category term="SysAdmin"/>
-            <category term="GNU/Linux"/>
-
-        <updated>2022-06-07T13:43:11-06:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://Gadem.github.io/media/posts/4/aapanel_375517_full-md.webp" alt="aaPanel, una alternativa gratuita a cPanel" />
-                    En el siguiente artículo vamos a echar un vistazo a aaPanel. Este es un panel de control de servidor gratuito&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://Gadem.github.io/media/posts/4/aapanel_375517_full-md.webp" alt="aaPanel, una alternativa gratuita a cPanel" />
-                <p>En el siguiente artículo vamos a echar un vistazo a aaPanel. Este es un panel de control de servidor gratuito y de código abierto, que es simple y liviano. Con este software podremos administrar servidores en un entorno de alojamiento web. Aquí tendremos la posibilidad de administrar y controlar dominios, SSL, bases de datos MySQL y otras funciones del alojamiento web. En las siguientes líneas, vamos a ver cómo instalar este software en Ubuntu.</p>
-<p>aaPanel también se ejecuta con buenos resultado en servidores de bajos recursos. Este software nos ofrecer a los usuarios un panel de control simple pero poderoso, el cual nos va a permitir administrar el servidor web a través de una GUI (interfaz gráfica de usuario) basada en la web.</p>
-<p>aaPanel proporciona la función de instalación con un solo clic, y gracias a esta dispondremos de la posibilidad de instalar con un solo clic el entorno de desarrollo y el software LNMP / LAMP. Con este instalador automático, se pueden instalar diferentes aplicaciones con un solo clic. Su objetivo principal es ayudar a los usuarios a ahorrar tiempo de implementación, para que se centren en su propio proyecto.</p>
-<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/4/aapanel_375517_full.webp" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/4/responsive/aapanel_375517_full-xs.webp 384w ,https://Gadem.github.io/media/posts/4/responsive/aapanel_375517_full-sm.webp 600w ,https://Gadem.github.io/media/posts/4/responsive/aapanel_375517_full-md.webp 768w ,https://Gadem.github.io/media/posts/4/responsive/aapanel_375517_full-lg.webp 1200w ,https://Gadem.github.io/media/posts/4/responsive/aapanel_375517_full-xl.webp 1600w"  alt="aaPanel" width="1143" height="627"></figure>
-<h2><span id="Caracteristicas_generales_de_aaPanel">Características generales de aaPanel</span></h2>
-<ul>
-<li>El concepto de<strong> desarrollo modular</strong> que utiliza aaPanel, permite que los usuarios tan solo instalemos las extensiones que nos interesen.</li>
-<li>Permite la<strong> monitorización de los recursos</strong>. Podremos supervisar la ocupación de los recursos de nuestro servidor en tiempo real, lo que nos permitirá comprender mejor su capacidad de carga.</li>
-<li>El panel<strong> proporciona una puerta de enlace antispam gratuita</strong>, Nginx WAF, recordatorio de inicio de sesión SSH y extensión de seguridad del firewall del sistema, entre otras cosas.</li>
-<li>Dispone de un potente <strong>editor en línea</strong>. aaPanel añade un poderoso editor en línea, combinado con el administrador de archivos.</li>
-<li>Además de todo esto, este software nos va a permitir <strong>trabajar con; dominios web, dominios DNS, dominios de correo, bases de datos, CRON, directorios de usuarios y más</strong>.</li>
-</ul>
-<p>Este programa <strong>cuenta con una versión gratuita y otras de pago</strong>. En la versión gratuita encontraremos un buen puñado de opciones disponibles, aun que en las versiones de pago, como es lógico, encontraremos más opciones. Todas las características disponibles de la versión gratuita se pueden consultar en la <a title="Página web de aaPanel" href="https://www.aapanel.com/product_buy.html" target="_blank" rel="nofollow noopener">página web del proyecto</a>.</p>
-<h2><span id="Instalar_aaPanel_en_Ubuntu">Instalar aaPanel en Ubuntu</span></h2>
-<p>Para <strong>instalar aaPanel en Ubuntu</strong>, vamos a abrir una terminal (Ctrl+Alt+T) y a ejecutar los siguientes comandos para comenzar la instalación:</p>
-<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/4/Captura-desde-2022-06-06-19-36-48.png" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/4/responsive/Captura-desde-2022-06-06-19-36-48-xs.png 384w ,https://Gadem.github.io/media/posts/4/responsive/Captura-desde-2022-06-06-19-36-48-sm.png 600w ,https://Gadem.github.io/media/posts/4/responsive/Captura-desde-2022-06-06-19-36-48-md.png 768w ,https://Gadem.github.io/media/posts/4/responsive/Captura-desde-2022-06-06-19-36-48-lg.png 1200w ,https://Gadem.github.io/media/posts/4/responsive/Captura-desde-2022-06-06-19-36-48-xl.png 1600w"  alt="aaPanel Install Ubuntu" width="1300" height="523"></figure>
-<p>Después de ejecutar los comandos anteriores,<strong> aaPanel empezará a descargar y a ejecutar todos los paquetes para instalarlos</strong>. Cuando termine la instalación, deberíamos ver en la terminal un mensaje similar al siguiente, en el que se nos mostrará la URL y los datos de acceso (<em>nombre de usuario y contraseña</em>).</p>
-<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/4/aapanellogin.png" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/4/responsive/aapanellogin-xs.png 384w ,https://Gadem.github.io/media/posts/4/responsive/aapanellogin-sm.png 600w ,https://Gadem.github.io/media/posts/4/responsive/aapanellogin-md.png 768w ,https://Gadem.github.io/media/posts/4/responsive/aapanellogin-lg.png 1200w ,https://Gadem.github.io/media/posts/4/responsive/aapanellogin-xl.png 1600w"  alt="" width="1024" height="181"></figure>
-<p>Cuando terminemos con los pasos anteriores, tan solo tendremos que <strong>abrir nuestro navegador web y escribir la URL de acceso que aparece en el mensaje en el que nos avisaba de la instalación exitosa</strong>. Será necesario reemplazar la dirección IP del ejemplo con la dirección de tu servidor.</p>
-<p><a href="http://midireccionip:7800">http://midireccionip:7800/clavedeseguridad</a> (Puerto 7800)</p>
-<p>En la pantalla que vamos a ver, <strong>iniciaremos sesión con los datos de acceso de acceso que obtuvimos al finalizar la instalación</strong>. Cuando iniciemos sesión, se nos pedirá que elijamos el entorno para ejecutar con aaPanel. Las opciones son:</p>
-<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/4/seleccion-lamp-lnmp-1024x469.png" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/4/responsive/seleccion-lamp-lnmp-1024x469-xs.png 384w ,https://Gadem.github.io/media/posts/4/responsive/seleccion-lamp-lnmp-1024x469-sm.png 600w ,https://Gadem.github.io/media/posts/4/responsive/seleccion-lamp-lnmp-1024x469-md.png 768w ,https://Gadem.github.io/media/posts/4/responsive/seleccion-lamp-lnmp-1024x469-lg.png 1200w ,https://Gadem.github.io/media/posts/4/responsive/seleccion-lamp-lnmp-1024x469-xl.png 1600w"  alt="Selección LAMP o Nginx" width="1024" height="469"></figure>
-<ul>
-<li>Nginx con MySQL y PHP (LNMP)</li>
-<li>Apache y MySQL y PHP (LAMP)</li>
-</ul>
-<p>Para este ejemplo opté por instalar LNMP, ya que es el recomendado. El programa descargó e instaló los paquetes necesarios. <em>Esto puede tomar cierto tiempo</em>.<br><span style="color: #e03e2d;">(SI YA CUENTAS CON UN LAMP INSTALADO EN TU SISTEMA, ESTE PASO PUEDE ROMPER TU INSTALACIÓN)</span></p>
-<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/4/pantalla-inicio-aapanel-1024x469.png" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/4/responsive/pantalla-inicio-aapanel-1024x469-xs.png 384w ,https://Gadem.github.io/media/posts/4/responsive/pantalla-inicio-aapanel-1024x469-sm.png 600w ,https://Gadem.github.io/media/posts/4/responsive/pantalla-inicio-aapanel-1024x469-md.png 768w ,https://Gadem.github.io/media/posts/4/responsive/pantalla-inicio-aapanel-1024x469-lg.png 1200w ,https://Gadem.github.io/media/posts/4/responsive/pantalla-inicio-aapanel-1024x469-xl.png 1600w"  alt="Pantalla de Inicio aaPanel" width="1024" height="469"></figure>
-<p>Una vez hecho todo, ya <strong>podemos comenzar a configurar el entorno de trabajo</strong>.</p>
-<h3><span id="Desinstalar">Desinstalar</span></h3>
-<p>Según indican en los <a title="¿Cómo desinstalar aaPanel?" href="https://forum.aapanel.com/d/43-how-to-uninstall-the-aapanel-from-my-ubuntu" target="_blank" rel="nofollow noopener">foros</a>, <strong>se puede utilizar la siguiente secuencia de comandos para desinstalar aaPanel de Ubuntu</strong>. Tan solo es necesario escribir en una terminal (Ctrl+Alt+T):</p>
-<blockquote>
-<p>sudo bt stop &amp;&amp;sudo update-rc.d -f bt remove &amp;&amp;sudo rm -f /etc/init.d/bt &amp;&amp;sudo rm -rf /www/server/panel</p>
-</blockquote>
-<p>En este pequeño artículo, acabamos de ver cómo instalar aaPanel en un sistema Ubuntu 20.04. Si necesitas una plataforma de control de alojamiento que esté diseñada para la velocidad, la seguridad y la estabilidad, entonces puede que te resulte interesante probar la plataforma de control de host aaPanel. Para obtener más información sobre este software, <strong>los usuarios podemos dirigirnos a la <a title="Página web de aaPanel" href="https://www.aapanel.com" target="_blank" rel="nofollow noopener">página web del proyecto</a> o recibir soporte en los <a title="Foros de aaPanel" href="https://forum.aapanel.com/t/official" target="_blank" rel="nofollow noopener">foros</a></strong>.</p>
-<p>Fuente: <a href="https://ubunlog.com/aapanel-panel-control-hosting-gratuito-codigo-abierto/#Instalar_aaPanel_en_Ubuntu" title="Fuente de la entrada" target="_blank" rel="noopener noreferrer">https://ubunlog.com/aapanel-panel-control-hosting-gratuito-codigo-abierto/#Instalar_aaPanel_en_Ubuntu</a></p>
             ]]>
         </content>
     </entry>
