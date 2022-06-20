@@ -3,12 +3,40 @@
     <title>Gadem&#x27;s Blog</title>
     <link href="https://Gadem.github.io/feed.xml" rel="self" />
     <link href="https://Gadem.github.io" />
-    <updated>2022-06-16T20:51:47-06:00</updated>
+    <updated>2022-06-19T19:11:06-06:00</updated>
     <author>
         <name>Adrian Mora (Gadem)</name>
     </author>
     <id>https://Gadem.github.io</id>
 
+    <entry>
+        <title>Microsoft le da $ 10k a GNOME por… Ser asombroso, básicamente</title>
+        <author>
+            <name>Adrian Mora (Gadem)</name>
+        </author>
+        <link href="https://Gadem.github.io/microsoft-le-da-dollar-10k-a-gnome-por-ser-asombroso-basicamente/"/>
+        <id>https://Gadem.github.io/microsoft-le-da-dollar-10k-a-gnome-por-ser-asombroso-basicamente/</id>
+            <category term="Twitter"/>
+            <category term="Noticias"/>
+            <category term="Gnome"/>
+            <category term="GNU/Linux"/>
+
+        <updated>2022-06-19T19:11:06-06:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://Gadem.github.io/media/posts/13/GNOME_Shell_with_some_GNOME_applications_version_40_released_in_2021-03.png" alt="" />
+                    El proyecto GNOME está configurado para recibir un impulso de $ 10,000 de Microsoft. Pero permítanme enfatizar (antes de que&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://Gadem.github.io/media/posts/13/GNOME_Shell_with_some_GNOME_applications_version_40_released_in_2021-03.png" alt="" />
+                <p>El proyecto GNOME está configurado para recibir un impulso de $ 10,000 de Microsoft.<br><br>Pero permítanme enfatizar (antes de que alguien se tuerza la ropa interior) no hay condiciones para esto. Nada está siendo adquirido o aceptado.<br><br>En su lugar, los empleados de Microsoft eligieron a GNOME como el último destinatario del Fondo Microsoft FOSS, una iniciativa que el gigante del software ha llevado a cabo durante un par de años. Estableció el fondo para “proporcionar patrocinios de $10,000 para proyectos de código abierto” como parte de un esfuerzo por “retribuir” a las comunidades y proyectos en los que sus empleados confían en su trabajo.<br><br>Que el antiguo “enemigo” del código abierto esté dispuesto a posicionarse como mejor amigo de los esfuerzos de software comunitario, Linux en particular, no es nuevo, por supuesto. Pero tampoco es del todo falso.<br><br>En estos días, Microsoft es un miembro clave de muchas organizaciones líderes de código abierto, contribuye directamente al kernel de Linux e incluso mantiene su propia distribución de Linux.</p>
+<h2>¿Qué es el Fondo Microsoft FOSS?</h2>
+<p><br><br>Cada mes, Microsoft permite que sus empleados nominen proyectos de código abierto utilizados por la empresa pero que no pertenecen a (nadie en ella). Para ser elegibles, los proyectos deben tener una licencia aprobada por OSI y una forma de procesar los fondos.<br><br>“El proceso de nominación está abierto a todos los empleados y pasantes de Microsoft, y un grupo de curación, los “Campeones de código abierto”, ayuda a reunir a los nominados de cada fondo. Algunas rondas de financiación pueden tener un tema particular, y cada ronda de financiación tendrá de 5 a 20 proyectos nominados más o menos”, explica la página de GitHub (qué más) del fondo.<br><br>Al final del proceso de selección, hay una votación y los proyectos ganadores obtienen un aumento de $10,000, que normalmente se ofrece como $1,000 al mes durante 10 meses.<br><br>Como reveló en Twitter la directora sénior de programas de Microsoft, Emma Irwin, el proyecto GNOME es el último destinatario. Los ganadores anteriores del Microsoft FOSS Fund incluyen systemd, curl, QEMU y OpenStreetMap.<br><br>GNOME que se beneficia del Fondo FOSS de Microsoft es un respaldo bastante grande. El proyecto no solo es una parte importante del panorama de código abierto como todos lo conocemos, sino que resulta que también es importante en el panorama de código abierto de Microsoft.<br><br>E incluso si no quiere darle ningún crédito a Microsoft como una gran masa corporativa descomunal, a nivel humano, es bueno que los empleados de Microsoft sientan que GNOME se lo merece.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>GIMP 2.10.32 mejora la usabilidad e incluye soporte para BigTIFF</title>
         <author>
@@ -460,45 +488,6 @@ Es posible hacer que el servidor de audio predeterminado de PipeWire en 22.04 LT
 </blockquote>
 <p>En este pequeño artículo, acabamos de ver cómo instalar aaPanel en un sistema Ubuntu 20.04. Si necesitas una plataforma de control de alojamiento que esté diseñada para la velocidad, la seguridad y la estabilidad, entonces puede que te resulte interesante probar la plataforma de control de host aaPanel. Para obtener más información sobre este software, <strong>los usuarios podemos dirigirnos a la <a title="Página web de aaPanel" href="https://www.aapanel.com" target="_blank" rel="nofollow noopener">página web del proyecto</a> o recibir soporte en los <a title="Foros de aaPanel" href="https://forum.aapanel.com/t/official" target="_blank" rel="nofollow noopener">foros</a></strong>.</p>
 <p>Fuente: <a href="https://ubunlog.com/aapanel-panel-control-hosting-gratuito-codigo-abierto/#Instalar_aaPanel_en_Ubuntu" title="Fuente de la entrada" target="_blank" rel="noopener noreferrer">https://ubunlog.com/aapanel-panel-control-hosting-gratuito-codigo-abierto/#Instalar_aaPanel_en_Ubuntu</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Splashy Desktop 2.0.1-2 para Fedora 36 (Distros RPM) </title>
-        <author>
-            <name>Adrian Mora (Gadem)</name>
-        </author>
-        <link href="https://Gadem.github.io/splashy-desktop-201-2-para-fedora-36-distros-rpm/"/>
-        <id>https://Gadem.github.io/splashy-desktop-201-2-para-fedora-36-distros-rpm/</id>
-            <category term="Splashy"/>
-            <category term="Software"/>
-            <category term="RPM"/>
-            <category term="GNU/Linux"/>
-            <category term="Fedora 36"/>
-            <category term="Fedora"/>
-
-        <updated>2022-06-07T13:11:15-06:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://Gadem.github.io/media/posts/3/splashy.png" alt="" />
-                    Explore obras de arte diarias, desde fotografías hasta ilustraciones, cuidadosamente seleccionadas para usted. Splashy trae miles de fondos de pantalla&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://Gadem.github.io/media/posts/3/splashy.png" alt="" />
-                <div id="tw-target-text-container" class="tw-ta-container F0azHf tw-nfl" tabindex="0">
-<figure class="post__image post__image--center"><span class="Y2IQFc" lang="es"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/3/Captura-desde-2022-06-06-17-33-17.png" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/3/responsive/Captura-desde-2022-06-06-17-33-17-xs.png 384w ,https://Gadem.github.io/media/posts/3/responsive/Captura-desde-2022-06-06-17-33-17-sm.png 600w ,https://Gadem.github.io/media/posts/3/responsive/Captura-desde-2022-06-06-17-33-17-md.png 768w ,https://Gadem.github.io/media/posts/3/responsive/Captura-desde-2022-06-06-17-33-17-lg.png 1200w ,https://Gadem.github.io/media/posts/3/responsive/Captura-desde-2022-06-06-17-33-17-xl.png 1600w"  alt="Splashy For Fedora RPM" width="1368" height="738"></figure>Explore obras de arte diarias, desde fotografías hasta ilustraciones, cuidadosamente seleccionadas para usted.<br></span></pre>
-<div id="tw-target-text-container" class="tw-ta-container F0azHf tw-nfl" tabindex="0">
-<pre id="tw-target-text" class="tw-data-text tw-text-large tw-ta" dir="ltr" data-placeholder="Traducción"><span class="Y2IQFc" lang="es">Splashy trae miles de fondos de pantalla cuidadosamente seleccionados y los convierte en colecciones. Se agregan nuevos fondos de pantalla cada semana y nuevas colecciones cada mes.</span></pre>
-</div>
-<div id="tw-target-text-container" class="tw-ta-container F0azHf tw-nfl" tabindex="0">
-<pre class="tw-data-text tw-text-large tw-ta" dir="ltr" data-placeholder="Traducción"><span class="Y2IQFc" lang="es">Elija rápidamente su próximo fondo de pantalla favorito o deje que Splashy cambie sus fondos de pantalla automáticamente en el fondo, la elección es suya.<br></span></pre>
-<div id="tw-target-text-container" class="tw-ta-container F0azHf tw-nfl" tabindex="0">
-<pre id="tw-target-text" class="tw-data-text tw-text-large tw-ta" dir="ltr" data-placeholder="Traducción"><span class="Y2IQFc" lang="es">Enlace de descarga: <a href="https://itsyour.site/splashy/splashy-desktop-2.0.1-2.x86_64.rpm" title="splashy-desktop-2.0.1-2.x86_64.rpm" target="_blank" rel="noopener noreferrer">https://itsyour.site/splashy/splashy-desktop-2.0.1-2.x86_64.rpm</a></span></pre>
-</div>
-</div>
-</div>
             ]]>
         </content>
     </entry>
