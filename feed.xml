@@ -3,7 +3,7 @@
     <title>Gadem&#x27;s Blog</title>
     <link href="https://Gadem.github.io/feed.xml" rel="self" />
     <link href="https://Gadem.github.io" />
-    <updated>2022-08-30T14:10:43-06:00</updated>
+    <updated>2022-08-30T14:25:59-06:00</updated>
     <author>
         <name>Adrian Mora (Gadem)</name>
     </author>
@@ -23,7 +23,7 @@
             <category term="Distribucion"/>
             <category term="Arch Linux"/>
 
-        <updated>2022-08-30T14:10:43-06:00</updated>
+        <updated>2022-08-30T14:25:59-06:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://Gadem.github.io/media/posts/16/archcraft.png" alt="" />
@@ -39,7 +39,7 @@
 <p>Una salida más fácil sería usar una distribución que proporcione una variante de Openbox. En este artículo, enumero algunas distribuciones que le brindan una experiencia Openbox lista para usar.</p>
 <p><strong>Nota:</strong> La lista está en orden alfabético y no es una clasificación.</p>
 <h2>1. Archcraft</h2>
-<p> </p>
+<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/16/archcraft-2.png" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/16/responsive/archcraft-2-xs.png 384w ,https://Gadem.github.io/media/posts/16/responsive/archcraft-2-sm.png 600w ,https://Gadem.github.io/media/posts/16/responsive/archcraft-2-md.png 768w ,https://Gadem.github.io/media/posts/16/responsive/archcraft-2-lg.png 1200w ,https://Gadem.github.io/media/posts/16/responsive/archcraft-2-xl.png 1600w"  alt="" width="1366" height="768"></figure>
 <p>Esta es una de las opciones interesantes si desea tener en sus manos el administrador de ventanas de Openbox. Openbox es el escritorio predeterminado para la distribución, por lo que puede esperar que sea excelente a diferencia de otras distribuciones.</p>
 <p>Proporciona un entorno mínimo y liviano, ya que puede funcionar con menos de 500 MB sin comprometer la apariencia. Los elementos de la interfaz de usuario son cohesivos.</p>
 <p>Puede cambiar de tema con solo un clic. También proporciona Windows como UI si te gusta eso.</p>
