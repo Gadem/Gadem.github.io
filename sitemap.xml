@@ -6,7 +6,7 @@
 </url>
 <url>
 <loc>https://Gadem.github.io/5-distribuciones-minimalistas-de-linux-con-openbox/</loc>
-<lastmod>2022-08-30T14:25:59-06:00</lastmod>
+<lastmod>2022-08-30T14:27:51-06:00</lastmod>
 <image:image>
 <image:loc>https://Gadem.github.io/media/posts/16/archcraft.png</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -238,6 +238,14 @@
 <image:image>
 <image:loc>https://Gadem.github.io/media/posts/15/Tiny_Core_Linux_y_Chromium.png</image:loc>
 <image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://Gadem.github.io/linux-from-scratch/</loc>
+<lastmod>2022-09-02T18:18:56-06:00</lastmod>
+<image:image>
+<image:loc>https://Gadem.github.io/media/posts/17/2-Its-Foss.webp</image:loc>
+<image:title><![CDATA[Linux From Scratch]]></image:title>
 </image:image>
 </url>
 <url>
