@@ -22,13 +22,14 @@
             "tags": [
                    "Software Libre",
                    "Reportaje",
+                   "Opinion",
                    "Open-Source",
                    "Linux From Scratch",
                    "LFS",
                    "GNU/Linux"
             ],
             "date_published": "2022-09-02T18:17:33-06:00",
-            "date_modified": "2022-09-02T18:18:56-06:00"
+            "date_modified": "2022-09-02T18:20:31-06:00"
         },
         {
             "id": "https://Gadem.github.io/5-distribuciones-minimalistas-de-linux-con-openbox/",
@@ -49,7 +50,7 @@
                    "Arch Linux"
             ],
             "date_published": "2022-08-30T14:09:57-06:00",
-            "date_modified": "2022-08-30T14:27:51-06:00"
+            "date_modified": "2022-09-02T18:20:21-06:00"
         },
         {
             "id": "https://Gadem.github.io/las-mejores-distribuciones-ligeras-de-linux-para-computadoras-antiguas/",
