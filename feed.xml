@@ -3,7 +3,7 @@
     <title>Gadem&#x27;s Blog</title>
     <link href="https://Gadem.github.io/feed.xml" rel="self" />
     <link href="https://Gadem.github.io" />
-    <updated>2022-09-03T15:39:06-06:00</updated>
+    <updated>2022-10-08T14:11:47-05:00</updated>
     <author>
         <name>Adrian Mora (Gadem)</name>
     </author>
@@ -16,77 +16,76 @@
         </author>
         <link href="https://Gadem.github.io/archcraft-openbox-otra-distribucion-minima-de-linux-basado-en-archlinux/"/>
         <id>https://Gadem.github.io/archcraft-openbox-otra-distribucion-minima-de-linux-basado-en-archlinux/</id>
-            <category term="minimalistas"/>
-            <category term="Software Libre"/>
-            <category term="Reportaje"/>
+            <category term="ligera"/>
+            <category term="archcraft"/>
+            <category term="Poderoso"/>
             <category term="Opinion"/>
             <category term="Openbox"/>
-            <category term="Open-Source"/>
-            <category term="Minimal"/>
-            <category term="Archcraft"/>
+            <category term="Minimalismo"/>
+            <category term="Linux para quipos viejos"/>
+            <category term="Impresionante"/>
             <category term="Arch Linux"/>
 
-        <updated>2022-09-03T15:39:06-06:00</updated>
+        <updated>2022-10-08T14:11:47-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://Gadem.github.io/media/posts/18/welcome.png" alt="" />
+                        <img src="https://Gadem.github.io/media/posts/18/welcome-xl.png" alt="" />
                     Primero que nada, empecemos por preguntarnos: ¿Qué es Archcraft? Archcraft es solo otra distribución de Linux, hecha sobre Arch Linux.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://Gadem.github.io/media/posts/18/welcome.png" alt="" />
+                    <img src="https://Gadem.github.io/media/posts/18/welcome-xl.png" alt="" />
                 <p>Primero que nada, empecemos por preguntarnos:</p>
 <p><strong>¿Qué es Archcraft?</strong></p>
 <p>Archcraft es solo otra distribución de Linux, hecha sobre Arch Linux. Utiliza administradores de ventanas y aplicaciones livianas, lo que lo hace súper rápido. Con configuraciones preconfiguradas, Archcraft le brinda la mejor experiencia de administración de ventanas lista para usar.</p>
 <p><strong>¿Por qué Archcraft?<br></strong><br>Minimalismo:<br>Archcraft es muy mínimo y ligero. Puede ejecutarse con menos de 500 Mb de memoria, ya que solo usa administradores de ventanas y algunas aplicaciones livianas.</p>
 <p>Impresionante:<br>Los colores planos y pastel, la consistencia entre todos los elementos de la interfaz de usuario y varios temas hacen que Archcraft se vea muy limpio, minimalista e impresionante.</p>
 <p>Poderoso:<br>Con soporte incorporado para AUR, Chaotic AUR y siendo liviano, Archcraft le brinda el poder de hacer lo que quiera en su PC con Linux.</p>
-<p><strong><span><span class="">Estaba buscando un Arch Linux listo para usar con solo opciones de Window Manager y encontré este sistema operativo Archcraft. </span>Aquí hay una revisión rápida de Archcraft OS, en caso de que esté planeando probarlo.</span></strong></p>
-<p><span>La principal diferencia que hace esta distribución es que solo presenta el administrador de ventanas OpenBox (WM) y no tiene un entorno de escritorio. Openbox ofrece una huella de memoria y potencia informática mínimas, lo que le permite disfrutar de más RAM y CPU en el mismo hardware.</span></p>
-<p><span>La interfaz de usuario es hermosa con temas de Openbox preinstalados y buenos fondos de pantalla. Le brinda la posibilidad de configurar Openbox con administradores de configuración preinstalados.</span></p>
-<p><span><span class="">El proyecto está alojado en GitHub y Sourceforge. </span>El único instalador de 64 bits está disponible en el siguiente enlace que está alojado en SourceForge. Por lo tanto, su velocidad de descarga puede variar. El tamaño .iso es ~1.5GB.</span></p>
+<p><strong>Estaba buscando un Arch Linux listo para usar con solo opciones de Window Manager y encontré este sistema operativo Archcraft. Aquí hay una revisión rápida de Archcraft OS, en caso de que esté planeando probarlo.</strong></p>
+<p>La principal diferencia que hace esta distribución es que solo presenta el administrador de ventanas OpenBox (WM) y no tiene un entorno de escritorio. Openbox ofrece una huella de memoria y potencia informática mínimas, lo que le permite disfrutar de más RAM y CPU en el mismo hardware.</p>
+<p>La interfaz de usuario es hermosa con temas de Openbox preinstalados y buenos fondos de pantalla. Le brinda la posibilidad de configurar Openbox con administradores de configuración preinstalados.</p>
+<p>El proyecto está alojado en GitHub y Sourceforge. El único instalador de 64 bits está disponible en el siguiente enlace que está alojado en SourceForge. Por lo tanto, su velocidad de descarga puede variar. El tamaño .iso es ~1.5GB.</p>
 <h1><a href="https://sourceforge.net/projects/archcraft/files/latest/download" target="_blank" rel="noopener noreferrer">DESCARGAR ARCHCRAFT</a><br><br></h1>
-<p><span><span class="">El .iso es compatible con el escritorio LIVE antes de la instalación y está completamente fuera de línea, a diferencia de la instalación de Vanilla Arch. </span>Si instala Arch Linux desde Arch .iso, necesita una conexión a Internet. Sin embargo, Archcraft proporciona todo dentro de su .iso, por lo tanto, no necesita ninguna conexión a Internet durante la instalación.</span></p>
-<p><span>El escritorio LIVE le brinda el primer vistazo del impresionante Openbox WM. Archcraft proporciona su propio instalador en este momento y le brinda una entrada de menú para iniciar el instalador. El escritorio LIVE requiere iniciar sesión con el ID de usuario "liveuser" y la contraseña "liveuser".</span></p>
-<p><span>El instalador es un proceso paso a paso controlado por ventanas que normalmente se realiza a través de comandos al instalar Arch Linux. Sin embargo, le brinda suficientes opciones para ir y venir antes de que comience la instalación real.</span></p>
-<p><span>El proceso de instalación fue fluido, aunque tomó algo de tiempo en mi sistema de prueba (basado en BIOS). La distribución detectó con éxito todos los sistemas operativos en el dispositivo de prueba de arranque múltiple. Y no arruinó mi comida. El tiempo total de instalación en promedio es de ~15 minutos.</span></p>
-<h2><span>Primera vista</span></h2>
-<p><span>Si está utilizando el administrador de ventanas por primera vez, es posible que se entusiasme. De lo contrario, el primer vistazo le brinda un escritorio estándar y liviano con Openbox. El tema wm predeterminado con la combinación de fondos de pantalla se ve bien. Sin embargo, sentí que el tamaño de fuente es un poco pequeño. <span class="">Aunque eso se puede cambiar. </span>La capacidad de respuesta es rápida teniendo en cuenta que los administradores de ventanas no consumen demasiados recursos.</span></p>
-<p><span>El panel predeterminado le brinda todas las cosas importantes. La lista del espacio de trabajo, el reloj y las fechas, el control de volumen, la opción de apagado, el uso de la CPU, la memoria y el disco, etc. Y se ve limpio y agradable.</span></p>
-<h2><span>Aplicaciones y configuraciones</span></h2>
-<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/18/Archcraft-OS-Launcher.webp" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/18/responsive/Archcraft-OS-Launcher-xs.webp 384w ,https://Gadem.github.io/media/posts/18/responsive/Archcraft-OS-Launcher-sm.webp 600w ,https://Gadem.github.io/media/posts/18/responsive/Archcraft-OS-Launcher-md.webp 768w ,https://Gadem.github.io/media/posts/18/responsive/Archcraft-OS-Launcher-lg.webp 1200w ,https://Gadem.github.io/media/posts/18/responsive/Archcraft-OS-Launcher-xl.webp 1600w"  alt="" width="482" height="309"></figure>
-<p><span>El Archcraft precarga aplicaciones Xfce en su mayoría. Entonces, obtiene una buena cantidad de aplicaciones (lista a continuación) para comenzar. Sin embargo, puede instalar fácilmente cualquier cosa desde Arch repo o AUR. El AUR ya está configurado y no necesita instalarlo manualmente, lo cual es bueno.</span></p>
-<p><span>El iniciador principal se puede iniciar con la tecla Súper y le brinda una lista de búsqueda de aplicaciones. <span class="">Al hacer clic con el botón derecho, el menú del escritorio también le brinda la opción de personalizar Openbox WM con una lista de aplicaciones y todo lo demás.</span></span></p>
-<p><span>Aquí tienes una breve lista de las aplicaciones que vienen por defecto en esta distro.</span></p>
+<p>El .iso es compatible con el escritorio LIVE antes de la instalación y está completamente fuera de línea, a diferencia de la instalación de Vanilla Arch. Si instala Arch Linux desde Arch .iso, necesita una conexión a Internet. Sin embargo, Archcraft proporciona todo dentro de su .iso, por lo tanto, no necesita ninguna conexión a Internet durante la instalación.</p>
+<p>El escritorio LIVE le brinda el primer vistazo del impresionante Openbox WM. Archcraft proporciona su propio instalador en este momento y le brinda una entrada de menú para iniciar el instalador. El escritorio LIVE requiere iniciar sesión con el ID de usuario "liveuser" y la contraseña "liveuser".</p>
+<p>El instalador es un proceso paso a paso controlado por ventanas que normalmente se realiza a través de comandos al instalar Arch Linux. Sin embargo, le brinda suficientes opciones para ir y venir antes de que comience la instalación real.</p>
+<p>El proceso de instalación fue fluido, aunque tomó algo de tiempo en mi sistema de prueba (basado en BIOS). La distribución detectó con éxito todos los sistemas operativos en el dispositivo de prueba de arranque múltiple. Y no arruinó mi comida. El tiempo total de instalación en promedio es de ~15 minutos.</p>
+<h2>Primera vista</h2>
+<p>Si está utilizando el administrador de ventanas por primera vez, es posible que se entusiasme. De lo contrario, el primer vistazo le brinda un escritorio estándar y liviano con Openbox. El tema wm predeterminado con la combinación de fondos de pantalla se ve bien. Sin embargo, sentí que el tamaño de fuente es un poco pequeño. Aunque eso se puede cambiar. La capacidad de respuesta es rápida teniendo en cuenta que los administradores de ventanas no consumen demasiados recursos.</p>
+<p>El panel predeterminado le brinda todas las cosas importantes. La lista del espacio de trabajo, el reloj y las fechas, el control de volumen, la opción de apagado, el uso de la CPU, la memoria y el disco, etc. Y se ve limpio y agradable.</p>
+<h2>Aplicaciones y configuraciones</h2>
+<figure class="post__image"><figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/18/Archcraft-OS-Launcher-xl.webp" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/18/responsive/Archcraft-OS-Launcher-xl-xs.webp 384w ,https://Gadem.github.io/media/posts/18/responsive/Archcraft-OS-Launcher-xl-sm.webp 600w ,https://Gadem.github.io/media/posts/18/responsive/Archcraft-OS-Launcher-xl-md.webp 768w ,https://Gadem.github.io/media/posts/18/responsive/Archcraft-OS-Launcher-xl-lg.webp 1200w ,https://Gadem.github.io/media/posts/18/responsive/Archcraft-OS-Launcher-xl-xl.webp 1600w"  alt="" width="482" height="309"></figure></figure>
+<p>El Archcraft precarga aplicaciones Xfce en su mayoría. Entonces, obtiene una buena cantidad de aplicaciones (lista a continuación) para comenzar. Sin embargo, puede instalar fácilmente cualquier cosa desde Arch repo o AUR. El AUR ya está configurado y no necesita instalarlo manualmente, lo cual es bueno.</p>
+<p>El iniciador principal se puede iniciar con la tecla Súper y le brinda una lista de búsqueda de aplicaciones. Al hacer clic con el botón derecho, el menú del escritorio también le brinda la opción de personalizar Openbox WM con una lista de aplicaciones y todo lo demás.</p>
+<p>Aquí tienes una breve lista de las aplicaciones que vienen por defecto en esta distro.</p>
 <ul>
-<li><span>Administrador de archivos: Thunar, PCMAN FM</span></li>
-<li><span>Termux – emulador de terminal</span></li>
-<li><span>Nitrógeno</span></li>
-<li><span>Tablón</span></li>
-<li><span>Leafpad: panel de texto rápido</span></li>
-<li><span>Empuje</span></li>
-<li><span>Xarchivador</span></li>
-<li><span>editor de codigo geany</span></li>
-<li><span>Visor de imágenes viewnior</span></li>
-<li><span>Navegador web Midori</span></li>
-<li><span>Visor de documentos Atril</span></li>
-<li><span>Cambio de hora</span></li>
-<li><span>Administrador de energía</span></li>
+<li>Administrador de archivos: Thunar, PCMAN FM</li>
+<li>Termux – emulador de terminal</li>
+<li>Nitrógeno</li>
+<li>Tablón</li>
+<li>Leafpad: panel de texto rápido</li>
+<li>Empuje</li>
+<li>Xarchivador</li>
+<li>editor de codigo geany</li>
+<li>Visor de imágenes viewnior</li>
+<li>Navegador web Midori</li>
+<li>Visor de documentos Atril</li>
+<li>Cambio de hora</li>
+<li>Administrador de energía</li>
 </ul>
-<h2><span>El uso de recursos</span></h2>
-<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/18/Resource-Usage-htop.webp" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/18/responsive/Resource-Usage-htop-xs.webp 384w ,https://Gadem.github.io/media/posts/18/responsive/Resource-Usage-htop-sm.webp 600w ,https://Gadem.github.io/media/posts/18/responsive/Resource-Usage-htop-md.webp 768w ,https://Gadem.github.io/media/posts/18/responsive/Resource-Usage-htop-lg.webp 1200w ,https://Gadem.github.io/media/posts/18/responsive/Resource-Usage-htop-xl.webp 1600w"  alt="" width="544" height="360"></figure>
-<p><span><span class="">La principal ventaja de usar un administrador de ventanas en lugar de un entorno de escritorio tradicional es el mejor uso de recursos por parte de la distribución subyacente. </span>Por lo tanto, Archcraft también está haciendo lo mismo. Esta distribución usa alrededor de ~390 MB de RAM en estado inactivo en una instalación física. Xorg usa la mayor parte de la memoria solo en estado inactivo, seguido de Plank. El uso de la CPU es mínimo en estado inactivo, por supuesto, a menos que realice alguna operación.</span></p>
-<p><span>Y con una combinación de Arch Linux (que ya es rápido), puede ser muy amigable en términos de uso de recursos. Creo que esta distribución puede funcionar bien en hardware de gama baja, siempre que el kernel de Linux principal actual lo admita.</span></p>
-<h2><span>Mira y siente</span></h2>
-<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/18/Right-Click-Options.webp" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/18/responsive/Right-Click-Options-xs.webp 384w ,https://Gadem.github.io/media/posts/18/responsive/Right-Click-Options-sm.webp 600w ,https://Gadem.github.io/media/posts/18/responsive/Right-Click-Options-md.webp 768w ,https://Gadem.github.io/media/posts/18/responsive/Right-Click-Options-lg.webp 1200w ,https://Gadem.github.io/media/posts/18/responsive/Right-Click-Options-xl.webp 1600w"  alt="" width="466" height="496"></figure>
-<p><span>Los temas y estilos de Openbox están precargados y son realmente buenos. Son una combinación de estilos claros y oscuros. Los estilos disponibles son: playa, bosque, cuadrícula, manhattan, limo, chispa, ola.</span></p>
-<p><span>Puede cambiar fácilmente los temas EN VIVO mientras trabaja desde Preferencias&gt; Cambiar estilo desde el menú contextual del botón derecho.</span></p>
-<p><span>Si desea cambiar la configuración principal de Openbox, también puede hacer lo mismo desde Preferencias &gt; Configuración de Openbox/Configuración del compositor.</span></p>
-<p><span>El conjunto de fondos de pantalla que está disponible es bueno, vienen incluidos con los temas de Openbox. Sin embargo, también puede usar la generación automática de fondos de pantalla, lo que creo que es un toque diferente en esta distribución de Linux.</span></p>
+<h2>El uso de recursos</h2>
+<figure class="post__image"><figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/18/Resource-Usage-htop-xl.webp" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/18/responsive/Resource-Usage-htop-xl-xs.webp 384w ,https://Gadem.github.io/media/posts/18/responsive/Resource-Usage-htop-xl-sm.webp 600w ,https://Gadem.github.io/media/posts/18/responsive/Resource-Usage-htop-xl-md.webp 768w ,https://Gadem.github.io/media/posts/18/responsive/Resource-Usage-htop-xl-lg.webp 1200w ,https://Gadem.github.io/media/posts/18/responsive/Resource-Usage-htop-xl-xl.webp 1600w"  alt="" width="544" height="360"></figure></figure>
+<p>La principal ventaja de usar un administrador de ventanas en lugar de un entorno de escritorio tradicional es el mejor uso de recursos por parte de la distribución subyacente. Por lo tanto, Archcraft también está haciendo lo mismo. Esta distribución usa alrededor de ~390 MB de RAM en estado inactivo en una instalación física. Xorg usa la mayor parte de la memoria solo en estado inactivo, seguido de Plank. El uso de la CPU es mínimo en estado inactivo, por supuesto, a menos que realice alguna operación.</p>
+<p>Y con una combinación de Arch Linux (que ya es rápido), puede ser muy amigable en términos de uso de recursos. Creo que esta distribución puede funcionar bien en hardware de gama baja, siempre que el kernel de Linux principal actual lo admita.</p>
+<h2>Mira y siente</h2>
+<figure class="post__image"><figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/18/Right-Click-Options-xl.webp" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/18/responsive/Right-Click-Options-xl-xs.webp 384w ,https://Gadem.github.io/media/posts/18/responsive/Right-Click-Options-xl-sm.webp 600w ,https://Gadem.github.io/media/posts/18/responsive/Right-Click-Options-xl-md.webp 768w ,https://Gadem.github.io/media/posts/18/responsive/Right-Click-Options-xl-lg.webp 1200w ,https://Gadem.github.io/media/posts/18/responsive/Right-Click-Options-xl-xl.webp 1600w"  alt="" width="466" height="496"></figure></figure>
+<p>Los temas y estilos de Openbox están precargados y son realmente buenos. Son una combinación de estilos claros y oscuros. Los estilos disponibles son: playa, bosque, cuadrícula, manhattan, limo, chispa, ola.</p>
+<p>Puede cambiar fácilmente los temas EN VIVO mientras trabaja desde Preferencias&gt; Cambiar estilo desde el menú contextual del botón derecho.</p>
+<p>Si desea cambiar la configuración principal de Openbox, también puede hacer lo mismo desde Preferencias &gt; Configuración de Openbox/Configuración del compositor.</p>
+<p>El conjunto de fondos de pantalla que está disponible es bueno, vienen incluidos con los temas de Openbox. Sin embargo, también puede usar la generación automática de fondos de pantalla, lo que creo que es un toque diferente en esta distribución de Linux.</p>
 <h2>Galería de temas disponibles:</h2>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://Gadem.github.io/media/posts/18/gallery/21.png" data-size="1920x1080"><img decoding="auto" loading="lazy" src="https://Gadem.github.io/media/posts/18/gallery/21-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<div class="gallery-wrapper gallery-wrapper--full"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="4">
 <figure class="gallery__item"><a href="https://Gadem.github.io/media/posts/18/gallery/20.png" data-size="1920x1080"><img decoding="auto" loading="lazy" src="https://Gadem.github.io/media/posts/18/gallery/20-thumbnail.png" alt="" width="768" height="432"></a></figure>
 <figure class="gallery__item"><a href="https://Gadem.github.io/media/posts/18/gallery/19.png" data-size="1920x1080"><img decoding="auto" loading="lazy" src="https://Gadem.github.io/media/posts/18/gallery/19-thumbnail.png" alt="" width="768" height="432"></a></figure>
 <figure class="gallery__item"><a href="https://Gadem.github.io/media/posts/18/gallery/18.png" data-size="1920x1080"><img decoding="auto" loading="lazy" src="https://Gadem.github.io/media/posts/18/gallery/18-thumbnail.png" alt="" width="768" height="432"></a></figure>
@@ -106,10 +105,8 @@
 <figure class="gallery__item"><a href="https://Gadem.github.io/media/posts/18/gallery/4.png" data-size="1920x1080"><img decoding="auto" loading="lazy" src="https://Gadem.github.io/media/posts/18/gallery/4-thumbnail.png" alt="" width="768" height="432"></a></figure>
 <figure class="gallery__item"><a href="https://Gadem.github.io/media/posts/18/gallery/3.png" data-size="1920x1080"><img decoding="auto" loading="lazy" src="https://Gadem.github.io/media/posts/18/gallery/3-thumbnail.png" alt="" width="768" height="432"></a></figure>
 <figure class="gallery__item"><a href="https://Gadem.github.io/media/posts/18/gallery/2.png" data-size="1920x1080"><img decoding="auto" loading="lazy" src="https://Gadem.github.io/media/posts/18/gallery/2-thumbnail.png" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://Gadem.github.io/media/posts/18/gallery/1.png" data-size="1920x1080"><img decoding="auto" loading="lazy" src="https://Gadem.github.io/media/posts/18/gallery/1-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://Gadem.github.io/media/posts/18/gallery/21.png" data-size="1920x1080"><img decoding="auto" loading="lazy" src="https://Gadem.github.io/media/posts/18/gallery/21-thumbnail.png" alt="" width="768" height="432"></a></figure>
 </div></div>
-<p> </p>
-<p> </p>
             ]]>
         </content>
     </entry>
@@ -120,27 +117,34 @@
         </author>
         <link href="https://Gadem.github.io/linux-from-scratch/"/>
         <id>https://Gadem.github.io/linux-from-scratch/</id>
-            <category term="Software Libre"/>
-            <category term="Reportaje"/>
             <category term="Opinion"/>
             <category term="Open-Source"/>
             <category term="Linux From Scratch"/>
             <category term="LFS"/>
             <category term="GNU/Linux"/>
 
-        <updated>2022-09-02T18:20:31-06:00</updated>
+        <updated>2022-10-08T14:03:30-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://Gadem.github.io/media/posts/17/2-Its-Foss.webp" alt="Linux From Scratch" />
+                        <img src="https://Gadem.github.io/media/posts/17/2-Its-Foss-xl.webp" alt="" />
                     Hace tiempo que quería escribir al respecto, pues hay demasiado misticismo entorno a Linux From Scratch, tambien suele ser una&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://Gadem.github.io/media/posts/17/2-Its-Foss.webp" alt="Linux From Scratch" />
-                <div class="mfn553m3"><span class="gvxzyvdx aeinzg81 t7p7dqev gh25dzvf ocv3nf92 c61n2bf6 oog5qr5w tes86rjd pbevjfx6">Hace tiempo que quería escribir al respecto, pues hay demasiado misticismo entorno a Linux From Scratch, tambien suele ser una respuesta a veces irónica otras veces como señal de ignorancia, otras veces para presumir algo: </span></div>
+                    <img src="https://Gadem.github.io/media/posts/17/2-Its-Foss-xl.webp" alt="" />
+                <header class="post__inner post__header">
+<div class="post__meta">
+<div class="post__meta__right">
+<div class="post__updated"> </div>
+</div>
+</div>
+</header>
+<div class="post__inner">
+<div class="post__entry">
+<div class="mfn553m3"><span class="gvxzyvdx aeinzg81 t7p7dqev gh25dzvf ocv3nf92 c61n2bf6 oog5qr5w tes86rjd pbevjfx6">Hace tiempo que quería escribir al respecto, pues hay demasiado misticismo entorno a Linux From Scratch, tambien suele ser una respuesta a veces irónica otras veces como señal de ignorancia, otras veces para presumir algo:</span></div>
 <div class="anf3k8p9">
-<blockquote class="hxf2uw4e bf1zulr9 iv31pflw l7ghb35v kmwttqpk jarlqp65 i0rxk2l3 r227ecj6 gt60zsk1"><span class="gvxzyvdx aeinzg81 t7p7dqev gh25dzvf ocv3nf92 c61n2bf6 oog5qr5w tes86rjd pbevjfx6"><span class="gvxzyvdx aeinzg81 t7p7dqev gh25dzvf ocv3nf92 c61n2bf6 oog5qr5w tes86rjd rtxb060y"><i>"Instalé Arch y estoy muy feliz! <br>- No hay ningún mérito, instala LFS y entonces si"</i></span></span></blockquote>
+<blockquote class="hxf2uw4e bf1zulr9 iv31pflw l7ghb35v kmwttqpk jarlqp65 i0rxk2l3 r227ecj6 gt60zsk1"><span class="gvxzyvdx aeinzg81 t7p7dqev gh25dzvf ocv3nf92 c61n2bf6 oog5qr5w tes86rjd pbevjfx6"><span class="gvxzyvdx aeinzg81 t7p7dqev gh25dzvf ocv3nf92 c61n2bf6 oog5qr5w tes86rjd rtxb060y"><i>"Instalé Arch y estoy muy feliz!<br>- No hay ningún mérito, instala LFS y entonces si"</i></span></span></blockquote>
 </div>
 <div class="mfn553m3"><span class="gvxzyvdx aeinzg81 t7p7dqev gh25dzvf ocv3nf92 c61n2bf6 oog5qr5w tes86rjd pbevjfx6">Lo cierto es que el 99% de las personas que responden así o usan LFS como argumento para hacer distro-shaming, jamás han realizado LFS, probablemente jamás hayan compilado un paquete a mano. Por qué digo esto? Porque quien lo haya hecho, sabe que no es algo que le recomiendes a alguien mas con fines de uso diario.</span></div>
 <h5 class="jxuftiz4 jwegzro5 hl4rid49 icdlwmnq rbcf3a04 sxswz4zx jenc4j3g"><span class="gvxzyvdx aeinzg81 t7p7dqev gh25dzvf ocv3nf92 c61n2bf6 oog5qr5w o48pnaf2 rtxb060y">Entendamos que es LFS, entendiendo primero lo que no es:</span></h5>
@@ -155,7 +159,7 @@
 <div class="mfn553m3"><span class="gvxzyvdx aeinzg81 t7p7dqev gh25dzvf ocv3nf92 c61n2bf6 oog5qr5w tes86rjd pbevjfx6">No es la graduación del mundo Linux.</span></div>
 </li>
 <li>
-<div class="mfn553m3"><span class="gvxzyvdx aeinzg81 t7p7dqev gh25dzvf ocv3nf92 c61n2bf6 oog5qr5w tes86rjd pbevjfx6">No es una medalla que te hace el maestro de Linux. </span></div>
+<div class="mfn553m3"><span class="gvxzyvdx aeinzg81 t7p7dqev gh25dzvf ocv3nf92 c61n2bf6 oog5qr5w tes86rjd pbevjfx6">No es una medalla que te hace el maestro de Linux.</span></div>
 </li>
 </ul>
 <h5 class="jxuftiz4 jwegzro5 hl4rid49 icdlwmnq rbcf3a04 sxswz4zx jenc4j3g"><span class="gvxzyvdx aeinzg81 t7p7dqev gh25dzvf ocv3nf92 c61n2bf6 oog5qr5w o48pnaf2 rtxb060y">Qué si es LFS?</span></h5>
@@ -164,24 +168,26 @@
 <div class="mfn553m3"><span class="gvxzyvdx aeinzg81 t7p7dqev gh25dzvf ocv3nf92 c61n2bf6 oog5qr5w tes86rjd pbevjfx6">Es un proyecto para desarrollar un sistema desde cero.</span></div>
 </li>
 </ul>
-<div class="mfn553m3"><span class="gvxzyvdx aeinzg81 t7p7dqev gh25dzvf ocv3nf92 c61n2bf6 oog5qr5w tes86rjd pbevjfx6">Cuál es exactamente el objetivo de LFS? Según su autor, comenzó todo cuando no encontró una distribución de Linux que le satisfajera, se dedico a instalarlo desde cero para despues documentarlo y crear una guía. Eventualmente esto se convirtió mas que en un modelo para crear un sistema propio en un proyecto <strong>meramente didáctico</strong>. </span></div>
-<div class="mfn553m3"><span class="gvxzyvdx aeinzg81 t7p7dqev gh25dzvf ocv3nf92 c61n2bf6 oog5qr5w tes86rjd pbevjfx6">Cómo se pasa un proyecto tan ambicioso como crear una sistema totalmente a la medida a ser un proyecto didactico? </span></div>
-<div class="mfn553m3"><span class="gvxzyvdx aeinzg81 t7p7dqev gh25dzvf ocv3nf92 c61n2bf6 oog5qr5w tes86rjd pbevjfx6">Primero esta la enorme variedad de hardware existente, reunir documentación para todas las combinaciones de harware existentes es practicamente imposible. </span></div>
-<div class="mfn553m3"><span class="gvxzyvdx aeinzg81 t7p7dqev gh25dzvf ocv3nf92 c61n2bf6 oog5qr5w tes86rjd pbevjfx6">Segundo y clave, el mantenimiento. Usar un LFS como sistema diario es practicamente imposible dado el complejo mantenimiento que se necesita, en alguna vieja y probablemente extinta lista de correo alguna vez se preguntó si LFS podía usarse como 'daily-driver', la respuesta unánime fue: "Si, si tu unico trabajo es mantener una distribución LFS". Instalar cada paquete desde su código fuente inevitablemente llevará a su usuario al llamado 'dependency-hell', infierno de dependencias, que acabaran por hacer al sistema inutilizable. </span></div>
-<div class="mfn553m3"><span class="gvxzyvdx aeinzg81 t7p7dqev gh25dzvf ocv3nf92 c61n2bf6 oog5qr5w tes86rjd pbevjfx6">Estás diciendo que LFS es el diablo, que no debería existir? <br>- Absolutamente no. </span></div>
-<div class="mfn553m3"><span class="gvxzyvdx aeinzg81 t7p7dqev gh25dzvf ocv3nf92 c61n2bf6 oog5qr5w tes86rjd pbevjfx6">LFS sea quizas uno de los mejores proyectos de aprendizaje del sistema operativo Linux, el gran acierto es al realizarlo aprenderás desde lo más básico como funciona un sistema Linux, que es cada uno de los archivos, que es cada uno de los paquetes y como funcionan todos en conjunto y todo de manera práctica, aprenderás a auditar cada aspecto del sistema, especialmente en terminos de seguridad y tendrás un control absoluto, pues no habrá un solo paquete que no hayas instalado tu, sabrás a detalle que hay en tu sistema, esto es algo que ninguna distribución podrá darte. </span></div>
+<div class="mfn553m3"><span class="gvxzyvdx aeinzg81 t7p7dqev gh25dzvf ocv3nf92 c61n2bf6 oog5qr5w tes86rjd pbevjfx6">Cuál es exactamente el objetivo de LFS? Según su autor, comenzó todo cuando no encontró una distribución de Linux que le satisfajera, se dedico a instalarlo desde cero para despues documentarlo y crear una guía. Eventualmente esto se convirtió mas que en un modelo para crear un sistema propio en un proyecto <strong>meramente didáctico</strong>.</span></div>
+<div class="mfn553m3"><span class="gvxzyvdx aeinzg81 t7p7dqev gh25dzvf ocv3nf92 c61n2bf6 oog5qr5w tes86rjd pbevjfx6">Cómo se pasa un proyecto tan ambicioso como crear una sistema totalmente a la medida a ser un proyecto didactico?</span></div>
+<div class="mfn553m3"><span class="gvxzyvdx aeinzg81 t7p7dqev gh25dzvf ocv3nf92 c61n2bf6 oog5qr5w tes86rjd pbevjfx6">Primero esta la enorme variedad de hardware existente, reunir documentación para todas las combinaciones de harware existentes es practicamente imposible.</span></div>
+<div class="mfn553m3"><span class="gvxzyvdx aeinzg81 t7p7dqev gh25dzvf ocv3nf92 c61n2bf6 oog5qr5w tes86rjd pbevjfx6">Segundo y clave, el mantenimiento. Usar un LFS como sistema diario es practicamente imposible dado el complejo mantenimiento que se necesita, en alguna vieja y probablemente extinta lista de correo alguna vez se preguntó si LFS podía usarse como 'daily-driver', la respuesta unánime fue: "Si, si tu unico trabajo es mantener una distribución LFS". Instalar cada paquete desde su código fuente inevitablemente llevará a su usuario al llamado 'dependency-hell', infierno de dependencias, que acabaran por hacer al sistema inutilizable.</span></div>
+<div class="mfn553m3"><span class="gvxzyvdx aeinzg81 t7p7dqev gh25dzvf ocv3nf92 c61n2bf6 oog5qr5w tes86rjd pbevjfx6">Estás diciendo que LFS es el diablo, que no debería existir?<br>- Absolutamente no.</span></div>
+<div class="mfn553m3"><span class="gvxzyvdx aeinzg81 t7p7dqev gh25dzvf ocv3nf92 c61n2bf6 oog5qr5w tes86rjd pbevjfx6">LFS sea quizas uno de los mejores proyectos de aprendizaje del sistema operativo Linux, el gran acierto es al realizarlo aprenderás desde lo más básico como funciona un sistema Linux, que es cada uno de los archivos, que es cada uno de los paquetes y como funcionan todos en conjunto y todo de manera práctica, aprenderás a auditar cada aspecto del sistema, especialmente en terminos de seguridad y tendrás un control absoluto, pues no habrá un solo paquete que no hayas instalado tu, sabrás a detalle que hay en tu sistema, esto es algo que ninguna distribución podrá darte.</span></div>
 <div class="mfn553m3"><span class="gvxzyvdx aeinzg81 t7p7dqev gh25dzvf ocv3nf92 c61n2bf6 oog5qr5w tes86rjd pbevjfx6">Aun así, LFS no es obligatorio, es un ejercicio practico excelente, pero esto tampoco lo convierte en el modo definitivo para aprender, existen hoy en dia, cursos certificados por la Linux Foundation que te enseñaran lo justo y necesario dependiendo de tu interés en el mundo del pingüino.</span></div>
 <h5 class="jxuftiz4 jwegzro5 hl4rid49 icdlwmnq rbcf3a04 sxswz4zx jenc4j3g"><span class="gvxzyvdx aeinzg81 t7p7dqev gh25dzvf ocv3nf92 c61n2bf6 oog5qr5w o48pnaf2 rtxb060y">Necesitas ser un experto y un genio en sistemas para instalar LFS?.</span></h5>
-<div class="mfn553m3"><span class="gvxzyvdx aeinzg81 t7p7dqev gh25dzvf ocv3nf92 c61n2bf6 oog5qr5w tes86rjd pbevjfx6">Rotundamente no. Reitero lo dicho antes, lo que mas necesitas para hacer LFS, es mucho, mucho tiempo libre, paciencia y sobre todo, no olvidar que el proyecto LFS per se, es un libro, no una distribución, no un paquete, es un libro y en consecuencia debe ser leido de inicio a fin y en orden, es decir, necesitas leer y comprensión lectora acompañado de la capacidad de seguir instrucciones. Quizas la carencia de hoy en dia de la capacidad lectora y el apego a manuales en formato de video, hacen cada a LFS cada vez mas un unicornio inalcanzable, pero en serio, no lo es no necesitas ser un genio ni un nerd, solo necesitas tiempo, paciencia y dedicación. </span></div>
-<h5 class="jxuftiz4 jwegzro5 hl4rid49 icdlwmnq rbcf3a04 sxswz4zx jenc4j3g"><span class="gvxzyvdx aeinzg81 t7p7dqev gh25dzvf ocv3nf92 c61n2bf6 oog5qr5w o48pnaf2 rtxb060y">Entonces es bueno recomendar o no LFS? </span></h5>
+<div class="mfn553m3"><span class="gvxzyvdx aeinzg81 t7p7dqev gh25dzvf ocv3nf92 c61n2bf6 oog5qr5w tes86rjd pbevjfx6">Rotundamente no. Reitero lo dicho antes, lo que mas necesitas para hacer LFS, es mucho, mucho tiempo libre, paciencia y sobre todo, no olvidar que el proyecto LFS per se, es un libro, no una distribución, no un paquete, es un libro y en consecuencia debe ser leido de inicio a fin y en orden, es decir, necesitas leer y comprensión lectora acompañado de la capacidad de seguir instrucciones. Quizas la carencia de hoy en dia de la capacidad lectora y el apego a manuales en formato de video, hacen cada a LFS cada vez mas un unicornio inalcanzable, pero en serio, no lo es no necesitas ser un genio ni un nerd, solo necesitas tiempo, paciencia y dedicación.</span></div>
+<h5 class="jxuftiz4 jwegzro5 hl4rid49 icdlwmnq rbcf3a04 sxswz4zx jenc4j3g"><span class="gvxzyvdx aeinzg81 t7p7dqev gh25dzvf ocv3nf92 c61n2bf6 oog5qr5w o48pnaf2 rtxb060y">Entonces es bueno recomendar o no LFS?</span></h5>
 <div class="mfn553m3"><span class="gvxzyvdx aeinzg81 t7p7dqev gh25dzvf ocv3nf92 c61n2bf6 oog5qr5w tes86rjd pbevjfx6">Por supuesto que si, a alguien que quiere aprender, que tiene el tiempo y la disposición de leer mucho, que tiene un equipo extra o que tiene la capacidad de prescindir de su computadora por dias o semanas, incluso como hobby.</span></div>
-<div class="mfn553m3"><span class="gvxzyvdx aeinzg81 t7p7dqev gh25dzvf ocv3nf92 c61n2bf6 oog5qr5w tes86rjd pbevjfx6"><strong>A quien NO le recomendaria LF</strong>S, a alguien que solo quiere un sistema a la medida para usarlo diario de manera productiva. Para eso hay opciones mas amigables pero sobre todo pragmaticas, como Gentoo, Funtoo, Arch y Slackware. </span></div>
-<div class="mfn553m3"><span class="gvxzyvdx aeinzg81 t7p7dqev gh25dzvf ocv3nf92 c61n2bf6 oog5qr5w tes86rjd pbevjfx6">Victor, tu has hecho LFS? Si, hace 12 años mas o menos me tomó aproximadamente un mes instalar un servidor LAMP con LFS. 5 años después, con considerablemente mejor hardware me tomo 2 semanas hacer BLFS booteable con GUI/KDE. Lo haría una tercera vez? No, ya obtuve lo que necesitaba de LFS y hacerlo de nuevo sería una perdida de tiempo, que ya no tengo en la misma medida que antes. </span></div>
+<div class="mfn553m3"><span class="gvxzyvdx aeinzg81 t7p7dqev gh25dzvf ocv3nf92 c61n2bf6 oog5qr5w tes86rjd pbevjfx6"><strong>A quien NO le recomendaria LF</strong>S, a alguien que solo quiere un sistema a la medida para usarlo diario de manera productiva. Para eso hay opciones mas amigables pero sobre todo pragmaticas, como Gentoo, Funtoo, Arch y Slackware.</span></div>
+<div class="mfn553m3"><span class="gvxzyvdx aeinzg81 t7p7dqev gh25dzvf ocv3nf92 c61n2bf6 oog5qr5w tes86rjd pbevjfx6">Victor, tu has hecho LFS? Si, hace 12 años mas o menos me tomó aproximadamente un mes instalar un servidor LAMP con LFS. 5 años después, con considerablemente mejor hardware me tomo 2 semanas hacer BLFS booteable con GUI/KDE. Lo haría una tercera vez? No, ya obtuve lo que necesitaba de LFS y hacerlo de nuevo sería una perdida de tiempo, que ya no tengo en la misma medida que antes.</span></div>
 <div class="mfn553m3"> </div>
 <h4 class="jxuftiz4 jwegzro5 hl4rid49 icdlwmnq qjfq86k5 ihx95mk1"><span class="gvxzyvdx aeinzg81 t7p7dqev gh25dzvf ocv3nf92 rq8durfe luz166fr tes86rjd pbevjfx6">TL/TR</span></h4>
-<div class="mfn553m3"><span class="gvxzyvdx aeinzg81 t7p7dqev gh25dzvf ocv3nf92 c61n2bf6 oog5qr5w tes86rjd pbevjfx6">En conclusión, LFS es un excelente metodo de aprendizaje, considerelo si aprender la arquitectura y funcionamiento de un sistema operativo es fundamental en su formación, si esta interesado en la seguridad informatica -de forma seria-. </span></div>
-<div class="mfn553m3"><span class="gvxzyvdx aeinzg81 t7p7dqev gh25dzvf ocv3nf92 c61n2bf6 oog5qr5w tes86rjd pbevjfx6">LFS no es un sistema de uso diario, si alguien te lo recomienda para ello, desestima su opinión con confianza. </span></div>
-<div class="mfn553m3"><span class="gvxzyvdx aeinzg81 t7p7dqev gh25dzvf ocv3nf92 c61n2bf6 oog5qr5w tes86rjd pbevjfx6">Si leyeron hasta aquí, gracias por su tiempo. </span></div>
+<div class="mfn553m3"><span class="gvxzyvdx aeinzg81 t7p7dqev gh25dzvf ocv3nf92 c61n2bf6 oog5qr5w tes86rjd pbevjfx6">En conclusión, LFS es un excelente metodo de aprendizaje, considerelo si aprender la arquitectura y funcionamiento de un sistema operativo es fundamental en su formación, si esta interesado en la seguridad informatica -de forma seria-.</span></div>
+<div class="mfn553m3"><span class="gvxzyvdx aeinzg81 t7p7dqev gh25dzvf ocv3nf92 c61n2bf6 oog5qr5w tes86rjd pbevjfx6">LFS no es un sistema de uso diario, si alguien te lo recomienda para ello, desestima su opinión con confianza.</span></div>
+<div class="mfn553m3"><span class="gvxzyvdx aeinzg81 t7p7dqev gh25dzvf ocv3nf92 c61n2bf6 oog5qr5w tes86rjd pbevjfx6">Si leyeron hasta aquí, gracias por su tiempo.</span></div>
+</div>
+</div>
             ]]>
         </content>
     </entry>
@@ -199,7 +205,7 @@
             <category term="Distribucion"/>
             <category term="Arch Linux"/>
 
-        <updated>2022-09-02T18:20:21-06:00</updated>
+        <updated>2022-10-08T14:00:02-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://Gadem.github.io/media/posts/16/archcraft.png" alt="" />
@@ -280,7 +286,7 @@
             <category term="Noticias"/>
             <category term="Distribucion"/>
 
-        <updated>2022-08-29T11:37:40-06:00</updated>
+        <updated>2022-08-29T12:37:40-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://Gadem.github.io/media/posts/15/LXLE_16.04.1.png" alt="Las mejores distribuciones ligeras de Linux para computadoras antiguas" />
@@ -529,7 +535,7 @@
             <category term="GNU/Linux"/>
             <category term="Distribucion"/>
 
-        <updated>2022-06-20T14:16:08-06:00</updated>
+        <updated>2022-06-20T15:16:08-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://Gadem.github.io/media/posts/14/Captura-desde-2022-06-20-14-11-39.png" alt="Manjaro 21.3.0" />
@@ -574,7 +580,7 @@
             <category term="Gnome"/>
             <category term="GNU/Linux"/>
 
-        <updated>2022-06-19T19:15:32-06:00</updated>
+        <updated>2022-06-19T20:15:32-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://Gadem.github.io/media/posts/13/GNOME_Shell_with_some_GNOME_applications_version_40_released_in_2021-03.png" alt="https://twitter.com/sunnydeveloper/status/1536744475979939841" />
@@ -606,7 +612,7 @@
             <category term="Diseño"/>
             <category term="Actualización"/>
 
-        <updated>2022-06-16T20:51:47-06:00</updated>
+        <updated>2022-06-16T21:51:47-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://Gadem.github.io/media/posts/12/GIMP.png" alt="" />
@@ -645,7 +651,7 @@
             <category term="GNU/Linux"/>
             <category term="Descargas"/>
 
-        <updated>2022-08-28T18:55:18-06:00</updated>
+        <updated>2022-08-28T19:55:18-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://Gadem.github.io/media/posts/11/Captura-desde-2022-06-13-12-55-14.png" alt="Speek! Una alternativa Open-Source descentralizada y más segura que WhatsApp." />
@@ -707,7 +713,7 @@ Nadie es capaz de interceptar sus mensajes. Los mensajes solo se almacenan tempo
             <category term="Flatpack App"/>
             <category term="Descargas"/>
 
-        <updated>2022-06-12T16:49:37-06:00</updated>
+        <updated>2022-06-12T17:49:37-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://Gadem.github.io/media/posts/10/Captura-desde-2022-06-12-16-38-16.png" alt="" />
@@ -751,7 +757,7 @@ Nadie es capaz de interceptar sus mensajes. Los mensajes solo se almacenan tempo
             <category term="Noticias"/>
             <category term="Atom"/>
 
-        <updated>2022-06-09T21:52:58-06:00</updated>
+        <updated>2022-06-09T22:52:58-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://Gadem.github.io/media/posts/9/screenshot-of-atom-text-editor-on-ubuntu-22.04.jpg" alt="Atom en Ubuntu" />

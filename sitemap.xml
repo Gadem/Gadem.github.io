@@ -6,7 +6,7 @@
 </url>
 <url>
 <loc>https://Gadem.github.io/5-distribuciones-minimalistas-de-linux-con-openbox/</loc>
-<lastmod>2022-09-02T18:20:21-06:00</lastmod>
+<lastmod>2022-10-08T14:00:02-05:00</lastmod>
 <image:image>
 <image:loc>https://Gadem.github.io/media/posts/16/archcraft.png</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -34,7 +34,7 @@
 </url>
 <url>
 <loc>https://Gadem.github.io/aapanel-una-alternativa-a-cpanel-gratuito-y-open-source/</loc>
-<lastmod>2022-06-07T13:43:11-06:00</lastmod>
+<lastmod>2022-06-07T14:43:11-05:00</lastmod>
 <image:image>
 <image:loc>https://Gadem.github.io/media/posts/4/aapanel_375517_full-md.webp</image:loc>
 <image:title><![CDATA[aaPanel, una alternativa gratuita a cPanel]]></image:title>
@@ -62,7 +62,7 @@
 </url>
 <url>
 <loc>https://Gadem.github.io/albion-online-parche-into-the-fray/</loc>
-<lastmod>2022-06-08T20:49:15-06:00</lastmod>
+<lastmod>2022-06-08T21:49:15-05:00</lastmod>
 <image:image>
 <image:loc>https://Gadem.github.io/media/posts/8/627cfc8ed95cb_default_12col.jpeg</image:loc>
 <image:title><![CDATA[Albion In to the fray]]></image:title>
@@ -110,25 +110,21 @@
 </url>
 <url>
 <loc>https://Gadem.github.io/archcraft-openbox-otra-distribucion-minima-de-linux-basado-en-archlinux/</loc>
-<lastmod>2022-09-03T15:39:06-06:00</lastmod>
+<lastmod>2022-10-08T14:11:47-05:00</lastmod>
 <image:image>
-<image:loc>https://Gadem.github.io/media/posts/18/welcome.png</image:loc>
+<image:loc>https://Gadem.github.io/media/posts/18/welcome-xl.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://Gadem.github.io/media/posts/18/Archcraft-OS-Launcher.webp</image:loc>
+<image:loc>https://Gadem.github.io/media/posts/18/Archcraft-OS-Launcher-xl.webp</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://Gadem.github.io/media/posts/18/Resource-Usage-htop.webp</image:loc>
+<image:loc>https://Gadem.github.io/media/posts/18/Resource-Usage-htop-xl.webp</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://Gadem.github.io/media/posts/18/Right-Click-Options.webp</image:loc>
-<image:title><![CDATA[]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://Gadem.github.io/media/posts/18/gallery/21-thumbnail.png</image:loc>
+<image:loc>https://Gadem.github.io/media/posts/18/Right-Click-Options-xl.webp</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
@@ -208,13 +204,13 @@
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://Gadem.github.io/media/posts/18/gallery/1-thumbnail.png</image:loc>
+<image:loc>https://Gadem.github.io/media/posts/18/gallery/21-thumbnail.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
 <loc>https://Gadem.github.io/contribuya-en-la-semana-de-prueba-de-fedora-linux-37-para-kernel-518/</loc>
-<lastmod>2022-06-08T20:40:47-06:00</lastmod>
+<lastmod>2022-06-08T21:40:47-05:00</lastmod>
 <image:image>
 <image:loc>https://Gadem.github.io/media/posts/7/test-days-816x345.jpg</image:loc>
 <image:title><![CDATA[Fedora Test Days]]></image:title>
@@ -222,7 +218,7 @@
 </url>
 <url>
 <loc>https://Gadem.github.io/gimp-21032-mejora-la-usabilidad-e-incluye-soporte-para-bigtiff/</loc>
-<lastmod>2022-06-16T20:51:47-06:00</lastmod>
+<lastmod>2022-06-16T21:51:47-05:00</lastmod>
 <image:image>
 <image:loc>https://Gadem.github.io/media/posts/12/GIMP.png</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -234,7 +230,7 @@
 </url>
 <url>
 <loc>https://Gadem.github.io/github-jubila-el-editor-de-texto-atom-para-centrarse-en-vscode-en-su-lugar/</loc>
-<lastmod>2022-06-09T21:52:58-06:00</lastmod>
+<lastmod>2022-06-09T22:52:58-05:00</lastmod>
 <image:image>
 <image:loc>https://Gadem.github.io/media/posts/9/screenshot-of-atom-text-editor-on-ubuntu-22.04.jpg</image:loc>
 <image:title><![CDATA[Atom en Ubuntu]]></image:title>
@@ -242,7 +238,7 @@
 </url>
 <url>
 <loc>https://Gadem.github.io/hola-mundo/</loc>
-<lastmod>2022-06-07T12:54:17-06:00</lastmod>
+<lastmod>2022-06-07T13:54:17-05:00</lastmod>
 <image:image>
 <image:loc>https://Gadem.github.io/media/posts/1/bienvenido.png</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -254,7 +250,7 @@
 </url>
 <url>
 <loc>https://Gadem.github.io/lanzamiento-manjaro-linux-2130/</loc>
-<lastmod>2022-06-20T14:16:08-06:00</lastmod>
+<lastmod>2022-06-20T15:16:08-05:00</lastmod>
 <image:image>
 <image:loc>https://Gadem.github.io/media/posts/14/Captura-desde-2022-06-20-14-11-39.png</image:loc>
 <image:title><![CDATA[Manjaro 21.3.0]]></image:title>
@@ -274,7 +270,7 @@
 </url>
 <url>
 <loc>https://Gadem.github.io/las-mejores-distribuciones-ligeras-de-linux-para-computadoras-antiguas/</loc>
-<lastmod>2022-08-29T11:37:40-06:00</lastmod>
+<lastmod>2022-08-29T12:37:40-05:00</lastmod>
 <image:image>
 <image:loc>https://Gadem.github.io/media/posts/15/LXLE_16.04.1.png</image:loc>
 <image:title><![CDATA[Las mejores distribuciones ligeras de Linux para computadoras antiguas]]></image:title>
@@ -346,15 +342,15 @@
 </url>
 <url>
 <loc>https://Gadem.github.io/linux-from-scratch/</loc>
-<lastmod>2022-09-02T18:20:31-06:00</lastmod>
+<lastmod>2022-10-08T14:03:30-05:00</lastmod>
 <image:image>
-<image:loc>https://Gadem.github.io/media/posts/17/2-Its-Foss.webp</image:loc>
-<image:title><![CDATA[Linux From Scratch]]></image:title>
+<image:loc>https://Gadem.github.io/media/posts/17/2-Its-Foss-xl.webp</image:loc>
+<image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
 <loc>https://Gadem.github.io/microsoft-le-da-dollar-10k-a-gnome-por-ser-asombroso-basicamente/</loc>
-<lastmod>2022-06-19T19:15:32-06:00</lastmod>
+<lastmod>2022-06-19T20:15:32-05:00</lastmod>
 <image:image>
 <image:loc>https://Gadem.github.io/media/posts/13/GNOME_Shell_with_some_GNOME_applications_version_40_released_in_2021-03.png</image:loc>
 <image:title><![CDATA[https://twitter.com/sunnydeveloper/status/1536744475979939841]]></image:title>
@@ -362,7 +358,7 @@
 </url>
 <url>
 <loc>https://Gadem.github.io/mobirise-v569-beta-para-fedora-36/</loc>
-<lastmod>2022-08-28T18:56:02-06:00</lastmod>
+<lastmod>2022-08-28T19:56:02-05:00</lastmod>
 <image:image>
 <image:loc>https://Gadem.github.io/media/posts/2/mobirise.png</image:loc>
 <image:title><![CDATA[Mobirise v5.6.9 Beta para Fedora 36 (Distros RPM)]]></image:title>
@@ -380,7 +376,7 @@
 </url>
 <url>
 <loc>https://Gadem.github.io/paper-es-una-elegante-aplicacion-para-tomar-notas-para-linux/</loc>
-<lastmod>2022-06-12T16:49:37-06:00</lastmod>
+<lastmod>2022-06-12T17:49:37-05:00</lastmod>
 <image:image>
 <image:loc>https://Gadem.github.io/media/posts/10/Captura-desde-2022-06-12-16-38-16.png</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -392,11 +388,11 @@
 </url>
 <url>
 <loc>https://Gadem.github.io/politica-de-privacidad/</loc>
-<lastmod>2022-06-08T15:49:16-06:00</lastmod>
+<lastmod>2022-06-08T16:49:16-05:00</lastmod>
 </url>
 <url>
 <loc>https://Gadem.github.io/speek-una-alternativa-open-source-descentralizada-y-mas-segura-que-whatsapp/</loc>
-<lastmod>2022-08-28T18:55:18-06:00</lastmod>
+<lastmod>2022-08-28T19:55:18-05:00</lastmod>
 <image:image>
 <image:loc>https://Gadem.github.io/media/posts/11/Captura-desde-2022-06-13-12-55-14.png</image:loc>
 <image:title><![CDATA[Speek! Una alternativa Open-Source descentralizada y más segura que WhatsApp.]]></image:title>
@@ -412,7 +408,7 @@
 </url>
 <url>
 <loc>https://Gadem.github.io/splashy-desktop-201-2-para-fedora-36-distros-rpm/</loc>
-<lastmod>2022-08-28T18:55:39-06:00</lastmod>
+<lastmod>2022-08-28T19:55:39-05:00</lastmod>
 <image:image>
 <image:loc>https://Gadem.github.io/media/posts/3/splashy.png</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -424,7 +420,7 @@
 </url>
 <url>
 <loc>https://Gadem.github.io/ubuntu-2210-hace-que-pipewire-sea-el-servidor-predeterminado-para-audio/</loc>
-<lastmod>2022-06-07T15:43:45-06:00</lastmod>
+<lastmod>2022-06-07T16:43:45-05:00</lastmod>
 <image:image>
 <image:loc>https://Gadem.github.io/media/posts/5/card.png</image:loc>
 <image:title><![CDATA[]]></image:title>
