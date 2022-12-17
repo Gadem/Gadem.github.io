@@ -1,14 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Gadem&#x27;s Blog</title>
     <link href="https://Gadem.github.io/feed.xml" rel="self" />
     <link href="https://Gadem.github.io" />
-    <updated>2022-10-08T15:04:21-05:00</updated>
+    <updated>2022-12-17T15:46:45-06:00</updated>
     <author>
         <name>Adrian Mora (Gadem)</name>
     </author>
     <id>https://Gadem.github.io</id>
 
+    <entry>
+        <title>Mozilla Firefox 108 ya está disponible para descargar</title>
+        <author>
+            <name>Adrian Mora (Gadem)</name>
+        </author>
+        <link href="https://Gadem.github.io/mozilla-firefox-108-ya-esta-disponible-para-descargar/"/>
+        <id>https://Gadem.github.io/mozilla-firefox-108-ya-esta-disponible-para-descargar/</id>
+        <media:content url="https://Gadem.github.io/media/posts/20/Captura-desde-2022-12-17-15-44-56-2.png" medium="image" />
+            <category term="Noticias"/>
+            <category term="Navegador"/>
+            <category term="Firefox"/>
+            <category term="Descargas"/>
+            <category term="Actualización"/>
+
+        <updated>2022-12-17T15:46:45-06:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://Gadem.github.io/media/posts/20/Captura-desde-2022-12-17-15-44-56-2.png" alt="Firefox 108" />
+                    Una nueva versión del navegador web Firefox está disponible para descargar. Mozilla Firefox 108 es el último lanzamiento previsto para&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://Gadem.github.io/media/posts/20/Captura-desde-2022-12-17-15-44-56-2.png" class="type:primaryImage" alt="Firefox 108" /></p>
+                <p><strong><span><span class="goog-text-highlight">Una nueva versión del navegador web Firefox está disponible para descargar.</span></span></strong></p>
+<p><span>Mozilla Firefox 108 es el último lanzamiento previsto para este año. Cuenta con un pequeño conjunto de mejoras modestas diseñadas para mejorar la usabilidad, la seguridad y la estabilidad del navegador cuando se usa para acceder a las principales plataformas de escritorio.</span></p>
+<p><span>La nueva característica "titular" es la <strong>compatibilidad con </strong></span><strong><span>la API WebMIDI</span></strong><span> . Esto permite que Firefox (más específicamente, las cosas que se ejecutan dentro de Firefox) se conecten e interactúen con dispositivos MIDI (interfaz digital de instrumentos musicales) conectados a una PC. <span class="">No todos los dispositivos MIDI son instrumentos musicales, por lo que la función también tiene aplicaciones no melodiosas.</span></span></p>
+<p><span>Firefox 108 también es mejor en el manejo de caracteres que no son ASCII al guardar e imprimir formularios PDF; agrega la combinación de teclas </span><code>shift</code><span>+ </span><code>esc</code><span>para abrir </span><em><span>Process Manager</span></em><span> (una gran utilidad para ver qué pestañas usan más recursos); y gana soporte para bucles de video continuos en sitios/reproductores que lo soporten.</span></p>
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/20/Captura-desde-2022-12-17-15-44-56.png" alt="" width="1366" height="736" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/20/responsive/Captura-desde-2022-12-17-15-44-56-xs.png 384w ,https://Gadem.github.io/media/posts/20/responsive/Captura-desde-2022-12-17-15-44-56-sm.png 600w ,https://Gadem.github.io/media/posts/20/responsive/Captura-desde-2022-12-17-15-44-56-md.png 768w ,https://Gadem.github.io/media/posts/20/responsive/Captura-desde-2022-12-17-15-44-56-lg.png 1200w ,https://Gadem.github.io/media/posts/20/responsive/Captura-desde-2022-12-17-15-44-56-xl.png 1600w"></figure></figure>
+<p><span>El navegador puede manejar correctamente imágenes utilizando perfiles ICCv4 y permite importar mapas de forma predeterminada para permitir que las páginas web "controlen el comportamiento de las importaciones de JavaScript".</span></p>
+<p><span>En el lado de Linux, hay correcciones de errores y mejoras de usabilidad, incluida una refactorización del bloque del controlador WebRender para usar una política de 'permitir de forma predeterminada'. Esto puede habilitar WebRender en más dispositivos Linux que antes. Como existe la posibilidad de problemas, Mozilla planea comenzar a bloquear los dispositivos "malos" conocidos en lugar de permitir los "buenos".</span></p>
+<p><span>Mozilla Firefox 108 es un software gratuito de código abierto. Puede descargar el lanzamiento </span><span>desde el FTP de Mozilla</span><span> para todas las plataformas compatibles </span><em><span>ahora mismo</span></em><span> o esperar a que la actualización se implemente a través de su canal de lanzamiento preferido a partir del martes 13 de diciembre.</span></p>
+</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>¿Mejor que Ubuntu? Las 5 mejores distribuciones de Linux para los amantes de Ubuntu</title>
         <author>
@@ -16,6 +53,7 @@
         </author>
         <link href="https://Gadem.github.io/las-11-mejores-distribuciones-de-linux-para-los-amantes-de-ubuntu/"/>
         <id>https://Gadem.github.io/las-11-mejores-distribuciones-de-linux-para-los-amantes-de-ubuntu/</id>
+        <media:content url="https://Gadem.github.io/media/posts/19/mejores-que-ubuntu.png" medium="image" />
             <category term="distros"/>
             <category term="Zorin OS"/>
             <category term="Xubuntu "/>
@@ -38,14 +76,14 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://Gadem.github.io/media/posts/19/mejores-que-ubuntu.png" alt="" />
+                    <p><img src="https://Gadem.github.io/media/posts/19/mejores-que-ubuntu.png" class="type:primaryImage" alt="" /></p>
                 <p>Si está en su viaje para encontrar la distribución perfecta para su sistema, las posibilidades de terminar con distribuciones basadas en Ubuntu son bastante altas.</p>
 <p>Usted puede preguntar por qué.</p>
 <p>Bueno, no sorprende que Ubuntu sea una de las distribuciones de Linux más amigables para principiantes . También es increíblemente popular, por lo que encontrará una gran comunidad de usuarios detrás de él. No solo eso, también es muy utilizado en servidores en la nube .</p>
 <p>Entonces, tener Ubuntu como base para cualquier distribución de Linux debería tener ventajas útiles, ¿verdad?</p>
 <p>Y es por eso que se me ocurrió una lista de las mejores distribuciones basadas en Ubuntu con la esperanza de que encontraras algo lo suficientemente digno como para dejar de cambiar de distribución.</p>
 <h2 class="western">1. Sabores oficiales de Ubuntu</h2>
-<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/19/budgie-desktop-screenshot-2022.webp" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/19/responsive/budgie-desktop-screenshot-2022-xs.webp 384w ,https://Gadem.github.io/media/posts/19/responsive/budgie-desktop-screenshot-2022-sm.webp 600w ,https://Gadem.github.io/media/posts/19/responsive/budgie-desktop-screenshot-2022-md.webp 768w ,https://Gadem.github.io/media/posts/19/responsive/budgie-desktop-screenshot-2022-lg.webp 1200w ,https://Gadem.github.io/media/posts/19/responsive/budgie-desktop-screenshot-2022-xl.webp 1600w"  alt="" width="1333" height="1000"></figure>
+<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/19/budgie-desktop-screenshot-2022.webp" alt="" width="1333" height="1000" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/19/responsive/budgie-desktop-screenshot-2022-xs.webp 384w ,https://Gadem.github.io/media/posts/19/responsive/budgie-desktop-screenshot-2022-sm.webp 600w ,https://Gadem.github.io/media/posts/19/responsive/budgie-desktop-screenshot-2022-md.webp 768w ,https://Gadem.github.io/media/posts/19/responsive/budgie-desktop-screenshot-2022-lg.webp 1200w ,https://Gadem.github.io/media/posts/19/responsive/budgie-desktop-screenshot-2022-xl.webp 1600w"></figure>
 <p>Si no le gusta la oferta oficial de Ubuntu con GNOME, puede probar las versiones oficiales que brindan un entorno de escritorio diferente además de Ubuntu.</p>
 <p>En términos más simples, obtendrá la misma experiencia de Ubuntu, con una interfaz de usuario diferente.</p>
 <p>Para que su experiencia de usuario sea más placentera, estos entornos de escritorio están preajustados y temáticos, lo que los convierte en la elección perfecta si está buscando algo que funcione de forma inmediata.</p>
@@ -61,7 +99,7 @@
 </ul>
 <p><a href="https://ubuntu.com/desktop/flavours" title="h2" target="_blank" rel="noopener noreferrer">Sabores de Ubuntu</a></p>
 <h2>2. Linux Mint</h2>
-<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/19/linux-mint-21-home-1536x864.jpg" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/19/responsive/linux-mint-21-home-1536x864-xs.jpg 384w ,https://Gadem.github.io/media/posts/19/responsive/linux-mint-21-home-1536x864-sm.jpg 600w ,https://Gadem.github.io/media/posts/19/responsive/linux-mint-21-home-1536x864-md.jpg 768w ,https://Gadem.github.io/media/posts/19/responsive/linux-mint-21-home-1536x864-lg.jpg 1200w ,https://Gadem.github.io/media/posts/19/responsive/linux-mint-21-home-1536x864-xl.jpg 1600w"  alt="" width="1536" height="864"></figure>
+<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/19/linux-mint-21-home-1536x864.jpg" alt="" width="1536" height="864" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/19/responsive/linux-mint-21-home-1536x864-xs.jpg 384w ,https://Gadem.github.io/media/posts/19/responsive/linux-mint-21-home-1536x864-sm.jpg 600w ,https://Gadem.github.io/media/posts/19/responsive/linux-mint-21-home-1536x864-md.jpg 768w ,https://Gadem.github.io/media/posts/19/responsive/linux-mint-21-home-1536x864-lg.jpg 1200w ,https://Gadem.github.io/media/posts/19/responsive/linux-mint-21-home-1536x864-xl.jpg 1600w"></figure>
 <p><strong><span class="">Características clave de Linux Mint</span></strong></p>
 <ul>
 <li>Sin ajuste por defecto.</li>
@@ -75,7 +113,7 @@
 <p>Linux Mint incluye lo esencial, que incluye la suite ofimática de aplicaciones a un conjunto de aplicaciones para satisfacer sus necesidades de consumo multimedia, lo que lo hace perfecto para principiantes.</p>
 <p><a href="https://linuxmint.com/" title="h2" target="_blank" rel="noopener noreferrer">Linux Mint</a></p>
 <h2>3. Pop!_OS</h2>
-<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/19/pop-os-screenshot-2022.webp" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/19/responsive/pop-os-screenshot-2022-xs.webp 384w ,https://Gadem.github.io/media/posts/19/responsive/pop-os-screenshot-2022-sm.webp 600w ,https://Gadem.github.io/media/posts/19/responsive/pop-os-screenshot-2022-md.webp 768w ,https://Gadem.github.io/media/posts/19/responsive/pop-os-screenshot-2022-lg.webp 1200w ,https://Gadem.github.io/media/posts/19/responsive/pop-os-screenshot-2022-xl.webp 1600w"  alt="" width="1200" height="675"></figure>
+<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/19/pop-os-screenshot-2022.webp" alt="" width="1200" height="675" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/19/responsive/pop-os-screenshot-2022-xs.webp 384w ,https://Gadem.github.io/media/posts/19/responsive/pop-os-screenshot-2022-sm.webp 600w ,https://Gadem.github.io/media/posts/19/responsive/pop-os-screenshot-2022-md.webp 768w ,https://Gadem.github.io/media/posts/19/responsive/pop-os-screenshot-2022-lg.webp 1200w ,https://Gadem.github.io/media/posts/19/responsive/pop-os-screenshot-2022-xl.webp 1600w"></figure>
 <p><strong>Características clave de Pop!_OS</strong></p>
 <ul>
 <li>Soporte listo para usar para gráficos Nvidia.</li>
@@ -88,7 +126,7 @@
 <p>Además del último kernel, también obtiene un hermoso escritorio cósmico y algunas aplicaciones preinstaladas como Eddy para instalar paquetes deb convenientemente, aplica cifrado de disco de forma predeterminada y muchas otras características para tener una experiencia agradable.</p>
 <p><a href="https://pop.system76.com/" title="h2" target="_blank" rel="noopener noreferrer">Pop!_OS</a></p>
 <h2>4. Zorin OS</h2>
-<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/19/zorin-os-home-screenshot.webp" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/19/responsive/zorin-os-home-screenshot-xs.webp 384w ,https://Gadem.github.io/media/posts/19/responsive/zorin-os-home-screenshot-sm.webp 600w ,https://Gadem.github.io/media/posts/19/responsive/zorin-os-home-screenshot-md.webp 768w ,https://Gadem.github.io/media/posts/19/responsive/zorin-os-home-screenshot-lg.webp 1200w ,https://Gadem.github.io/media/posts/19/responsive/zorin-os-home-screenshot-xl.webp 1600w"  alt="" width="1336" height="1001"></figure>
+<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/19/zorin-os-home-screenshot.webp" alt="" width="1336" height="1001" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/19/responsive/zorin-os-home-screenshot-xs.webp 384w ,https://Gadem.github.io/media/posts/19/responsive/zorin-os-home-screenshot-sm.webp 600w ,https://Gadem.github.io/media/posts/19/responsive/zorin-os-home-screenshot-md.webp 768w ,https://Gadem.github.io/media/posts/19/responsive/zorin-os-home-screenshot-lg.webp 1200w ,https://Gadem.github.io/media/posts/19/responsive/zorin-os-home-screenshot-xl.webp 1600w"></figure>
 <p><strong>Características clave de Zorin OS</strong> :</p>
 <ul>
 <li>Hay diferentes diseños disponibles, que se asemejan a Windows y macOS.</li>
@@ -99,7 +137,7 @@
 <p>Puede usar su herramienta Zorin connect para integrar su dispositivo móvil y computadora sin problemas para que pueda transferir archivos, controlar la reproducción de audio e incluso usar el dispositivo móvil como un panel táctil.</p>
 <p><a href="https://zorin.com/os/download/" title="h2">Zorin OS</a></p>
 <h2>5. Linux Lite</h2>
-<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/19/linux-lite.webp" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/19/responsive/linux-lite-xs.webp 384w ,https://Gadem.github.io/media/posts/19/responsive/linux-lite-sm.webp 600w ,https://Gadem.github.io/media/posts/19/responsive/linux-lite-md.webp 768w ,https://Gadem.github.io/media/posts/19/responsive/linux-lite-lg.webp 1200w ,https://Gadem.github.io/media/posts/19/responsive/linux-lite-xl.webp 1600w"  alt="" width="1024" height="767"></figure>
+<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/19/linux-lite.webp" alt="" width="1024" height="767" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/19/responsive/linux-lite-xs.webp 384w ,https://Gadem.github.io/media/posts/19/responsive/linux-lite-sm.webp 600w ,https://Gadem.github.io/media/posts/19/responsive/linux-lite-md.webp 768w ,https://Gadem.github.io/media/posts/19/responsive/linux-lite-lg.webp 1200w ,https://Gadem.github.io/media/posts/19/responsive/linux-lite-xl.webp 1600w"></figure>
 <p><strong>Características clave de Linux Lite:</strong></p>
 <ul>
 <li>Extremadamente ligero.</li>
@@ -120,6 +158,7 @@
         </author>
         <link href="https://Gadem.github.io/archcraft-openbox-otra-distribucion-minima-de-linux-basado-en-archlinux/"/>
         <id>https://Gadem.github.io/archcraft-openbox-otra-distribucion-minima-de-linux-basado-en-archlinux/</id>
+        <media:content url="https://Gadem.github.io/media/posts/18/welcome-xl.png" medium="image" />
             <category term="ligera"/>
             <category term="archcraft"/>
             <category term="Poderoso"/>
@@ -139,7 +178,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://Gadem.github.io/media/posts/18/welcome-xl.png" alt="" />
+                    <p><img src="https://Gadem.github.io/media/posts/18/welcome-xl.png" class="type:primaryImage" alt="" /></p>
                 <p>Primero que nada, empecemos por preguntarnos:</p>
 <p><strong>¿Qué es Archcraft?</strong></p>
 <p>Archcraft es solo otra distribución de Linux, hecha sobre Arch Linux. Utiliza administradores de ventanas y aplicaciones livianas, lo que lo hace súper rápido. Con configuraciones preconfiguradas, Archcraft le brinda la mejor experiencia de administración de ventanas lista para usar.</p>
@@ -159,7 +198,7 @@
 <p>Si está utilizando el administrador de ventanas por primera vez, es posible que se entusiasme. De lo contrario, el primer vistazo le brinda un escritorio estándar y liviano con Openbox. El tema wm predeterminado con la combinación de fondos de pantalla se ve bien. Sin embargo, sentí que el tamaño de fuente es un poco pequeño. Aunque eso se puede cambiar. La capacidad de respuesta es rápida teniendo en cuenta que los administradores de ventanas no consumen demasiados recursos.</p>
 <p>El panel predeterminado le brinda todas las cosas importantes. La lista del espacio de trabajo, el reloj y las fechas, el control de volumen, la opción de apagado, el uso de la CPU, la memoria y el disco, etc. Y se ve limpio y agradable.</p>
 <h2>Aplicaciones y configuraciones</h2>
-<figure class="post__image"><figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/18/Archcraft-OS-Launcher-xl.webp" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/18/responsive/Archcraft-OS-Launcher-xl-xs.webp 384w ,https://Gadem.github.io/media/posts/18/responsive/Archcraft-OS-Launcher-xl-sm.webp 600w ,https://Gadem.github.io/media/posts/18/responsive/Archcraft-OS-Launcher-xl-md.webp 768w ,https://Gadem.github.io/media/posts/18/responsive/Archcraft-OS-Launcher-xl-lg.webp 1200w ,https://Gadem.github.io/media/posts/18/responsive/Archcraft-OS-Launcher-xl-xl.webp 1600w"  alt="" width="482" height="309"></figure></figure>
+<figure class="post__image"><figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/18/Archcraft-OS-Launcher-xl.webp" alt="" width="482" height="309" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/18/responsive/Archcraft-OS-Launcher-xl-xs.webp 384w ,https://Gadem.github.io/media/posts/18/responsive/Archcraft-OS-Launcher-xl-sm.webp 600w ,https://Gadem.github.io/media/posts/18/responsive/Archcraft-OS-Launcher-xl-md.webp 768w ,https://Gadem.github.io/media/posts/18/responsive/Archcraft-OS-Launcher-xl-lg.webp 1200w ,https://Gadem.github.io/media/posts/18/responsive/Archcraft-OS-Launcher-xl-xl.webp 1600w"></figure></figure>
 <p>El Archcraft precarga aplicaciones Xfce en su mayoría. Entonces, obtiene una buena cantidad de aplicaciones (lista a continuación) para comenzar. Sin embargo, puede instalar fácilmente cualquier cosa desde Arch repo o AUR. El AUR ya está configurado y no necesita instalarlo manualmente, lo cual es bueno.</p>
 <p>El iniciador principal se puede iniciar con la tecla Súper y le brinda una lista de búsqueda de aplicaciones. Al hacer clic con el botón derecho, el menú del escritorio también le brinda la opción de personalizar Openbox WM con una lista de aplicaciones y todo lo demás.</p>
 <p>Aquí tienes una breve lista de las aplicaciones que vienen por defecto en esta distro.</p>
@@ -179,11 +218,11 @@
 <li>Administrador de energía</li>
 </ul>
 <h2>El uso de recursos</h2>
-<figure class="post__image"><figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/18/Resource-Usage-htop-xl.webp" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/18/responsive/Resource-Usage-htop-xl-xs.webp 384w ,https://Gadem.github.io/media/posts/18/responsive/Resource-Usage-htop-xl-sm.webp 600w ,https://Gadem.github.io/media/posts/18/responsive/Resource-Usage-htop-xl-md.webp 768w ,https://Gadem.github.io/media/posts/18/responsive/Resource-Usage-htop-xl-lg.webp 1200w ,https://Gadem.github.io/media/posts/18/responsive/Resource-Usage-htop-xl-xl.webp 1600w"  alt="" width="544" height="360"></figure></figure>
+<figure class="post__image"><figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/18/Resource-Usage-htop-xl.webp" alt="" width="544" height="360" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/18/responsive/Resource-Usage-htop-xl-xs.webp 384w ,https://Gadem.github.io/media/posts/18/responsive/Resource-Usage-htop-xl-sm.webp 600w ,https://Gadem.github.io/media/posts/18/responsive/Resource-Usage-htop-xl-md.webp 768w ,https://Gadem.github.io/media/posts/18/responsive/Resource-Usage-htop-xl-lg.webp 1200w ,https://Gadem.github.io/media/posts/18/responsive/Resource-Usage-htop-xl-xl.webp 1600w"></figure></figure>
 <p>La principal ventaja de usar un administrador de ventanas en lugar de un entorno de escritorio tradicional es el mejor uso de recursos por parte de la distribución subyacente. Por lo tanto, Archcraft también está haciendo lo mismo. Esta distribución usa alrededor de ~390 MB de RAM en estado inactivo en una instalación física. Xorg usa la mayor parte de la memoria solo en estado inactivo, seguido de Plank. El uso de la CPU es mínimo en estado inactivo, por supuesto, a menos que realice alguna operación.</p>
 <p>Y con una combinación de Arch Linux (que ya es rápido), puede ser muy amigable en términos de uso de recursos. Creo que esta distribución puede funcionar bien en hardware de gama baja, siempre que el kernel de Linux principal actual lo admita.</p>
 <h2>Mira y siente</h2>
-<figure class="post__image"><figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/18/Right-Click-Options-xl.webp" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/18/responsive/Right-Click-Options-xl-xs.webp 384w ,https://Gadem.github.io/media/posts/18/responsive/Right-Click-Options-xl-sm.webp 600w ,https://Gadem.github.io/media/posts/18/responsive/Right-Click-Options-xl-md.webp 768w ,https://Gadem.github.io/media/posts/18/responsive/Right-Click-Options-xl-lg.webp 1200w ,https://Gadem.github.io/media/posts/18/responsive/Right-Click-Options-xl-xl.webp 1600w"  alt="" width="466" height="496"></figure></figure>
+<figure class="post__image"><figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/18/Right-Click-Options-xl.webp" alt="" width="466" height="496" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/18/responsive/Right-Click-Options-xl-xs.webp 384w ,https://Gadem.github.io/media/posts/18/responsive/Right-Click-Options-xl-sm.webp 600w ,https://Gadem.github.io/media/posts/18/responsive/Right-Click-Options-xl-md.webp 768w ,https://Gadem.github.io/media/posts/18/responsive/Right-Click-Options-xl-lg.webp 1200w ,https://Gadem.github.io/media/posts/18/responsive/Right-Click-Options-xl-xl.webp 1600w"></figure></figure>
 <p>Los temas y estilos de Openbox están precargados y son realmente buenos. Son una combinación de estilos claros y oscuros. Los estilos disponibles son: playa, bosque, cuadrícula, manhattan, limo, chispa, ola.</p>
 <p>Puede cambiar fácilmente los temas EN VIVO mientras trabaja desde Preferencias&gt; Cambiar estilo desde el menú contextual del botón derecho.</p>
 <p>Si desea cambiar la configuración principal de Openbox, también puede hacer lo mismo desde Preferencias &gt; Configuración de Openbox/Configuración del compositor.</p>
@@ -221,6 +260,7 @@
         </author>
         <link href="https://Gadem.github.io/linux-from-scratch/"/>
         <id>https://Gadem.github.io/linux-from-scratch/</id>
+        <media:content url="https://Gadem.github.io/media/posts/17/2-Its-Foss-xl.webp" medium="image" />
             <category term="Opinion"/>
             <category term="Open-Source"/>
             <category term="Linux From Scratch"/>
@@ -236,7 +276,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://Gadem.github.io/media/posts/17/2-Its-Foss-xl.webp" alt="" />
+                    <p><img src="https://Gadem.github.io/media/posts/17/2-Its-Foss-xl.webp" class="type:primaryImage" alt="" /></p>
                 <header class="post__inner post__header">
 <div class="post__meta">
 <div class="post__meta__right">
@@ -302,6 +342,7 @@
         </author>
         <link href="https://Gadem.github.io/5-distribuciones-minimalistas-de-linux-con-openbox/"/>
         <id>https://Gadem.github.io/5-distribuciones-minimalistas-de-linux-con-openbox/</id>
+        <media:content url="https://Gadem.github.io/media/posts/16/archcraft.png" medium="image" />
             <category term="minimalistas"/>
             <category term="Openbox"/>
             <category term="LXDE"/>
@@ -318,14 +359,14 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://Gadem.github.io/media/posts/16/archcraft.png" alt="" />
+                    <p><img src="https://Gadem.github.io/media/posts/16/archcraft.png" class="type:primaryImage" alt="" /></p>
                 <p>Openbox es un administrador de ventanas apilable, configurable y liviano disponible para Linux. Es compatible con muchos estándares, lo que lo convierte en una buena opción para cualquier escritorio.</p>
 <p>Le sorprenderá saber que <strong>los entornos de escritorio LXDE y LXQT están construidos alrededor de Openbox</strong> . Incluso puede reemplazar el administrador de ventanas de su entorno de escritorio con él.</p>
 <p>Por supuesto, puede instalar Openbox en casi cualquier distribución de Linux. Sin embargo, configurarlo requiere tiempo y esfuerzo.</p>
 <p>Una salida más fácil sería usar una distribución que proporcione una variante de Openbox. En este artículo, enumero algunas distribuciones que le brindan una experiencia Openbox lista para usar.</p>
 <p><strong>Nota:</strong> La lista está en orden alfabético y no es una clasificación.</p>
 <h2>1. Archcraft</h2>
-<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/16/archcraft-2.png" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/16/responsive/archcraft-2-xs.png 384w ,https://Gadem.github.io/media/posts/16/responsive/archcraft-2-sm.png 600w ,https://Gadem.github.io/media/posts/16/responsive/archcraft-2-md.png 768w ,https://Gadem.github.io/media/posts/16/responsive/archcraft-2-lg.png 1200w ,https://Gadem.github.io/media/posts/16/responsive/archcraft-2-xl.png 1600w"  alt="" width="1366" height="768"></figure>
+<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/16/archcraft-2.png" alt="" width="1366" height="768" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/16/responsive/archcraft-2-xs.png 384w ,https://Gadem.github.io/media/posts/16/responsive/archcraft-2-sm.png 600w ,https://Gadem.github.io/media/posts/16/responsive/archcraft-2-md.png 768w ,https://Gadem.github.io/media/posts/16/responsive/archcraft-2-lg.png 1200w ,https://Gadem.github.io/media/posts/16/responsive/archcraft-2-xl.png 1600w"></figure>
 <p>Esta es una de las opciones interesantes si desea tener en sus manos el administrador de ventanas de Openbox. Openbox es el escritorio predeterminado para la distribución, por lo que puede esperar que sea excelente a diferencia de otras distribuciones.</p>
 <p>Proporciona un entorno mínimo y liviano, ya que puede funcionar con menos de 500 MB sin comprometer la apariencia. Los elementos de la interfaz de usuario son cohesivos.</p>
 <p>Puede cambiar de tema con solo un clic. También proporciona Windows como UI si te gusta eso.</p>
@@ -336,7 +377,7 @@
 <div> </div>
 <div>
 <h2 id="2-kubuntu">2. ArcolinuxB Openbox</h2>
-<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/16/arcolinuxb-openbox.png" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/16/responsive/arcolinuxb-openbox-xs.png 384w ,https://Gadem.github.io/media/posts/16/responsive/arcolinuxb-openbox-sm.png 600w ,https://Gadem.github.io/media/posts/16/responsive/arcolinuxb-openbox-md.png 768w ,https://Gadem.github.io/media/posts/16/responsive/arcolinuxb-openbox-lg.png 1200w ,https://Gadem.github.io/media/posts/16/responsive/arcolinuxb-openbox-xl.png 1600w"  alt="" width="1366" height="768"></figure>
+<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/16/arcolinuxb-openbox.png" alt="" width="1366" height="768" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/16/responsive/arcolinuxb-openbox-xs.png 384w ,https://Gadem.github.io/media/posts/16/responsive/arcolinuxb-openbox-sm.png 600w ,https://Gadem.github.io/media/posts/16/responsive/arcolinuxb-openbox-md.png 768w ,https://Gadem.github.io/media/posts/16/responsive/arcolinuxb-openbox-lg.png 1200w ,https://Gadem.github.io/media/posts/16/responsive/arcolinuxb-openbox-xl.png 1600w"></figure>
 <p>Debería ser una excelente distribución para su escritorio Linux si desea aprender Arch (el motivo principal del proyecto Arcolinux).</p>
 <p>Es uno de los muchos sabores del proyecto ArcolinuxB. Uno puede esperar una ligera curva de aprendizaje y asperezas.</p>
 <p>No verá elementos de interfaz de usuario cohesivos como Archcraft aquí y es posible que necesite algunos retoques para obtener una buena experiencia.<br><br></p>
@@ -344,13 +385,13 @@
 <div class="wp-block-button"><a href="https://arcolinuxb.com/" target="_blank" rel="noopener noreferrer">Ir a ArcolinuxB</a><br><br></div>
 <div>
 <h2>3. AV Linux MX Edition</h2>
-<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/16/av-linux.png" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/16/responsive/av-linux-xs.png 384w ,https://Gadem.github.io/media/posts/16/responsive/av-linux-sm.png 600w ,https://Gadem.github.io/media/posts/16/responsive/av-linux-md.png 768w ,https://Gadem.github.io/media/posts/16/responsive/av-linux-lg.png 1200w ,https://Gadem.github.io/media/posts/16/responsive/av-linux-xl.png 1600w"  alt="" width="1366" height="768"></figure>
+<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/16/av-linux.png" alt="" width="1366" height="768" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/16/responsive/av-linux-xs.png 384w ,https://Gadem.github.io/media/posts/16/responsive/av-linux-sm.png 600w ,https://Gadem.github.io/media/posts/16/responsive/av-linux-md.png 768w ,https://Gadem.github.io/media/posts/16/responsive/av-linux-lg.png 1200w ,https://Gadem.github.io/media/posts/16/responsive/av-linux-xl.png 1600w"></figure>
 <p>AV Linux MX Edition está basado en MX Linux pero con Openbox como administrador de ventanas.</p>
 <p>Utiliza el núcleo Liquorix de alto rendimiento y proporciona audio de baja latencia que es deseado por los audiófilos. También tiene soporte para Windows Audio a través de Wine-staging.</p>
 <p>Es posible que desee probar esto si es un profesional del audio y un usuario de Linux. Puede parecer inflado para algunos usuarios, ya que viene con muchas aplicaciones preinstaladas.</p>
 <p><a href="http://www.bandshed.net/avlinux/" target="_blank" rel="noopener noreferrer">Ir a AV Linux</a></p>
 <h2 id="4-fedora-kde-spin">4. Bunsenlabs Linux</h2>
-<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/16/bunsenlabs-linux.webp" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/16/responsive/bunsenlabs-linux-xs.webp 384w ,https://Gadem.github.io/media/posts/16/responsive/bunsenlabs-linux-sm.webp 600w ,https://Gadem.github.io/media/posts/16/responsive/bunsenlabs-linux-md.webp 768w ,https://Gadem.github.io/media/posts/16/responsive/bunsenlabs-linux-lg.webp 1200w ,https://Gadem.github.io/media/posts/16/responsive/bunsenlabs-linux-xl.webp 1600w"  alt="" width="1153" height="768"></figure>
+<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/16/bunsenlabs-linux.webp" alt="" width="1153" height="768" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/16/responsive/bunsenlabs-linux-xs.webp 384w ,https://Gadem.github.io/media/posts/16/responsive/bunsenlabs-linux-sm.webp 600w ,https://Gadem.github.io/media/posts/16/responsive/bunsenlabs-linux-md.webp 768w ,https://Gadem.github.io/media/posts/16/responsive/bunsenlabs-linux-lg.webp 1200w ,https://Gadem.github.io/media/posts/16/responsive/bunsenlabs-linux-xl.webp 1600w"></figure>
 <p>BunsenLabs Linux es una distribución basada en Debian que ofrece un escritorio Openbox liviano y fácilmente personalizable. El proyecto es una bifurcación de CrunchBang Linux .</p>
 <p>Todavía se basa en Debian 10, por lo que obtendrá las versiones anteriores de las aplicaciones en repositorios. Sin embargo, tiene una experiencia bastante buena desde el primer momento debido a la inclusión de soporte de hardware y multimedia, a diferencia de Debian.</p>
 <p>Tiene una interfaz tan cohesiva como Archcraft y también proporciona una gran variedad de configuraciones conky.<br><br></p>
@@ -358,7 +399,7 @@
 <div class="wp-block-button"><a href="https://www.bunsenlabs.org/" target="_blank" rel="noopener noreferrer">Ir a Bunsen Labs Linux</a><br><br></div>
 <div>
 <h2 id="5-opensuse">5. Crunchbangplusplus</h2>
-<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/16/crunchbangpp-linux-2.webp" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/16/responsive/crunchbangpp-linux-2-xs.webp 384w ,https://Gadem.github.io/media/posts/16/responsive/crunchbangpp-linux-2-sm.webp 600w ,https://Gadem.github.io/media/posts/16/responsive/crunchbangpp-linux-2-md.webp 768w ,https://Gadem.github.io/media/posts/16/responsive/crunchbangpp-linux-2-lg.webp 1200w ,https://Gadem.github.io/media/posts/16/responsive/crunchbangpp-linux-2-xl.webp 1600w"  alt="" width="1366" height="768"></figure>
+<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/16/crunchbangpp-linux-2.webp" alt="" width="1366" height="768" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/16/responsive/crunchbangpp-linux-2-xs.webp 384w ,https://Gadem.github.io/media/posts/16/responsive/crunchbangpp-linux-2-sm.webp 600w ,https://Gadem.github.io/media/posts/16/responsive/crunchbangpp-linux-2-md.webp 768w ,https://Gadem.github.io/media/posts/16/responsive/crunchbangpp-linux-2-lg.webp 1200w ,https://Gadem.github.io/media/posts/16/responsive/crunchbangpp-linux-2-xl.webp 1600w"></figure>
 <p>Como sugiere el nombre, es un tenedor Crunchbang e intenta mantenerse lo más cerca posible del original.</p>
 <p>Para aquellos que no lo saben, Crunchbang fue una popular distribución de Openbox descontinuada hace casi una década.</p>
 <p>Crunchbang++ es mínimo y ligero. Puede hacer que algunos usuarios se sientan nostálgicos. Se basa en Debian 11<br><br></p>
@@ -383,6 +424,7 @@
         </author>
         <link href="https://Gadem.github.io/las-mejores-distribuciones-ligeras-de-linux-para-computadoras-antiguas/"/>
         <id>https://Gadem.github.io/las-mejores-distribuciones-ligeras-de-linux-para-computadoras-antiguas/</id>
+        <media:content url="https://Gadem.github.io/media/posts/15/LXLE_16.04.1.png" medium="image" />
             <category term="Tutoriales"/>
             <category term="Software Libre"/>
             <category term="Software"/>
@@ -399,7 +441,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://Gadem.github.io/media/posts/15/LXLE_16.04.1.png" alt="Las mejores distribuciones ligeras de Linux para computadoras antiguas" />
+                    <p><img src="https://Gadem.github.io/media/posts/15/LXLE_16.04.1.png" class="type:primaryImage" alt="Las mejores distribuciones ligeras de Linux para computadoras antiguas" /></p>
                 <p><strong><em><span class="goog-text-highlight">Breve:</span></em></strong> <em><span class="goog-text-highlight"> No tires tu vieja computadora todavía. </span>Use una distribución de Linux liviana y reviva ese sistema de décadas.</em></p>
 <p>¿Por qué no <strong>revivir tu vieja computadora con Linux</strong> ? Voy a enumerar las <strong>mejores distribuciones ligeras de Linux</strong> que puede usar en computadoras antiguas.</p>
 <p>Algunas de las distribuciones mencionadas aquí también forman parte de las mejores distribuciones de Linux para principiantes . Entonces, es posible que desee verificar eso si es nuevo en el universo Linux.</p>
@@ -411,7 +453,7 @@
 <h2 id="best-lightweight-linux-distros-for-old-laptops-and-desktops">Las mejores distribuciones ligeras de Linux para computadoras portátiles y de escritorio antiguas</h2>
 <p><strong>Nota: </strong> <em>La lista no tiene un orden de clasificación en particular, echa un vistazo a los requisitos mínimos del sistema para elegir uno por ti mismo.</em></p>
 <h3 id="16-q4os">16. Q4OS</h3>
-<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/15/image5.jpg" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/15/responsive/image5-xs.jpg 384w ,https://Gadem.github.io/media/posts/15/responsive/image5-sm.jpg 600w ,https://Gadem.github.io/media/posts/15/responsive/image5-md.jpg 768w ,https://Gadem.github.io/media/posts/15/responsive/image5-lg.jpg 1200w ,https://Gadem.github.io/media/posts/15/responsive/image5-xl.jpg 1600w"  alt="" width="1272" height="770"></figure>
+<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/15/image5.jpg" alt="" width="1272" height="770" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/15/responsive/image5-xs.jpg 384w ,https://Gadem.github.io/media/posts/15/responsive/image5-sm.jpg 600w ,https://Gadem.github.io/media/posts/15/responsive/image5-md.jpg 768w ,https://Gadem.github.io/media/posts/15/responsive/image5-lg.jpg 1200w ,https://Gadem.github.io/media/posts/15/responsive/image5-xl.jpg 1600w"></figure>
 <p><em>Soporte para sistemas de 32 bits: <strong>Sí</strong></em></p>
 <p>Q4OS es una distribución basada en Debian que tiene como objetivo proporcionar una experiencia rápida al mismo tiempo que ofrece una opción de 32 bits. De hecho, es una de las mejores opciones para sistemas de 32 bits . Cuenta con Trinity Desktop para la edición de 32 bits y el escritorio KDE Plasma en una imagen de 64 bits.</p>
 <p>Puede que no ofrezca la mejor interfaz de usuario, pero es simple y, de hecho, está gritando rápido en hardware antiguo. Puede probar esto fácilmente en su computadora anterior para probarlo.</p>
@@ -423,7 +465,7 @@
 </ul>
 <p><a href="https://q4os.org/" target="_blank" rel="noopener noreferrer">https://q4os.org/</a></p>
 <h3 id="15-slax">15. Slax</h3>
-<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/15/Laptop-with-on-screen.png" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/15/responsive/Laptop-with-on-screen-xs.png 384w ,https://Gadem.github.io/media/posts/15/responsive/Laptop-with-on-screen-sm.png 600w ,https://Gadem.github.io/media/posts/15/responsive/Laptop-with-on-screen-md.png 768w ,https://Gadem.github.io/media/posts/15/responsive/Laptop-with-on-screen-lg.png 1200w ,https://Gadem.github.io/media/posts/15/responsive/Laptop-with-on-screen-xl.png 1600w"  alt="" width="978" height="646"></figure>
+<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/15/Laptop-with-on-screen.png" alt="" width="978" height="646" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/15/responsive/Laptop-with-on-screen-xs.png 384w ,https://Gadem.github.io/media/posts/15/responsive/Laptop-with-on-screen-sm.png 600w ,https://Gadem.github.io/media/posts/15/responsive/Laptop-with-on-screen-md.png 768w ,https://Gadem.github.io/media/posts/15/responsive/Laptop-with-on-screen-lg.png 1200w ,https://Gadem.github.io/media/posts/15/responsive/Laptop-with-on-screen-xl.png 1600w"></figure>
 <p><em>Soporte para sistemas de 32 bits: <strong>Sí</strong></em></p>
 <p>Slax es una distribución de Linux liviana y realmente portátil basada en Debian que puede usar en una unidad USB sin instalarla.</p>
 <p>El tamaño del archivo ISO es de poco menos de 300 MB, lo que lo convierte en una excelente opción para computadoras más antiguas. La interfaz de usuario es simple y utilizable con paquetes preconstruidos esenciales para un usuario promedio. Incluso puede intentar personalizar el sistema operativo y realizar cambios permanentes sobre la marcha si lo necesita.</p>
@@ -435,7 +477,7 @@
 </ul>
 <p><a href="https://www.slax.org/" target="_blank" rel="noopener noreferrer">https://www.slax.org/</a></p>
 <h3 id="14-ubuntu-mate">14. Ubuntu MATE</h3>
-<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/15/01_familiar.webp" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/15/responsive/01_familiar-xs.webp 384w ,https://Gadem.github.io/media/posts/15/responsive/01_familiar-sm.webp 600w ,https://Gadem.github.io/media/posts/15/responsive/01_familiar-md.webp 768w ,https://Gadem.github.io/media/posts/15/responsive/01_familiar-lg.webp 1200w ,https://Gadem.github.io/media/posts/15/responsive/01_familiar-xl.webp 1600w"  alt="" width="1360" height="768"></figure>
+<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/15/01_familiar.webp" alt="" width="1360" height="768" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/15/responsive/01_familiar-xs.webp 384w ,https://Gadem.github.io/media/posts/15/responsive/01_familiar-sm.webp 600w ,https://Gadem.github.io/media/posts/15/responsive/01_familiar-md.webp 768w ,https://Gadem.github.io/media/posts/15/responsive/01_familiar-lg.webp 1200w ,https://Gadem.github.io/media/posts/15/responsive/01_familiar-xl.webp 1600w"></figure>
 <p><em>Soporte para sistemas de 32 bits: <strong>Sí</strong></em></p>
 <p>Ubuntu MATE es una impresionante distribución de Linux liviana que se ejecuta lo suficientemente rápido en computadoras más antiguas. Cuenta con el escritorio MATE , por lo que la interfaz de usuario puede parecer un poco diferente al principio, pero también es fácil de usar.</p>
 <p>Además del soporte de escritorio, también puedes probarlo en una Raspberry Pi o Jetson Nano .</p>
@@ -448,7 +490,7 @@
 </ul>
 <p><a href="https://ubuntu-mate.org/" target="_blank" rel="noopener noreferrer">https://ubuntu-mate.org/</a></p>
 <h3 id="13-zorin-os-lite">13. Zorin OS Lite</h3>
-<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/15/lite-2.webp" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/15/responsive/lite-2-xs.webp 384w ,https://Gadem.github.io/media/posts/15/responsive/lite-2-sm.webp 600w ,https://Gadem.github.io/media/posts/15/responsive/lite-2-md.webp 768w ,https://Gadem.github.io/media/posts/15/responsive/lite-2-lg.webp 1200w ,https://Gadem.github.io/media/posts/15/responsive/lite-2-xl.webp 1600w"  alt="" width="779" height="547"></figure>
+<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/15/lite-2.webp" alt="" width="779" height="547" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/15/responsive/lite-2-xs.webp 384w ,https://Gadem.github.io/media/posts/15/responsive/lite-2-sm.webp 600w ,https://Gadem.github.io/media/posts/15/responsive/lite-2-md.webp 768w ,https://Gadem.github.io/media/posts/15/responsive/lite-2-lg.webp 1200w ,https://Gadem.github.io/media/posts/15/responsive/lite-2-xl.webp 1600w"></figure>
 <p><em>Soporte para sistemas de 32 bits: <strong>Sí</strong></em></p>
 <p>Zorin OS es una distribución de Linux basada en Ubuntu. Ofrece una edición lite para computadoras más antiguas que presenta el entorno de escritorio Xfce.</p>
 <p>Si tiene un sistema decente (no demasiado antiguo), también puede probar el sistema operativo Zorin normal para ver si se ajusta a su propósito.</p>
@@ -461,7 +503,7 @@
 </ul>
 <p><a href="https://zorin.com/os/download/" target="_blank" rel="noopener noreferrer">https://zorin.com/os/download/</a></p>
 <h3 id="12-xubuntu">12. Xubuntu</h3>
-<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/15/Xubutnu2.png" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/15/responsive/Xubutnu2-xs.png 384w ,https://Gadem.github.io/media/posts/15/responsive/Xubutnu2-sm.png 600w ,https://Gadem.github.io/media/posts/15/responsive/Xubutnu2-md.png 768w ,https://Gadem.github.io/media/posts/15/responsive/Xubutnu2-lg.png 1200w ,https://Gadem.github.io/media/posts/15/responsive/Xubutnu2-xl.png 1600w"  alt="" width="1024" height="600"></figure>
+<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/15/Xubutnu2.png" alt="" width="1024" height="600" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/15/responsive/Xubutnu2-xs.png 384w ,https://Gadem.github.io/media/posts/15/responsive/Xubutnu2-sm.png 600w ,https://Gadem.github.io/media/posts/15/responsive/Xubutnu2-md.png 768w ,https://Gadem.github.io/media/posts/15/responsive/Xubutnu2-lg.png 1200w ,https://Gadem.github.io/media/posts/15/responsive/Xubutnu2-xl.png 1600w"></figure>
 <p><em>Soporte para sistemas de 32 bits: <strong>Sí</strong></em></p>
 <p>Xubuntu es uno de los sabores oficiales de Ubuntu que presenta el escritorio liviano Xfce.</p>
 <p>Lo encontrará fácil de usar y también puede instalarlo en sus computadoras más antiguas sin problemas. Dirígete a su sitio web oficial para descargar el ISO (32 bits/64 bits) que necesitas y comenzar.</p>
@@ -472,7 +514,7 @@
 </ul>
 <p><a href="https://xubuntu.org/" target="_blank" rel="noopener noreferrer">https://xubuntu.org/</a></p>
 <h3 id="11-linux-mint-xfce">11. Linux Mint Xfce</h3>
-<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/15/xfce-2.png" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/15/responsive/xfce-2-xs.png 384w ,https://Gadem.github.io/media/posts/15/responsive/xfce-2-sm.png 600w ,https://Gadem.github.io/media/posts/15/responsive/xfce-2-md.png 768w ,https://Gadem.github.io/media/posts/15/responsive/xfce-2-lg.png 1200w ,https://Gadem.github.io/media/posts/15/responsive/xfce-2-xl.png 1600w"  alt="" width="1920" height="1200"></figure>
+<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/15/xfce-2.png" alt="" width="1920" height="1200" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/15/responsive/xfce-2-xs.png 384w ,https://Gadem.github.io/media/posts/15/responsive/xfce-2-sm.png 600w ,https://Gadem.github.io/media/posts/15/responsive/xfce-2-md.png 768w ,https://Gadem.github.io/media/posts/15/responsive/xfce-2-lg.png 1200w ,https://Gadem.github.io/media/posts/15/responsive/xfce-2-xl.png 1600w"></figure>
 <p><em>Soporte para sistemas de 32 bits: <strong>Sí</strong></em></p>
 <p>Si tiene una configuración de hardware decente (consulte los requisitos mínimos a continuación), la edición Linux Mint Xfce será una excelente opción.</p>
 <p>Si bien es una distribución basada en Ubuntu, también cuenta con el escritorio Xfce, lo que lo hace lo suficientemente bueno para algunas computadoras antiguas. Teniendo en cuenta que Linux Mint es una de las mejores distribuciones de Linux , también puede probar otras ediciones (como Cinnamon) disponibles.</p>
@@ -484,7 +526,7 @@
 </ul>
 <p><a href="https://www.linuxmint.com/edition.php?id=301" target="_blank" rel="noopener noreferrer">https://www.linuxmint.com/edition.php?id=301</a></p>
 <h3 id="10-peppermint">10. Peppermint</h3>
-<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/15/Peppermint-OS-10.jpg" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/15/responsive/Peppermint-OS-10-xs.jpg 384w ,https://Gadem.github.io/media/posts/15/responsive/Peppermint-OS-10-sm.jpg 600w ,https://Gadem.github.io/media/posts/15/responsive/Peppermint-OS-10-md.jpg 768w ,https://Gadem.github.io/media/posts/15/responsive/Peppermint-OS-10-lg.jpg 1200w ,https://Gadem.github.io/media/posts/15/responsive/Peppermint-OS-10-xl.jpg 1600w"  alt="" width="830" height="467"></figure>
+<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/15/Peppermint-OS-10.jpg" alt="" width="830" height="467" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/15/responsive/Peppermint-OS-10-xs.jpg 384w ,https://Gadem.github.io/media/posts/15/responsive/Peppermint-OS-10-sm.jpg 600w ,https://Gadem.github.io/media/posts/15/responsive/Peppermint-OS-10-md.jpg 768w ,https://Gadem.github.io/media/posts/15/responsive/Peppermint-OS-10-lg.jpg 1200w ,https://Gadem.github.io/media/posts/15/responsive/Peppermint-OS-10-xl.jpg 1600w"></figure>
 <p><em>Soporte para sistemas de 32 bits: <strong>Sí</strong></em></p>
 <p>Peppermint es una distribución de Linux centrada en la nube que no necesita hardware de alta gama. Se basa en Ubuntu y utiliza el entorno de escritorio LXDE para brindarle una experiencia más fluida.</p>
 <p>Originalmente creado con el enfoque centrado en la web de las netbooks, Peppermint incluye la aplicación ICE para integrar cualquier sitio web o aplicación web como una aplicación de escritorio independiente.</p>
@@ -497,7 +539,7 @@
 </ul>
 <p><a href="https://peppermintos.com/" target="_blank" rel="noopener noreferrer">https://peppermintos.com/</a></p>
 <h3 id="9-lubuntu">9. Lubuntu</h3>
-<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/15/laptop.png" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/15/responsive/laptop-xs.png 384w ,https://Gadem.github.io/media/posts/15/responsive/laptop-sm.png 600w ,https://Gadem.github.io/media/posts/15/responsive/laptop-md.png 768w ,https://Gadem.github.io/media/posts/15/responsive/laptop-lg.png 1200w ,https://Gadem.github.io/media/posts/15/responsive/laptop-xl.png 1600w"  alt="" width="505" height="311"></figure>
+<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/15/laptop.png" alt="" width="505" height="311" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/15/responsive/laptop-xs.png 384w ,https://Gadem.github.io/media/posts/15/responsive/laptop-sm.png 600w ,https://Gadem.github.io/media/posts/15/responsive/laptop-md.png 768w ,https://Gadem.github.io/media/posts/15/responsive/laptop-lg.png 1200w ,https://Gadem.github.io/media/posts/15/responsive/laptop-xl.png 1600w"></figure>
 <p><em>Compatibilidad con sistemas de 32 bits: <strong>Sí</strong></em> <em> (versiones anteriores)</em></p>
 <p>El siguiente en nuestra lista de las mejores distribuciones ligeras de Linux es Lubuntu. Como sugiere el nombre, es miembro de la familia Ubuntu, pero utiliza el entorno de escritorio LXDE/LXQT. Desde Ubuntu 18.10 y superior, encontrará LXQT como el entorno de escritorio predeterminado y podría encontrar LXDE como predeterminado en sus versiones anteriores.</p>
 <p>De hecho, es uno de los sabores oficiales de Ubuntu .</p>
@@ -511,7 +553,7 @@
 </ul>
 <p><a href="https://lubuntu.me/" target="_blank" rel="noopener noreferrer">https://lubuntu.me/</a></p>
 <h3 id="8-linux-lite">8. Linux Lite</h3>
-<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/15/desktop.png" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/15/responsive/desktop-xs.png 384w ,https://Gadem.github.io/media/posts/15/responsive/desktop-sm.png 600w ,https://Gadem.github.io/media/posts/15/responsive/desktop-md.png 768w ,https://Gadem.github.io/media/posts/15/responsive/desktop-lg.png 1200w ,https://Gadem.github.io/media/posts/15/responsive/desktop-xl.png 1600w"  alt="" width="862" height="756"></figure>
+<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/15/desktop.png" alt="" width="862" height="756" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/15/responsive/desktop-xs.png 384w ,https://Gadem.github.io/media/posts/15/responsive/desktop-sm.png 600w ,https://Gadem.github.io/media/posts/15/responsive/desktop-md.png 768w ,https://Gadem.github.io/media/posts/15/responsive/desktop-lg.png 1200w ,https://Gadem.github.io/media/posts/15/responsive/desktop-xl.png 1600w"></figure>
 <p><em>Compatibilidad con sistemas de 32 bits: </em><strong><em>Sí</em></strong> <em> (versiones anteriores)</em></p>
 <p>Como sugiere el nombre, Linux Lite <strong> </strong>es una <em>distribución ligera de Linux</em> que no necesita hardware de alta gama para ejecutarla. Incluso un principiante podrá usarlo fácilmente en computadoras más antiguas. Linux Lite se basa en <strong> </strong>versiones de Ubuntu LTS (soporte a largo plazo).</p>
 <p>Aunque es una distribución liviana, viene con algunas herramientas esenciales.</p>
@@ -526,7 +568,7 @@
 </ul>
 <p><a href="https://www.linuxliteos.com/" target="_blank" rel="noopener noreferrer">https://www.linuxliteos.com/</a></p>
 <h3 id="7-lxle">7. LXLE</h3>
-<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/15/LXLE_16.04.1-2.png" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/15/responsive/LXLE_16.04.1-2-xs.png 384w ,https://Gadem.github.io/media/posts/15/responsive/LXLE_16.04.1-2-sm.png 600w ,https://Gadem.github.io/media/posts/15/responsive/LXLE_16.04.1-2-md.png 768w ,https://Gadem.github.io/media/posts/15/responsive/LXLE_16.04.1-2-lg.png 1200w ,https://Gadem.github.io/media/posts/15/responsive/LXLE_16.04.1-2-xl.png 1600w"  alt="" width="1200" height="675"></figure>
+<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/15/LXLE_16.04.1-2.png" alt="" width="1200" height="675" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/15/responsive/LXLE_16.04.1-2-xs.png 384w ,https://Gadem.github.io/media/posts/15/responsive/LXLE_16.04.1-2-sm.png 600w ,https://Gadem.github.io/media/posts/15/responsive/LXLE_16.04.1-2-md.png 768w ,https://Gadem.github.io/media/posts/15/responsive/LXLE_16.04.1-2-lg.png 1200w ,https://Gadem.github.io/media/posts/15/responsive/LXLE_16.04.1-2-xl.png 1600w"></figure>
 <p><em>Soporte para sistemas de 32 bits: <strong>Sí</strong></em></p>
 <p>LXLE es en realidad un giro de la versión LTS de Lubuntu. Ahora que Lubuntu viene con LXQT de manera predeterminada, LXLE es una excelente opción para los usuarios que desean usar el entorno de escritorio LXDE .</p>
 <p>A pesar de ser una distribución ligera de Linux, LXLE intenta proporcionar una interfaz de usuario intuitiva y atractivos para la vista. El sistema está ajustado para mejorar el rendimiento y viene con una amplia gama de aplicaciones ligeras instaladas de forma predeterminada.</p>
@@ -538,7 +580,7 @@
 </ul>
 <p><a href="https://lxle.net/" target="_blank" rel="noopener noreferrer">https://lxle.net/</a></p>
 <h3 id="6-crunchbang">6. CrunchBang++</h3>
-<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/15/cbppanother.png" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/15/responsive/cbppanother-xs.png 384w ,https://Gadem.github.io/media/posts/15/responsive/cbppanother-sm.png 600w ,https://Gadem.github.io/media/posts/15/responsive/cbppanother-md.png 768w ,https://Gadem.github.io/media/posts/15/responsive/cbppanother-lg.png 1200w ,https://Gadem.github.io/media/posts/15/responsive/cbppanother-xl.png 1600w"  alt="" width="1366" height="768"></figure>
+<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/15/cbppanother.png" alt="" width="1366" height="768" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/15/responsive/cbppanother-xs.png 384w ,https://Gadem.github.io/media/posts/15/responsive/cbppanother-sm.png 600w ,https://Gadem.github.io/media/posts/15/responsive/cbppanother-md.png 768w ,https://Gadem.github.io/media/posts/15/responsive/cbppanother-lg.png 1200w ,https://Gadem.github.io/media/posts/15/responsive/cbppanother-xl.png 1600w"></figure>
 <p><em>Compatibilidad con sistemas de 32 bits: <strong>Sí</strong></em> <em> (versiones anteriores)</em></p>
 <p>CrunchBang++ también se conoce como CBPP o #!++ o CrunchBang Plus Plus. Crunchbang++ es el clon de Crunchbang Linux que ha sido descontinuado. <br><br>CrunchBang ++ es compatible con computadoras antiguas y se ejecuta sin ningún problema. CrunchBang++ se basa en  Debian 10 con una interfaz de diseño minimalista.</p>
 <p>Algunas de las aplicaciones predeterminadas en Crunchbang++ al momento de escribir esto eran Geany IDE, el emulador de terminal Terminator, Thunar File Manager, Gimp para edición de imágenes, visor de imágenes Viewnior, VLC Media Player para música, software de grabación de CD/DVD Xfburn, etc. .</p>
@@ -550,7 +592,7 @@
 </ul>
 <p><a href="https://crunchbangplusplus.org/">https://crunchbangplusplus.org/</a></p>
 <h3 id="5-bodhi-linux">5. Bodhi Linux</h3>
-<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/15/bl6.jpg" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/15/responsive/bl6-xs.jpg 384w ,https://Gadem.github.io/media/posts/15/responsive/bl6-sm.jpg 600w ,https://Gadem.github.io/media/posts/15/responsive/bl6-md.jpg 768w ,https://Gadem.github.io/media/posts/15/responsive/bl6-lg.jpg 1200w ,https://Gadem.github.io/media/posts/15/responsive/bl6-xl.jpg 1600w"  alt="" width="1920" height="1080"></figure>
+<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/15/bl6.jpg" alt="" width="1920" height="1080" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/15/responsive/bl6-xs.jpg 384w ,https://Gadem.github.io/media/posts/15/responsive/bl6-sm.jpg 600w ,https://Gadem.github.io/media/posts/15/responsive/bl6-md.jpg 768w ,https://Gadem.github.io/media/posts/15/responsive/bl6-lg.jpg 1200w ,https://Gadem.github.io/media/posts/15/responsive/bl6-xl.jpg 1600w"></figure>
 <p><em>Compatibilidad con sistemas de 32 bits: <strong>Sí</strong></em> <em> (versiones anteriores)</em></p>
 <p>Otra distribución ligera de Linux: Bodhi Linux, que da vida a PC y portátiles más antiguos. Bodhi Linux es bastante conocido por su enfoque minimalista y el soporte para hardware de gama baja.</p>
 <p>No cuenta con muchas cosas preinstaladas; por lo tanto, notará que el tamaño del archivo ISO será inferior a 1 GB.</p>
@@ -563,7 +605,7 @@
 </ul>
 <p><a href="https://www.bodhilinux.com/" target="_blank" rel="noopener noreferrer">https://www.bodhilinux.com/</a></p>
 <h3 id="4-antix-linux">4. antiX Linux</h3>
-<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/15/antix192.jpg" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/15/responsive/antix192-xs.jpg 384w ,https://Gadem.github.io/media/posts/15/responsive/antix192-sm.jpg 600w ,https://Gadem.github.io/media/posts/15/responsive/antix192-md.jpg 768w ,https://Gadem.github.io/media/posts/15/responsive/antix192-lg.jpg 1200w ,https://Gadem.github.io/media/posts/15/responsive/antix192-xl.jpg 1600w"  alt="" width="1025" height="751"></figure>
+<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/15/antix192.jpg" alt="" width="1025" height="751" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/15/responsive/antix192-xs.jpg 384w ,https://Gadem.github.io/media/posts/15/responsive/antix192-sm.jpg 600w ,https://Gadem.github.io/media/posts/15/responsive/antix192-md.jpg 768w ,https://Gadem.github.io/media/posts/15/responsive/antix192-lg.jpg 1200w ,https://Gadem.github.io/media/posts/15/responsive/antix192-xl.jpg 1600w"></figure>
 <p><em>Soporte para sistemas de 32 bits: <strong>Sí</strong></em></p>
 <p>antiX es una distribución ligera de Linux basada en Debian Linux. Si buscas algo que no incluya systemd , esta es una gran opción.</p>
 <p>antiX también usa el administrador de ventanas icewm para mantener el sistema funcionando en hardware de gama baja. No tiene mucho software preinstalado, por lo que el tamaño del archivo ISO es de alrededor de 700 MB. Siempre puede descargar e instalar más software más tarde si tiene acceso a una conexión a Internet activa.</p>
@@ -575,7 +617,7 @@
 </ul>
 <p><a href="https://antixlinux.com/" target="_blank" rel="noopener noreferrer">https://antixlinux.com/</a></p>
 <h3 id="3-sparkylinux">3. SparkyLinux</h3>
-<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/15/SparkyLinux.webp" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/15/responsive/SparkyLinux-xs.webp 384w ,https://Gadem.github.io/media/posts/15/responsive/SparkyLinux-sm.webp 600w ,https://Gadem.github.io/media/posts/15/responsive/SparkyLinux-md.webp 768w ,https://Gadem.github.io/media/posts/15/responsive/SparkyLinux-lg.webp 1200w ,https://Gadem.github.io/media/posts/15/responsive/SparkyLinux-xl.webp 1600w"  alt="" width="1200" height="675"></figure>
+<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/15/SparkyLinux.webp" alt="" width="1200" height="675" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/15/responsive/SparkyLinux-xs.webp 384w ,https://Gadem.github.io/media/posts/15/responsive/SparkyLinux-sm.webp 600w ,https://Gadem.github.io/media/posts/15/responsive/SparkyLinux-md.webp 768w ,https://Gadem.github.io/media/posts/15/responsive/SparkyLinux-lg.webp 1200w ,https://Gadem.github.io/media/posts/15/responsive/SparkyLinux-xl.webp 1600w"></figure>
 <p>SparkyLinux es otra distribución liviana pero, al mismo tiempo, también apunta a las computadoras modernas.</p>
 <p>Dependiendo de lo que necesite, encontrará dos variantes de SparkyLinux. Uno basado en la versión estable de Debian y el otro basado en la rama de prueba de Debian. Así que puedes optar por cualquiera que creas conveniente.</p>
 <p>Además de las variantes, también encontrarás diferentes ediciones de ISO para descargar. Por ejemplo, una edición de escritorio LXQT, una edición GameOver con cosas preinstaladas, etc.</p>
@@ -588,7 +630,7 @@
 </ul>
 <p><a href="https://sparkylinux.org/" target="_blank" rel="noopener noreferrer">https://sparkylinux.org/</a></p>
 <h3 id="2-puppy-linux">2. Puppy Linux</h3>
-<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/15/fossadusk.jpg" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/15/responsive/fossadusk-xs.jpg 384w ,https://Gadem.github.io/media/posts/15/responsive/fossadusk-sm.jpg 600w ,https://Gadem.github.io/media/posts/15/responsive/fossadusk-md.jpg 768w ,https://Gadem.github.io/media/posts/15/responsive/fossadusk-lg.jpg 1200w ,https://Gadem.github.io/media/posts/15/responsive/fossadusk-xl.jpg 1600w"  alt="" width="1200" height="756"></figure>
+<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/15/fossadusk.jpg" alt="" width="1200" height="756" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/15/responsive/fossadusk-xs.jpg 384w ,https://Gadem.github.io/media/posts/15/responsive/fossadusk-sm.jpg 600w ,https://Gadem.github.io/media/posts/15/responsive/fossadusk-md.jpg 768w ,https://Gadem.github.io/media/posts/15/responsive/fossadusk-lg.jpg 1200w ,https://Gadem.github.io/media/posts/15/responsive/fossadusk-xl.jpg 1600w"></figure>
 <p><em>Compatibilidad con sistemas de 32 bits: <strong>Sí</strong></em> <em> (versiones anteriores)</em></p>
 <p>Puppy Linux se puede iniciar en vivo con un CD/DVD/USB.</p>
 <div class="wp-block-image">
@@ -604,7 +646,7 @@
 </figure>
 </div>
 <h3 id="1-tiny-core">1. Tiny Core</h3>
-<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/15/Tiny_Core_Linux_y_Chromium.png" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/15/responsive/Tiny_Core_Linux_y_Chromium-xs.png 384w ,https://Gadem.github.io/media/posts/15/responsive/Tiny_Core_Linux_y_Chromium-sm.png 600w ,https://Gadem.github.io/media/posts/15/responsive/Tiny_Core_Linux_y_Chromium-md.png 768w ,https://Gadem.github.io/media/posts/15/responsive/Tiny_Core_Linux_y_Chromium-lg.png 1200w ,https://Gadem.github.io/media/posts/15/responsive/Tiny_Core_Linux_y_Chromium-xl.png 1600w"  alt="" width="1600" height="1200"></figure>
+<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/15/Tiny_Core_Linux_y_Chromium.png" alt="" width="1600" height="1200" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/15/responsive/Tiny_Core_Linux_y_Chromium-xs.png 384w ,https://Gadem.github.io/media/posts/15/responsive/Tiny_Core_Linux_y_Chromium-sm.png 600w ,https://Gadem.github.io/media/posts/15/responsive/Tiny_Core_Linux_y_Chromium-md.png 768w ,https://Gadem.github.io/media/posts/15/responsive/Tiny_Core_Linux_y_Chromium-lg.png 1200w ,https://Gadem.github.io/media/posts/15/responsive/Tiny_Core_Linux_y_Chromium-xl.png 1600w"></figure>
 <p>Probablemente, técnicamente, la distribución más ligera que existe. Sin embargo, no es una distribución de Linux completa para un usuario de escritorio promedio.</p>
 <p>Tiny Core simplemente incorpora el núcleo fundamental de un sistema operativo que incluye el kernel y el sistema de archivos raíz. En otras palabras, presenta la base de un sistema operativo de escritorio.</p>
 <p>Si simplemente desea que un sistema se inicie junto con una conexión a Internet por cable, puede comenzar a usarlo. Pero, no debe esperar un soporte de hardware adecuado listo para usar.</p>
@@ -627,6 +669,7 @@
         </author>
         <link href="https://Gadem.github.io/lanzamiento-manjaro-linux-2130/"/>
         <id>https://Gadem.github.io/lanzamiento-manjaro-linux-2130/</id>
+        <media:content url="https://Gadem.github.io/media/posts/14/Captura-desde-2022-06-20-14-11-39.png" medium="image" />
             <category term="XFCE"/>
             <category term="Software Libre"/>
             <category term="Plasma"/>
@@ -648,7 +691,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://Gadem.github.io/media/posts/14/Captura-desde-2022-06-20-14-11-39.png" alt="Manjaro 21.3.0" />
+                    <p><img src="https://Gadem.github.io/media/posts/14/Captura-desde-2022-06-20-14-11-39.png" class="type:primaryImage" alt="Manjaro 21.3.0" /></p>
                 <p><span><span class="">Philip Müller ha anunciado el lanzamiento de </span></span><a href="https://distrowatch-com.translate.goog/manjaro?_x_tr_sl=auto&amp;_x_tr_tl=es&amp;_x_tr_hl=es&amp;_x_tr_pto=wapp"><span><span class="">Manjaro</span></span></a><span><span class=""> Linux 21.3.0, la última versión estable de la distribución de lanzamiento continuo del proyecto que ofrece una selección de escritorios KDE Plasma, Xfce y GNOME. </span>Esta versión incluye la versión 3.2 del instalador de Calamares. "</span><span class="Quote"><span>Manjaro 21.3.0 'Ruah' lanzado. Desde que lanzamos 'Qonos' a fines del año pasado, nuestro equipo de desarrolladores trabajó arduamente para lanzar la próxima versión de Manjaro. Lo llamamos 'Ruah'. Esta versión presenta la versión final de Calamares 3.2. El módulo de partición obtuvo más soporte para las particiones LUKS. El módulo de usuarios ahora tiene listas de nombres de inicio de sesión y nombres de host prohibidos, para evitar configuraciones que arruinen la instalación. La edición de GNOME ha recibido una importante actualización de GNOME 42. Ha llegado una nueva preferencia de estilo de interfaz de usuario oscuro global. Esto se puede usar para solicitar que las aplicaciones usen un estilo de interfaz de usuario oscuro en lugar de claro. La nueva configuración se puede encontrar en el nuevo panel Apariencia en la aplicación Configuración, y la siguen la mayoría de las aplicaciones de GNOME. </span></span><span>"</span><a href="https://translate.google.com/website?sl=auto&amp;tl=es&amp;hl=es&amp;client=webapp&amp;u=https://forum.manjaro.org/t/manjaro-21-3-0-ruah-released/114220"></a><a href="https://translate.google.com/website?sl=auto&amp;tl=es&amp;hl=es&amp;client=webapp&amp;u=https://manjaro.org/download/"><span>Descarga</span></a><span> ( </span><a href="https://distrowatch-com.translate.goog/table.php?distribution=manjaro&amp;pkglist=true&amp;version=21.3.0&amp;_x_tr_sl=auto&amp;_x_tr_tl=es&amp;_x_tr_hl=es&amp;_x_tr_pto=wapp#pkglist"><span>pkglist</span></a><span> ): </span><a href="https://translate.google.com/website?sl=auto&amp;tl=es&amp;hl=es&amp;client=webapp&amp;u=https://download.manjaro.org/kde/21.3.0/manjaro-kde-21.3.0-220617-linux515.iso"><span>manjaro-kde-21.3.0-220617-linux515.iso</span></a><span> (3524 MB, </span><a href="https://translate.google.com/website?sl=auto&amp;tl=es&amp;hl=es&amp;client=webapp&amp;u=https://download.manjaro.org/kde/21.3.0/manjaro-kde-21.3.0-220617-linux515.iso.sha256"><span>SHA256</span></a><span> , </span><a href="https://translate.google.com/website?sl=auto&amp;tl=es&amp;hl=es&amp;client=webapp&amp;u=https://download.manjaro.org/kde/21.3.0/manjaro-kde-21.3.0-220617-linux515.iso.sig"><span>firma</span></a><span> , </span><a href="https://translate.google.com/website?sl=auto&amp;tl=es&amp;hl=es&amp;client=webapp&amp;u=https://download.manjaro.org/kde/21.3.0/manjaro-kde-21.3.0-220617-linux515.iso.torrent"><span>torrent</span></a><span> ), </span><a href="https://translate.google.com/website?sl=auto&amp;tl=es&amp;hl=es&amp;client=webapp&amp;u=https://download.manjaro.org/xfce/21.3.0/manjaro-xfce-21.3.0-220617-linux515.iso"><span>manjaro-xfce-21.3.0-220617-linux515.iso</span></a><span> (3287 MB, </span><a href="https://translate.google.com/website?sl=auto&amp;tl=es&amp;hl=es&amp;client=webapp&amp;u=https://download.manjaro.org/xfce/21.3.0/manjaro-xfce-21.3.0-220617-linux515.iso.sha256"><span>SHA256</span></a><span> , </span><a href="https://translate.google.com/website?sl=auto&amp;tl=es&amp;hl=es&amp;client=webapp&amp;u=https://download.manjaro.org/xfce/21.3.0/manjaro-xfce-21.3.0-220617-linux515.iso.sig"><span>firma</span></a><span> , </span><a href="https://translate.google.com/website?sl=auto&amp;tl=es&amp;hl=es&amp;client=webapp&amp;u=https://download.manjaro.org/xfce/21.3.0/manjaro-xfce-21.3.0-220617-linux515.iso.torrent"><span>torrent</span></a><span> ), </span><a href="https://translate.google.com/website?sl=auto&amp;tl=es&amp;hl=es&amp;client=webapp&amp;u=https://download.manjaro.org/gnome/21.3.0/manjaro-gnome-21.3.0-220617-linux515.iso"><span>manjaro-gnome-21.3.0-220617-linux515.iso</span></a><span> (3316 MB, </span><a href="https://translate.google.com/website?sl=auto&amp;tl=es&amp;hl=es&amp;client=webapp&amp;u=https://download.manjaro.org/gnome/21.3.0/manjaro-gnome-21.3.0-220617-linux515.iso.sha256"><span>SHA256</span></a><span> , </span><a href="https://translate.google.com/website?sl=auto&amp;tl=es&amp;hl=es&amp;client=webapp&amp;u=https://download.manjaro.org/gnome/21.3.0/manjaro-gnome-21.3.0-220617-linux515.iso.sig"><span>firma</span></a><span> , </span><a href="https://translate.google.com/website?sl=auto&amp;tl=es&amp;hl=es&amp;client=webapp&amp;u=https://download.manjaro.org/gnome/21.3.0/manjaro-gnome-21.3.0-220617-linux515.iso.torrent"><span>torrent</span></a><span> ).</span></p>
 <h6 class="mb-2 font-semibold leading-5"><span><span class="">¿Qué es una edición?</span></span></h6>
 <p class="text-sm text-gray-900"><span><span class="">Una edición es una interfaz de usuario (UI) única, cambia la forma en que interactuamos con nuestra computadora. </span>Pruebe diferentes imágenes y descubra qué interfaz de usuario le gusta, esta es una preferencia puramente personal.</span></p>
@@ -657,13 +700,13 @@
 <h6 class="mb-2 font-semibold leading-5"><span>¿Cómo es la disponibilidad del software?</span></h6>
 <p class="text-sm text-gray-900"><span>Manjaro permite la instalación de paquetes nativos que también admiten formatos de paquetes de terceros, como Snap, Flatpack o Appimages; es importante contar con una amplia gama de software.</span></p>
 <h2>KDE Plasma</h2>
-<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/14/plasma.jpg" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/14/responsive/plasma-xs.jpg 384w ,https://Gadem.github.io/media/posts/14/responsive/plasma-sm.jpg 600w ,https://Gadem.github.io/media/posts/14/responsive/plasma-md.jpg 768w ,https://Gadem.github.io/media/posts/14/responsive/plasma-lg.jpg 1200w ,https://Gadem.github.io/media/posts/14/responsive/plasma-xl.jpg 1600w"  alt="Manjaro KDE Plasma" width="800" height="404"></figure>
+<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/14/plasma.jpg" alt="Manjaro KDE Plasma" width="800" height="404" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/14/responsive/plasma-xs.jpg 384w ,https://Gadem.github.io/media/posts/14/responsive/plasma-sm.jpg 600w ,https://Gadem.github.io/media/posts/14/responsive/plasma-md.jpg 768w ,https://Gadem.github.io/media/posts/14/responsive/plasma-lg.jpg 1200w ,https://Gadem.github.io/media/posts/14/responsive/plasma-xl.jpg 1600w"></figure>
 <p class="text-sm text-gray-900"><span>El entorno de escritorio Plasma favorece las tecnologías KDE/QT y desde todos los escritorios ofrece las configuraciones y opciones más completas dentro de una interfaz de usuario. La interfaz de usuario se asemeja al diseño de Windows, si conoce Windows de adentro hacia afuera y no está abrumado con la cantidad de opciones disponibles, entonces esta puede ser la adecuada para usted.</span></p>
 <h2>Gnome Shell</h2>
-<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/14/gnome.jpg" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/14/responsive/gnome-xs.jpg 384w ,https://Gadem.github.io/media/posts/14/responsive/gnome-sm.jpg 600w ,https://Gadem.github.io/media/posts/14/responsive/gnome-md.jpg 768w ,https://Gadem.github.io/media/posts/14/responsive/gnome-lg.jpg 1200w ,https://Gadem.github.io/media/posts/14/responsive/gnome-xl.jpg 1600w"  alt="Gnome Shell" width="800" height="404"></figure>
+<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/14/gnome.jpg" alt="Gnome Shell" width="800" height="404" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/14/responsive/gnome-xs.jpg 384w ,https://Gadem.github.io/media/posts/14/responsive/gnome-sm.jpg 600w ,https://Gadem.github.io/media/posts/14/responsive/gnome-md.jpg 768w ,https://Gadem.github.io/media/posts/14/responsive/gnome-lg.jpg 1200w ,https://Gadem.github.io/media/posts/14/responsive/gnome-xl.jpg 1600w"></figure>
 <p class="text-sm text-gray-900"><span>Gnome es un entorno de escritorio moderno, el diseño es diferente de otras opciones pero fácil e intuitivo de aprender, le dará a su computadora un nuevo comienzo.</span></p>
 <p>XFCE</p>
-<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/14/xfce.jpg" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/14/responsive/xfce-xs.jpg 384w ,https://Gadem.github.io/media/posts/14/responsive/xfce-sm.jpg 600w ,https://Gadem.github.io/media/posts/14/responsive/xfce-md.jpg 768w ,https://Gadem.github.io/media/posts/14/responsive/xfce-lg.jpg 1200w ,https://Gadem.github.io/media/posts/14/responsive/xfce-xl.jpg 1600w"  alt="" width="800" height="450"></figure>
+<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/14/xfce.jpg" alt="" width="800" height="450" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/14/responsive/xfce-xs.jpg 384w ,https://Gadem.github.io/media/posts/14/responsive/xfce-sm.jpg 600w ,https://Gadem.github.io/media/posts/14/responsive/xfce-md.jpg 768w ,https://Gadem.github.io/media/posts/14/responsive/xfce-lg.jpg 1200w ,https://Gadem.github.io/media/posts/14/responsive/xfce-xl.jpg 1600w"></figure>
 <p class="text-sm text-gray-900"><span>Xfce es un entorno de escritorio ligero. Su objetivo es ser rápido y bajo en los recursos del sistema, mientras que es sólido como una roca. El diseño de la interfaz de usuario se asemeja al sistema operativo Windows, si nunca antes ha probado Manjaro o Linux, este es un excelente punto de partida.</span></p>
 <p> </p>
 <p><a href="https://manjaro.org/download/" target="_blank" rel="noopener noreferrer">Descargas: https://manjaro.org/download/</a></p>
@@ -677,6 +720,7 @@
         </author>
         <link href="https://Gadem.github.io/microsoft-le-da-dollar-10k-a-gnome-por-ser-asombroso-basicamente/"/>
         <id>https://Gadem.github.io/microsoft-le-da-dollar-10k-a-gnome-por-ser-asombroso-basicamente/</id>
+        <media:content url="https://Gadem.github.io/media/posts/13/GNOME_Shell_with_some_GNOME_applications_version_40_released_in_2021-03.png" medium="image" />
             <category term="Twitter"/>
             <category term="Software Libre"/>
             <category term="Open-Source"/>
@@ -693,7 +737,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://Gadem.github.io/media/posts/13/GNOME_Shell_with_some_GNOME_applications_version_40_released_in_2021-03.png" alt="https://twitter.com/sunnydeveloper/status/1536744475979939841" />
+                    <p><img src="https://Gadem.github.io/media/posts/13/GNOME_Shell_with_some_GNOME_applications_version_40_released_in_2021-03.png" class="type:primaryImage" alt="https://twitter.com/sunnydeveloper/status/1536744475979939841" /></p>
                 <p>El proyecto GNOME está configurado para recibir un impulso de $ 10,000 de Microsoft.<br><br>Pero permítanme enfatizar (antes de que alguien se tuerza la ropa interior) no hay condiciones para esto. Nada está siendo adquirido o aceptado.<br><br>En su lugar, los empleados de Microsoft eligieron a GNOME como el último destinatario del Fondo Microsoft FOSS, una iniciativa que el gigante del software ha llevado a cabo durante un par de años. Estableció el fondo para “proporcionar patrocinios de $10,000 para proyectos de código abierto” como parte de un esfuerzo por “retribuir” a las comunidades y proyectos en los que sus empleados confían en su trabajo.<br><br>Que el antiguo “enemigo” del código abierto esté dispuesto a posicionarse como mejor amigo de los esfuerzos de software comunitario, Linux en particular, no es nuevo, por supuesto. Pero tampoco es del todo falso.<br><br>En estos días, Microsoft es un miembro clave de muchas organizaciones líderes de código abierto, contribuye directamente al kernel de Linux e incluso mantiene su propia distribución de Linux.</p>
 <h2>¿Qué es el Fondo Microsoft FOSS?</h2>
 <p><br><br>Cada mes, Microsoft permite que sus empleados nominen proyectos de código abierto utilizados por la empresa pero que no pertenecen a (nadie en ella). Para ser elegibles, los proyectos deben tener una licencia aprobada por OSI y una forma de procesar los fondos.<br><br>“El proceso de nominación está abierto a todos los empleados y pasantes de Microsoft, y un grupo de curación, los “Campeones de código abierto”, ayuda a reunir a los nominados de cada fondo. Algunas rondas de financiación pueden tener un tema particular, y cada ronda de financiación tendrá de 5 a 20 proyectos nominados más o menos”, explica la página de GitHub (qué más) del fondo.<br><br>Al final del proceso de selección, hay una votación y los proyectos ganadores obtienen un aumento de $10,000, que normalmente se ofrece como $1,000 al mes durante 10 meses.<br><br>Como reveló en Twitter la directora sénior de programas de Microsoft, Emma Irwin, el proyecto GNOME es el último destinatario. Los ganadores anteriores del Microsoft FOSS Fund incluyen systemd, curl, QEMU y OpenStreetMap.<br><br>GNOME que se beneficia del Fondo FOSS de Microsoft es un respaldo bastante grande. El proyecto no solo es una parte importante del panorama de código abierto como todos lo conocemos, sino que resulta que también es importante en el panorama de código abierto de Microsoft.<br><br>E incluso si no quiere darle ningún crédito a Microsoft como una gran masa corporativa descomunal, a nivel humano, es bueno que los empleados de Microsoft sientan que GNOME se lo merece.</p>
@@ -708,6 +752,7 @@
         </author>
         <link href="https://Gadem.github.io/gimp-21032-mejora-la-usabilidad-e-incluye-soporte-para-bigtiff/"/>
         <id>https://Gadem.github.io/gimp-21032-mejora-la-usabilidad-e-incluye-soporte-para-bigtiff/</id>
+        <media:content url="https://Gadem.github.io/media/posts/12/GIMP.png" medium="image" />
             <category term="Software Libre"/>
             <category term="Open-Source"/>
             <category term="Noticias"/>
@@ -725,13 +770,13 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://Gadem.github.io/media/posts/12/GIMP.png" alt="" />
+                    <p><img src="https://Gadem.github.io/media/posts/12/GIMP.png" class="type:primaryImage" alt="" /></p>
                 <p>Mientras la eterna promesa de GIMP 3 termina de llegar, los encargados del manipulador de imágenes han anunciado la publicación de <strong>GIMP 2.10.32</strong>, que destaca precisamente por traer algunas características de la futura versión mayor portadas hacia atrás.</p>
 <p>Lo primero que sobresale de GIMP 2.10.32 es la capacidad de <strong>importar ficheros que emplean el modelo de color CMYK(A) y el soporte para el formato BigTIFF tanto para importar como exportar</strong>. BigTIFF, como bien indica su nombre, es una evolución de TIFF que permite archivos que ocupan más de 4GiB mediante el uso de compensaciones (offsets) internas de 64-bit. En caso de que la exportación de la imagen falle debido a que su tamaño excede el máximo permitido por TIFF, la aplicación se encargará de mostrar un aviso y sugerir la repetición del proceso en formato BigTIFF.</p>
 <p>Otra novedad es el <strong>soporte para el formato JPEG XL, una característica que ha sido portada hacia atrás de GIMP 2.99.8</strong>. Existe un <a href="https://github.com/libjxl/libjxl/tree/main/plugins/gimp" target="_blank" rel="noopener">plugin de terceros</a> para tratar dicho formato procedente de los desarrolladores de <code>libjxl</code>, que si bien parece ser mejor que el soporte introducido en GIMP 2.10.32 gracias a que cuenta con funciones de exportación, también arrastra algunos problemas que pueden frustrar dicho proceso de exportación. Usar el soporte nativo o continuar con el plugin de terceros ya es cuestión de las necesidades y preferencias del usuario.</p>
 <p>Algunos motores de videojuegos requieren que las imágenes DDS estén volteadas verticalmente. Hasta ahora para trabajar eso en GIMP había que voltear con el manipulador de imágenes antes de exportar, lo cual no era muy práctico. Ahora, cuando se exporte a DDS, el usuario verá dos opciones para guardar todas las capas visibles y voltear verticalmente en la exportación.</p>
 <p>La apertura de los ficheros PSD de Photoshop ha sido acelerada en algunas situaciones en las que aparecen demasiadas etiquetas <code>Xmp.photoshop.DocumentAncestors</code>. Al parecer, posiblemente debido a un fallo en alguna versión de Photoshop, se termina encontrando demasiadas de esas etiquetas en algunos ficheros PSD, más de 100.000 en algunos casos. Esa situación termina ralentizando mucho la apertura con GIMP, así que <strong>si el fichero PSD tiene más de 1.000 etiquetas <code>Xmp.photoshop.DocumentAncestors</code>, la aplicación procederá a eliminarlas</strong>.</p>
-<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/12/GIMP-2.10.32.jpg" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/12/responsive/GIMP-2.10.32-xs.jpg 384w ,https://Gadem.github.io/media/posts/12/responsive/GIMP-2.10.32-sm.jpg 600w ,https://Gadem.github.io/media/posts/12/responsive/GIMP-2.10.32-md.jpg 768w ,https://Gadem.github.io/media/posts/12/responsive/GIMP-2.10.32-lg.jpg 1200w ,https://Gadem.github.io/media/posts/12/responsive/GIMP-2.10.32-xl.jpg 1600w"  alt="GIMP 2.10.32 mejora la usabilidad e incluye soporte para BigTIFF" width="1449" height="797"></figure>
+<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/12/GIMP-2.10.32.jpg" alt="GIMP 2.10.32 mejora la usabilidad e incluye soporte para BigTIFF" width="1449" height="797" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/12/responsive/GIMP-2.10.32-xs.jpg 384w ,https://Gadem.github.io/media/posts/12/responsive/GIMP-2.10.32-sm.jpg 600w ,https://Gadem.github.io/media/posts/12/responsive/GIMP-2.10.32-md.jpg 768w ,https://Gadem.github.io/media/posts/12/responsive/GIMP-2.10.32-lg.jpg 1200w ,https://Gadem.github.io/media/posts/12/responsive/GIMP-2.10.32-xl.jpg 1600w"></figure>
 <p>Si bien el <a href="https://www.muylinux.com/2021/12/22/gimp-2-10-30/" target="_blank" rel="noopener">soporte para PSD</a> es importante debido a circunstancias del mercado, eso no quiere decir que se descuide a XCF, el formato propio de GIMP para los proyectos, que en la versión 2.10.32 ha recibido diversas mejoras para hacerlo más robusto ante los ficheros inválidos. En algunos casos permite recuperar datos corruptos, mejorando así su protección.</p>
 <p>La herramienta de texto ahora soporta glifos localizados según el valor establecido en la opción de idioma. Esta característica viene bien para idiomas como el serbio y el ucraniano, que emplean el mismo alfabeto cirílico con cinco letras que tienen variantes regionales. En caso de seleccionar una fuente con variantes de una letra, es posible definir el formato interno a través de la configuración de idioma.</p>
 <p>A nivel de usabilidad se ha incorporado un indicador alrededor del icono del ojo y del enlace en el árbol de capas, un nuevo efecto de hover en los elementos del menú que mejora la legibilidad y mejoras en la legibilidad y en los iconos para hacerlos más fáciles de distinguir. Por otro lado, <strong>el plugin de captura de la pantalla es ahora capaz de incluir el puntero del ratón en Windows</strong>, una característica que estaba y sigue estando presente en el resto de sistemas oficialmente soportados. Para terminar, se han incorporado babl 0.1.90 y GEGL 0.4.36.</p>
@@ -746,6 +791,7 @@
         </author>
         <link href="https://Gadem.github.io/speek-una-alternativa-open-source-descentralizada-y-mas-segura-que-whatsapp/"/>
         <id>https://Gadem.github.io/speek-una-alternativa-open-source-descentralizada-y-mas-segura-que-whatsapp/</id>
+        <media:content url="https://Gadem.github.io/media/posts/11/Captura-desde-2022-06-13-12-55-14.png" medium="image" />
             <category term="Speek"/>
             <category term="Software Libre"/>
             <category term="Open-Source"/>
@@ -764,13 +810,13 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://Gadem.github.io/media/posts/11/Captura-desde-2022-06-13-12-55-14.png" alt="Speek! Una alternativa Open-Source descentralizada y más segura que WhatsApp." />
+                    <p><img src="https://Gadem.github.io/media/posts/11/Captura-desde-2022-06-13-12-55-14.png" class="type:primaryImage" alt="Speek! Una alternativa Open-Source descentralizada y más segura que WhatsApp." /></p>
                 <div id="tw-target-text-container" class="tw-ta-container F0azHf tw-nfl" tabindex="0">
 <pre class="tw-data-text tw-text-large tw-ta" dir="ltr" data-placeholder="Traducción"><span class="Y2IQFc" lang="es">100 % anónimo - 100 % descentralizado - 100 % resistente a la censura</span></pre>
 <h2>¿Cómo funciona?</h2>
-<figure class="post__image">Todos los mensajes están encriptados de extremo a extremo. El cliente de Speek está creando un servicio oculto Tor en la PC del cliente. Luego, el mensaje se enruta a través de la red de cebolla Tor al receptor. Esto hace posible que las direcciones IP nunca sean públicas y los usuarios puedan permanecer en el anonimato. Los usuarios se identifican con claves públicas. Cada usuario puede compartir su clave pública con otros para agregarlos a la lista de contactos.<br><br><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/11/Captura-desde-2022-06-13-13-01-29.png" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/11/responsive/Captura-desde-2022-06-13-13-01-29-xs.png 384w ,https://Gadem.github.io/media/posts/11/responsive/Captura-desde-2022-06-13-13-01-29-sm.png 600w ,https://Gadem.github.io/media/posts/11/responsive/Captura-desde-2022-06-13-13-01-29-md.png 768w ,https://Gadem.github.io/media/posts/11/responsive/Captura-desde-2022-06-13-13-01-29-lg.png 1200w ,https://Gadem.github.io/media/posts/11/responsive/Captura-desde-2022-06-13-13-01-29-xl.png 1600w"  alt="" width="820" height="544"></figure></pre>
+<figure class="post__image">Todos los mensajes están encriptados de extremo a extremo. El cliente de Speek está creando un servicio oculto Tor en la PC del cliente. Luego, el mensaje se enruta a través de la red de cebolla Tor al receptor. Esto hace posible que las direcciones IP nunca sean públicas y los usuarios puedan permanecer en el anonimato. Los usuarios se identifican con claves públicas. Cada usuario puede compartir su clave pública con otros para agregarlos a la lista de contactos.<br><br><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/11/Captura-desde-2022-06-13-13-01-29.png" alt="" width="820" height="544" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/11/responsive/Captura-desde-2022-06-13-13-01-29-xs.png 384w ,https://Gadem.github.io/media/posts/11/responsive/Captura-desde-2022-06-13-13-01-29-sm.png 600w ,https://Gadem.github.io/media/posts/11/responsive/Captura-desde-2022-06-13-13-01-29-md.png 768w ,https://Gadem.github.io/media/posts/11/responsive/Captura-desde-2022-06-13-13-01-29-lg.png 1200w ,https://Gadem.github.io/media/posts/11/responsive/Captura-desde-2022-06-13-13-01-29-xl.png 1600w"></figure></pre>
 <p>Speek es la aplicación de mensajería más segura En comparación con aplicaciones de mensajería populares como Telegram, WhatsApp y Signal, Speek es, con mucho, la forma más segura de conversar. Speek no tiene servidor, no almacena metadatos, no requiere identificación ni número de teléfono y todos los mensajes están encriptados y enrutados a través de la red Tor.</p>
-<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/11/Captura-desde-2022-06-13-12-58-39.png" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/11/responsive/Captura-desde-2022-06-13-12-58-39-xs.png 384w ,https://Gadem.github.io/media/posts/11/responsive/Captura-desde-2022-06-13-12-58-39-sm.png 600w ,https://Gadem.github.io/media/posts/11/responsive/Captura-desde-2022-06-13-12-58-39-md.png 768w ,https://Gadem.github.io/media/posts/11/responsive/Captura-desde-2022-06-13-12-58-39-lg.png 1200w ,https://Gadem.github.io/media/posts/11/responsive/Captura-desde-2022-06-13-12-58-39-xl.png 1600w"  alt="Comparación" width="774" height="510"></figure>
+<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/11/Captura-desde-2022-06-13-12-58-39.png" alt="Comparación" width="774" height="510" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/11/responsive/Captura-desde-2022-06-13-12-58-39-xs.png 384w ,https://Gadem.github.io/media/posts/11/responsive/Captura-desde-2022-06-13-12-58-39-sm.png 600w ,https://Gadem.github.io/media/posts/11/responsive/Captura-desde-2022-06-13-12-58-39-md.png 768w ,https://Gadem.github.io/media/posts/11/responsive/Captura-desde-2022-06-13-12-58-39-lg.png 1200w ,https://Gadem.github.io/media/posts/11/responsive/Captura-desde-2022-06-13-12-58-39-xl.png 1600w"></figure>
 <div id="KnM9nf"></div>
 <div class="QmZWSe">
 <div class="DHcWmd"> </div>
@@ -798,54 +844,6 @@ Nadie es capaz de interceptar sus mensajes. Los mensajes solo se almacenan tempo
 </div>
 </div>
 </div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Paper es una elegante aplicación para tomar notas para Linux</title>
-        <author>
-            <name>Adrian Mora (Gadem)</name>
-        </author>
-        <link href="https://Gadem.github.io/paper-es-una-elegante-aplicacion-para-tomar-notas-para-linux/"/>
-        <id>https://Gadem.github.io/paper-es-una-elegante-aplicacion-para-tomar-notas-para-linux/</id>
-            <category term="Ubuntu"/>
-            <category term="Paper aplicación de notas"/>
-            <category term="Oficina y Productividad"/>
-            <category term="Notes"/>
-            <category term="Notas"/>
-            <category term="GTK App"/>
-            <category term="Flatpack App"/>
-            <category term="Descargas"/>
-
-        <updated>2022-06-12T17:49:37-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://Gadem.github.io/media/posts/10/Captura-desde-2022-06-12-16-38-16.png" alt="" />
-                    Si está buscando una aplicación para tomar notas para Linux, querrá consultar Paper . Paper es una aplicación GTK moderna&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://Gadem.github.io/media/posts/10/Captura-desde-2022-06-12-16-38-16.png" alt="" />
-                <p><strong>Si está buscando una aplicación para tomar notas para Linux, querrá consultar <a href="https://translate.google.com/website?sl=auto&amp;tl=es&amp;hl=es&amp;client=webapp&amp;u=https://posidon.io/paper/" target="_blank" rel="noreferrer noopener">Paper</a> .</strong></p>
-<p><em>Paper</em> es una aplicación GTK moderna que <a href="https://translate.google.com/website?sl=auto&amp;tl=es&amp;hl=es&amp;client=webapp&amp;u=https://gitlab.com/posidon_software/paper" target="_blank" rel="noreferrer noopener">se presenta a sí misma</a> como una 'hermosa aplicación para tomar notas para GNOME', ¡y lo es! Estar basado en Markdown significa que la aplicación es compatible con el formato de texto, la adición de enlaces, el resaltado de secciones de texto, la inserción de bloques de código y más, desde el primer momento.</p>
-<p> </p>
-<p>Ahora, me clasifico más como un tomador de notas casual. Utilizo aplicaciones como esta para recopilar ideas que tengo para futuras publicaciones, comandos de terminal que debo recordar.</p>
-<p>Necesidades básicas para tomar notas, por así decirlo. No estoy en la universidad haciendo un título que necesita citas, referencias, cálculos, clasificación jerárquica y otras opciones "avanzadas". Para tomar notas serias, lo mejor es un servicio, una aplicación y/o una plataforma más establecidos.</p>
-<p>¿Pero para las necesidades diarias? ¿Es Paper tu app para notas?</p>
-<h2>Funciones de la aplicación GTK Paper.</h2>
-<p>Paper te permite <strong>crear cuadernos</strong> (carpetas, por así decirlo) donde viven las notas. Cuando crea un nuevo cuaderno en Paper (a través del menú o el atajo <code>shift</code>+ <code>ctrl + N</code>) , puede nombrarlo, establecer un color para denotarlo (que se muestra en la barra lateral) y elegir el esquema de 'nombramiento' que aparece en la portada ( o utilice un icono en su lugar).</p>
-<p>Si observa la captura de pantalla a continuación, verá varios cuadernos visibles en la franja en el lado izquierdo de la ventana de la aplicación. Las 'cubiertas' de estos cuadernos son todas diferentes. Algunos tienen nombres, algunos tienen iconos, todos tienen diferentes colores.</p>
-<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/10/Captura-desde-2022-06-12-16-45-33.png" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/10/responsive/Captura-desde-2022-06-12-16-45-33-xs.png 384w ,https://Gadem.github.io/media/posts/10/responsive/Captura-desde-2022-06-12-16-45-33-sm.png 600w ,https://Gadem.github.io/media/posts/10/responsive/Captura-desde-2022-06-12-16-45-33-md.png 768w ,https://Gadem.github.io/media/posts/10/responsive/Captura-desde-2022-06-12-16-45-33-lg.png 1200w ,https://Gadem.github.io/media/posts/10/responsive/Captura-desde-2022-06-12-16-45-33-xl.png 1600w"  alt="Paper App" width="904" height="617"></figure>
-<p>Además de poder crear cuadernos separados, también <strong>puede crear fácilmente notas</strong> dentro de los cuadernos.</p>
-<p>Paper <strong>admite Markdown</strong> de forma nativa (aunque los botones WYSIWG para acciones comunes como negrita, tachado, encabezados, enlaces, etc. se encuentran en la barra de herramientas en la parte inferior de la ventana de edición de notas), por lo que puede agregar la mayoría de los formatos de texto en línea con los elementos representados en la pantalla cuando esté completo. (similar a <em>Typora</em> y <em>Mark Text</em> ).</p>
-<p>El color de la opción de formato de resaltado cambiará entre las notas, ya que se deriva del color de la cubierta del cuaderno.</p>
-<p>Naturalmente, esta aplicación <strong>admite el modo oscuro</strong> (aunque globalmente, no como una configuración específica de la aplicación) y tiene una <strong>barra lateral plegable</strong> que le permite simplificar la interfaz de usuario. Juntas, estas opciones pueden ayudarlo a concentrarse únicamente en la tarea de tomar notas.</p>
-<p>En cuanto a la configuración, la aplicación le permite <strong>elegir una fuente para usar en las notas</strong> y <strong>cambiar la ubicación</strong> de almacenamiento de las notas guardadas (lo que significa que, en teoría, puede sincronizarlas a través de la nube entre dispositivos). Si está en un dispositivo OLED, también hay una opción para habilitar un modo negro "verdadero" (aunque esto solo está activo cuando el modo oscuro está configurado en GNOME globalmente).</p>
-<p>Organizar notas es simple gracias a arrastrar y soltar notas. Puede reordenar las libretas en la barra lateral de esta manera, o arrastrar y soltar notas de una libreta a otra. También puede mover notas usando el menú contextual.</p>
-<p>Actualmente no puede agregar etiquetas o etiquetas a las notas y filtrarlas de esa manera, pero la aplicación cuenta con búsqueda de texto completo, por lo que, si lo ha escrito, ¡debería poder encontrarlo!</p>
-<p>Si bien no iré tan lejos como para llamar a Paper un rival de Evernote y amable (al menos no todavía), es, en lo que respecta a las aplicaciones para portátiles de Linux, una alternativa sólida. <span class="">A Linux no le faltan aplicaciones para tomar notas, y esta trae una interfaz de usuario moderna de estilo 'libadwaita' a la mesa, es compatible con dispositivos móviles y admite Markdown de forma nativa.</span></p>
-<p>Página Oficial: <a href="https://posidon.io/paper/" target="_blank" rel="noopener noreferrer">https://posidon.io/paper/</a><br>Descargar App Flatpack: <a href="https://flathub.org/apps/details/io.posidon.Paper" target="_blank" rel="noopener noreferrer">https://flathub.org/apps/details/io.posidon.Paper</a></p>
             ]]>
         </content>
     </entry>
