@@ -3,45 +3,77 @@
     <title>Gadem&#x27;s Blog</title>
     <link href="https://Gadem.github.io/feed.xml" rel="self" />
     <link href="https://Gadem.github.io" />
-    <updated>2022-12-17T15:46:45-06:00</updated>
+    <updated>2023-01-28T17:50:43-07:00</updated>
     <author>
         <name>Adrian Mora (Gadem)</name>
     </author>
     <id>https://Gadem.github.io</id>
 
     <entry>
-        <title>Mozilla Firefox 108 ya está disponible para descargar</title>
+        <title>¿Cómo elegir una distribución GNU/Linux?</title>
         <author>
             <name>Adrian Mora (Gadem)</name>
         </author>
-        <link href="https://Gadem.github.io/mozilla-firefox-108-ya-esta-disponible-para-descargar/"/>
-        <id>https://Gadem.github.io/mozilla-firefox-108-ya-esta-disponible-para-descargar/</id>
-        <media:content url="https://Gadem.github.io/media/posts/20/Captura-desde-2022-12-17-15-44-56-2.png" medium="image" />
-            <category term="Noticias"/>
-            <category term="Navegador"/>
-            <category term="Firefox"/>
-            <category term="Descargas"/>
-            <category term="Actualización"/>
+        <link href="https://Gadem.github.io/como-elegir-una-distribucion-gnulinux/"/>
+        <id>https://Gadem.github.io/como-elegir-una-distribucion-gnulinux/</id>
+        <media:content url="https://Gadem.github.io/media/posts/20/Captura-desde-2023-01-28-18-49-00.png" medium="image" />
+            <category term="GNU/Linux"/>
+            <category term="Distribucion"/>
 
-        <updated>2022-12-17T15:46:45-06:00</updated>
+        <updated>2023-01-28T17:50:43-07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://Gadem.github.io/media/posts/20/Captura-desde-2022-12-17-15-44-56-2.png" alt="Firefox 108" />
-                    Una nueva versión del navegador web Firefox está disponible para descargar. Mozilla Firefox 108 es el último lanzamiento previsto para&hellip;
+                        <img src="https://Gadem.github.io/media/posts/20/Captura-desde-2023-01-28-18-49-00.png" alt="" />
+                    Elegir la mejor distribución de Linux puede ser un desafío para los nuevos usuarios, ya que hay muchas opciones disponibles.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://Gadem.github.io/media/posts/20/Captura-desde-2022-12-17-15-44-56-2.png" class="type:primaryImage" alt="Firefox 108" /></p>
-                <p><strong><span><span class="goog-text-highlight">Una nueva versión del navegador web Firefox está disponible para descargar.</span></span></strong></p>
-<p><span>Mozilla Firefox 108 es el último lanzamiento previsto para este año. Cuenta con un pequeño conjunto de mejoras modestas diseñadas para mejorar la usabilidad, la seguridad y la estabilidad del navegador cuando se usa para acceder a las principales plataformas de escritorio.</span></p>
-<p><span>La nueva característica "titular" es la <strong>compatibilidad con </strong></span><strong><span>la API WebMIDI</span></strong><span> . Esto permite que Firefox (más específicamente, las cosas que se ejecutan dentro de Firefox) se conecten e interactúen con dispositivos MIDI (interfaz digital de instrumentos musicales) conectados a una PC. <span class="">No todos los dispositivos MIDI son instrumentos musicales, por lo que la función también tiene aplicaciones no melodiosas.</span></span></p>
-<p><span>Firefox 108 también es mejor en el manejo de caracteres que no son ASCII al guardar e imprimir formularios PDF; agrega la combinación de teclas </span><code>shift</code><span>+ </span><code>esc</code><span>para abrir </span><em><span>Process Manager</span></em><span> (una gran utilidad para ver qué pestañas usan más recursos); y gana soporte para bucles de video continuos en sitios/reproductores que lo soporten.</span></p>
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/20/Captura-desde-2022-12-17-15-44-56.png" alt="" width="1366" height="736" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/20/responsive/Captura-desde-2022-12-17-15-44-56-xs.png 384w ,https://Gadem.github.io/media/posts/20/responsive/Captura-desde-2022-12-17-15-44-56-sm.png 600w ,https://Gadem.github.io/media/posts/20/responsive/Captura-desde-2022-12-17-15-44-56-md.png 768w ,https://Gadem.github.io/media/posts/20/responsive/Captura-desde-2022-12-17-15-44-56-lg.png 1200w ,https://Gadem.github.io/media/posts/20/responsive/Captura-desde-2022-12-17-15-44-56-xl.png 1600w"></figure></figure>
-<p><span>El navegador puede manejar correctamente imágenes utilizando perfiles ICCv4 y permite importar mapas de forma predeterminada para permitir que las páginas web "controlen el comportamiento de las importaciones de JavaScript".</span></p>
-<p><span>En el lado de Linux, hay correcciones de errores y mejoras de usabilidad, incluida una refactorización del bloque del controlador WebRender para usar una política de 'permitir de forma predeterminada'. Esto puede habilitar WebRender en más dispositivos Linux que antes. Como existe la posibilidad de problemas, Mozilla planea comenzar a bloquear los dispositivos "malos" conocidos en lugar de permitir los "buenos".</span></p>
-<p><span>Mozilla Firefox 108 es un software gratuito de código abierto. Puede descargar el lanzamiento </span><span>desde el FTP de Mozilla</span><span> para todas las plataformas compatibles </span><em><span>ahora mismo</span></em><span> o esperar a que la actualización se implemente a través de su canal de lanzamiento preferido a partir del martes 13 de diciembre.</span></p>
+                    <p><img src="https://Gadem.github.io/media/posts/20/Captura-desde-2023-01-28-18-49-00.png" class="type:primaryImage" alt="" /></p>
+                <div class="flex flex-grow flex-col gap-3">
+<div class="min-h-[20px] flex flex-col items-start gap-4 whitespace-pre-wrap">
+<div class="markdown prose w-full break-words dark:prose-invert light">
+<p>Elegir la mejor distribución de Linux puede ser un desafío para los nuevos usuarios, ya que hay muchas opciones disponibles. Sin embargo, con un poco de investigación y prueba, es posible encontrar la distribución perfecta para satisfacer sus necesidades.</p>
+<p>La primera consideración a tener en cuenta al elegir una distribución de Linux es el uso previsto para el sistema. Por ejemplo, si desea utilizar su sistema principalmente para el desarrollo de software, una distribución como Ubuntu o Debian sería una excelente opción debido a su gran comunidad de desarrolladores y amplia selección de herramientas de programación.</p>
+<p>Por otro lado, si desea utilizar su sistema principalmente para el diseño gráfico o la edición de vídeo, una distribución como Fedora o Arch Linux sería una mejor opción debido a su enfoque en la estabilidad y el rendimiento.</p>
+<p>Otra consideración importante al elegir una distribución de Linux es la facilidad de uso. Distribuciones como Mint o Ubuntu son conocidas por su fácil configuración y gestión de paquetes, mientras que distribuciones como Arch Linux son más adecuadas para usuarios avanzados con experiencia en la línea de comandos.</p>
+<p>Además, es importante considerar la compatibilidad de hardware al elegir una distribución de Linux. Algunas distribuciones son mejor optimizadas para trabajar con determinados tipos de hardware, como el soporte para dispositivos móviles o impresoras.</p>
+<p>En general, elegir la mejor distribución de Linux depende de sus necesidades y preferencias personales. Es recomendable probar varias distribuciones diferentes antes de tomar una decisión final.</p>
+<p>En resumen, para elegir la mejor distribución de Linux, es necesario tener en cuenta el uso previsto, la facilidad de uso, la compatibilidad de hardware y las necesidades y preferencias personales. Es recomendable probar varias distribuciones antes de tomar una decisión final.</p>
+<p> </p>
+<div class="flex flex-grow flex-col gap-3">
+<div class="min-h-[20px] flex flex-col items-start gap-4 whitespace-pre-wrap">¿Cual es la mejor distribución de GNU/Linux para comenzar?</div>
+<div> </div>
+<div>
+<div class="flex flex-grow flex-col gap-3">
+<div class="min-h-[20px] flex flex-col items-start gap-4 whitespace-pre-wrap">
+<div class="markdown prose w-full break-words dark:prose-invert light">
+<p>Hay varias distribuciones de Linux que son ideales para principiantes, ya que ofrecen una interfaz fácil de usar y una gran cantidad de recursos y documentación. Algunas de las distribuciones más populares y recomendadas para principiantes son:</p>
+<ol>
+<li>
+<p>Linux Mint: Es una de las distribuciones más fáciles de usar, con una interfaz similar a la de Windows y una gran cantidad de software preinstalado.</p>
+</li>
+<li>
+<p>Ubuntu: Es una distribución popular con una gran comunidad de usuarios y una amplia selección de software.</p>
+</li>
+<li>
+<p>Debian: Es una distribución estable con una gran cantidad de software disponible y una gran cantidad de documentación.</p>
+</li>
+<li>
+<p>Fedora: Es una distribución popular que se enfoca en la estabilidad y el rendimiento, con una interfaz de usuario fácil de usar y una gran cantidad de software disponible.</p>
+</li>
+<li>
+<p>Manjaro: Es una distribución derivada de Arch Linux que es muy fácil de usar, ideal para principiantes que desean experimentar con Arch Linux.</p>
+</li>
+</ol>
+<p>En resumen, Linux Mint, Ubuntu, Debian, Fedora y Manjaro son algunas de las distribuciones de Linux más populares y recomendadas para principiantes, ya que ofrecen una interfaz fácil de usar, una gran cantidad de recursos y documentación y una amplia selección de software. Sin embargo, es importante recordar que la elección final dependerá de las necesidades y preferencias individuales.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
 </div>
             ]]>
         </content>
@@ -67,7 +99,7 @@
             <category term="Kubuntu"/>
             <category term="GNU/Linux"/>
 
-        <updated>2022-10-08T15:04:21-05:00</updated>
+        <updated>2022-10-08T14:04:21-06:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://Gadem.github.io/media/posts/19/mejores-que-ubuntu.png" alt="" />
@@ -169,7 +201,7 @@
             <category term="Impresionante"/>
             <category term="Arch Linux"/>
 
-        <updated>2022-10-08T14:11:47-05:00</updated>
+        <updated>2022-10-08T13:11:47-06:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://Gadem.github.io/media/posts/18/welcome-xl.png" alt="" />
@@ -267,7 +299,7 @@
             <category term="LFS"/>
             <category term="GNU/Linux"/>
 
-        <updated>2022-10-08T14:03:30-05:00</updated>
+        <updated>2022-10-08T13:03:30-06:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://Gadem.github.io/media/posts/17/2-Its-Foss-xl.webp" alt="" />
@@ -350,7 +382,7 @@
             <category term="Distribucion"/>
             <category term="Arch Linux"/>
 
-        <updated>2022-10-08T14:00:02-05:00</updated>
+        <updated>2022-10-08T13:00:02-06:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://Gadem.github.io/media/posts/16/archcraft.png" alt="" />
@@ -432,7 +464,7 @@
             <category term="Noticias"/>
             <category term="Distribucion"/>
 
-        <updated>2022-08-29T12:37:40-05:00</updated>
+        <updated>2022-08-29T11:37:40-06:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://Gadem.github.io/media/posts/15/LXLE_16.04.1.png" alt="Las mejores distribuciones ligeras de Linux para computadoras antiguas" />
@@ -682,7 +714,7 @@
             <category term="GNU/Linux"/>
             <category term="Distribucion"/>
 
-        <updated>2022-06-20T15:16:08-05:00</updated>
+        <updated>2022-06-20T14:16:08-06:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://Gadem.github.io/media/posts/14/Captura-desde-2022-06-20-14-11-39.png" alt="Manjaro 21.3.0" />
@@ -728,7 +760,7 @@
             <category term="Gnome"/>
             <category term="GNU/Linux"/>
 
-        <updated>2022-06-19T20:15:32-05:00</updated>
+        <updated>2022-06-19T19:15:32-06:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://Gadem.github.io/media/posts/13/GNOME_Shell_with_some_GNOME_applications_version_40_released_in_2021-03.png" alt="https://twitter.com/sunnydeveloper/status/1536744475979939841" />
@@ -761,7 +793,7 @@
             <category term="Diseño"/>
             <category term="Actualización"/>
 
-        <updated>2022-06-16T21:51:47-05:00</updated>
+        <updated>2022-06-16T20:51:47-06:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://Gadem.github.io/media/posts/12/GIMP.png" alt="" />
@@ -801,7 +833,7 @@
             <category term="GNU/Linux"/>
             <category term="Descargas"/>
 
-        <updated>2022-08-28T19:55:18-05:00</updated>
+        <updated>2022-08-28T18:55:18-06:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://Gadem.github.io/media/posts/11/Captura-desde-2022-06-13-12-55-14.png" alt="Speek! Una alternativa Open-Source descentralizada y más segura que WhatsApp." />
