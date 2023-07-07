@@ -3,12 +3,47 @@
     <title>Gadem&#x27;s Blog - Software Libre, Producción de Audio - Videojuegos y más.</title>
     <link href="https://Gadem.github.io/feed.xml" rel="self" />
     <link href="https://Gadem.github.io" />
-    <updated>2023-07-07T14:03:00-06:00</updated>
+    <updated>2023-07-07T14:51:46-06:00</updated>
     <author>
         <name>Adrian Mora (Gadem)</name>
     </author>
     <id>https://Gadem.github.io</id>
 
+    <entry>
+        <title>Lanzamiento: Elementary OS 7</title>
+        <author>
+            <name>Adrian Mora (Gadem)</name>
+        </author>
+        <link href="https://Gadem.github.io/lanzamiento-elementary-os-7/"/>
+        <id>https://Gadem.github.io/lanzamiento-elementary-os-7/</id>
+        <media:content url="https://Gadem.github.io/media/posts/21/hero-2-xl.png" medium="image" />
+            <category term="minimalistas"/>
+            <category term="Noticias"/>
+            <category term="Linux"/>
+            <category term="Lanzamiento"/>
+            <category term="Impresionante"/>
+            <category term="ElementaryOS"/>
+            <category term="Distribucion"/>
+
+        <updated>2023-07-07T14:51:46-06:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://Gadem.github.io/media/posts/21/hero-2-xl.png" alt="" />
+                    Elementary OS 7 es la última versión de una de las distribuciones de Linux más populares y amadas por su&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://Gadem.github.io/media/posts/21/hero-2-xl.png" class="type:primaryImage" alt="" /></p>
+                <p>Elementary OS 7 es la última versión de una de las distribuciones de Linux más populares y amadas por su enfoque en la simplicidad y la usabilidad. La nueva versión incluye una serie de novedades y mejoras diseñadas para hacer que el sistema operativo sea aún más fácil de usar y atractivo para una audiencia más amplia.</p>
+<p><img decoding="auto" loading="lazy" src="file:///tmp/lu44746fb5ui.tmp/lu44746fb5ux_tmp_55f70fae811ef90b.png" alt="Elementary OS 7" width="3200" height="1800" align="bottom" border="0" data-is-external-image="true"></p>
+<p>Una de las mayores novedades de Elementary OS 7 es una nueva interfaz de usuario. El sistema operativo ha sido rediseñado con un enfoque en la simplicidad y la elegancia, y cuenta con nuevos iconos, fuentes y temas que brindan un aspecto fresco y moderno. Además, la nueva versión incluye un nuevo centro de control que permite a los usuarios acceder a todas las configuraciones importantes de un solo lugar, lo que simplifica la configuración y el mantenimiento del sistema.</p>
+<p>Otra gran novedad de Elementary OS 7 es la incorporación de aplicaciones nativas. La distribución incluye aplicaciones nativas para una serie de tareas comunes, incluyendo correo electrónico, calendario, navegador web, editor de texto y gestor de archivos. Estas aplicaciones están optimizadas para funcionar de manera fluida y eficiente en el sistema operativo y brindan una experiencia de usuario consistente y coherente.</p>
+<p>Además de estas novedades, la nueva versión de Elementary OS también incluye una serie de mejoras de rendimiento y estabilidad que brindan una experiencia de usuario más fluida y estable. La distribución también incluye la última versión de GNOME, lo que significa que los usuarios tienen acceso a las últimas características y mejoras de este entorno de escritorio popular.</p>
+<p>En resumen, Elementary OS 7 es una distribución de Linux impresionante que combina una interfaz de usuario atractiva y fácil de usar con aplicaciones nativas y mejoras de rendimiento y estabilidad. Está diseñada para brindar una experiencia de usuario coherente y satisfactoria, y es una excelente opción para aquellos que buscan un sistema operativo simple y eficiente.<br><br><a href="https://elementary.io/es/" target="_blank" rel="noopener">https://elementary.io/es/</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>¿Cómo elegir una distribución GNU/Linux?</title>
         <author>
@@ -802,69 +837,6 @@
 <p>La herramienta de texto ahora soporta glifos localizados según el valor establecido en la opción de idioma. Esta característica viene bien para idiomas como el serbio y el ucraniano, que emplean el mismo alfabeto cirílico con cinco letras que tienen variantes regionales. En caso de seleccionar una fuente con variantes de una letra, es posible definir el formato interno a través de la configuración de idioma.</p>
 <p>A nivel de usabilidad se ha incorporado un indicador alrededor del icono del ojo y del enlace en el árbol de capas, un nuevo efecto de hover en los elementos del menú que mejora la legibilidad y mejoras en la legibilidad y en los iconos para hacerlos más fáciles de distinguir. Por otro lado, <strong>el plugin de captura de la pantalla es ahora capaz de incluir el puntero del ratón en Windows</strong>, una característica que estaba y sigue estando presente en el resto de sistemas oficialmente soportados. Para terminar, se han incorporado babl 0.1.90 y GEGL 0.4.36.</p>
 <p>Aparte de poder ver todos los detalles en el <a href="https://www.gimp.org/news/2022/06/14/gimp-2-10-32-released/" target="_blank" rel="noopener">anuncio oficial</a>, los que estén interesados en usar GIMP 2.10.32 pueden descargar la aplicación para GNU/Linux (<a href="https://flathub.org/apps/details/org.gimp.GIMP" target="_blank" rel="noopener">Flatpak</a>), Windows y Mac desde el <a href="https://www.gimp.org/downloads/" target="_blank" rel="noopener">sitio web oficial del proyecto</a>. Además, debería de estar disponible en cuestión de tiempo en las distribuciones rolling release y posiblemente también en formato <a href="https://snapcraft.io/gimp" target="_blank" rel="noopener">Snap</a> y a través de los repositorios RPM de al menos la versión 36 de Fedora (también puede llegar a la 35).</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Speek! Una alternativa Open-Source descentralizada y más segura que WhatsApp.</title>
-        <author>
-            <name>Adrian Mora (Gadem)</name>
-        </author>
-        <link href="https://Gadem.github.io/speek-una-alternativa-open-source-descentralizada-y-mas-segura-que-whatsapp/"/>
-        <id>https://Gadem.github.io/speek-una-alternativa-open-source-descentralizada-y-mas-segura-que-whatsapp/</id>
-        <media:content url="https://Gadem.github.io/media/posts/11/Captura-desde-2022-06-13-12-55-14.png" medium="image" />
-            <category term="Speek"/>
-            <category term="Software Libre"/>
-            <category term="Open-Source"/>
-            <category term="Noticias"/>
-            <category term="Mensajería Anónima"/>
-            <category term="Mensajería"/>
-            <category term="GNU/Linux"/>
-            <category term="Descargas"/>
-
-        <updated>2022-08-28T18:55:18-06:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://Gadem.github.io/media/posts/11/Captura-desde-2022-06-13-12-55-14.png" alt="Speek! Una alternativa Open-Source descentralizada y más segura que WhatsApp." />
-                    100 % anónimo - 100 % descentralizado - 100 % resistente a la censura ¿Cómo funciona? Todos los mensajes están&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://Gadem.github.io/media/posts/11/Captura-desde-2022-06-13-12-55-14.png" class="type:primaryImage" alt="Speek! Una alternativa Open-Source descentralizada y más segura que WhatsApp." /></p>
-                <div id="tw-target-text-container" class="tw-ta-container F0azHf tw-nfl" tabindex="0">
-<pre class="tw-data-text tw-text-large tw-ta" dir="ltr" data-placeholder="Traducción"><span class="Y2IQFc" lang="es">100 % anónimo - 100 % descentralizado - 100 % resistente a la censura</span></pre>
-<h2>¿Cómo funciona?</h2>
-<figure class="post__image">Todos los mensajes están encriptados de extremo a extremo. El cliente de Speek está creando un servicio oculto Tor en la PC del cliente. Luego, el mensaje se enruta a través de la red de cebolla Tor al receptor. Esto hace posible que las direcciones IP nunca sean públicas y los usuarios puedan permanecer en el anonimato. Los usuarios se identifican con claves públicas. Cada usuario puede compartir su clave pública con otros para agregarlos a la lista de contactos.<br><br><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/11/Captura-desde-2022-06-13-13-01-29.png" alt="" width="820" height="544" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/11/responsive/Captura-desde-2022-06-13-13-01-29-xs.webp 384w ,https://Gadem.github.io/media/posts/11/responsive/Captura-desde-2022-06-13-13-01-29-sm.webp 600w ,https://Gadem.github.io/media/posts/11/responsive/Captura-desde-2022-06-13-13-01-29-md.webp 768w ,https://Gadem.github.io/media/posts/11/responsive/Captura-desde-2022-06-13-13-01-29-lg.webp 1200w ,https://Gadem.github.io/media/posts/11/responsive/Captura-desde-2022-06-13-13-01-29-xl.webp 1600w"></figure></pre>
-<p>Speek es la aplicación de mensajería más segura En comparación con aplicaciones de mensajería populares como Telegram, WhatsApp y Signal, Speek es, con mucho, la forma más segura de conversar. Speek no tiene servidor, no almacena metadatos, no requiere identificación ni número de teléfono y todos los mensajes están encriptados y enrutados a través de la red Tor.</p>
-<figure class="post__image"><img decoding="auto" loading="lazy"  src="https://Gadem.github.io/media/posts/11/Captura-desde-2022-06-13-12-58-39.png" alt="Comparación" width="774" height="510" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://Gadem.github.io/media/posts/11/responsive/Captura-desde-2022-06-13-12-58-39-xs.webp 384w ,https://Gadem.github.io/media/posts/11/responsive/Captura-desde-2022-06-13-12-58-39-sm.webp 600w ,https://Gadem.github.io/media/posts/11/responsive/Captura-desde-2022-06-13-12-58-39-md.webp 768w ,https://Gadem.github.io/media/posts/11/responsive/Captura-desde-2022-06-13-12-58-39-lg.webp 1200w ,https://Gadem.github.io/media/posts/11/responsive/Captura-desde-2022-06-13-12-58-39-xl.webp 1600w"></figure>
-<div id="KnM9nf"></div>
-<div class="QmZWSe">
-<div class="DHcWmd"> </div>
-</div>
-<div class="oSioSc">
-<div id="tw-target">
-<div id="kAz1tf" class="g9WsWb">
-<div id="tw-target-text-container" class="tw-ta-container F0azHf tw-nfl" tabindex="0">
-<pre class="tw-data-text tw-text-large tw-ta" dir="ltr" data-placeholder="Traducción"><span class="Y2IQFc" lang="es"><strong>Diseño resistente a la censura</strong>
-
-Speek hace que sea imposible ser censurado. No hay intermediarios involucrados. Todos los mensajes se envían directamente de persona a persona.<br><br></span></pre>
-<div id="tw-target-text-container" class="tw-ta-container F0azHf tw-nfl" tabindex="0">
-<pre id="tw-target-text" class="tw-data-text tw-text-large tw-ta" dir="ltr" data-placeholder="Traducción"><span class="Y2IQFc" lang="es"><strong>La vigilancia es imposible.
-por diseño</strong>
-
-Nadie es capaz de interceptar sus mensajes. Los mensajes solo se almacenan temporalmente en su dispositivo. Cuando cierra la aplicación Hablar, se eliminan todos sus mensajes. Es como hablar en la vida real. No se guarda nada.<br><br><br>En su sitio web encontraremos los enlaces para descargar l a app tanto para Windows, Linux, Mac OS y Androir.</span></pre>
-<p><a href="https://speek.network/" target="_blank" rel="noopener noreferrer"> Descargar App: https://speek.network/</a></p>
-</div>
-<div id="tw-target-rmn-container" class="tw-target-rmn tw-ta-container F0azHf tw-nfl">
-<pre id="tw-target-rmn" class="tw-data-placeholder tw-text-small tw-ta" dir="ltr" data-placeholder=""></pre>
-</div>
-<pre id="tw-target-text" class="tw-data-text tw-text-large tw-ta" dir="ltr" data-placeholder="Traducción"></pre>
-</div>
-</div>
-</div>
-</div>
-</div>
             ]]>
         </content>
     </entry>
