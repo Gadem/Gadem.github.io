@@ -239,7 +239,6 @@
 	transition: opacity 0.2s;
 	-webkit-box-shadow: none;
 	box-shadow: none;
-	transform: translateY(0) !important;
 }
 
 .pswp__button:focus,
@@ -329,8 +328,8 @@
 	height: 100px;
 	position: absolute;
 	top: 50%;
-	-webkit-transform: translate(0, -50%) !important;
-	transform: translate(0, -50%) !important;
+	-webkit-transform: translate(0, -50%);
+	transform: translate(0, -50%);
 }
 
 .pswp__button--arrow--left {
