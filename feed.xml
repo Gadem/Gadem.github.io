@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Gadem&#x27;s Blog - Software Libre, Producción de Audio - Videojuegos y más.</title>
+    <title>Gadem&#x27;s Blog - Linux y Videojuegos.</title>
     <link href="https://Gadem.github.io/feed.xml" rel="self" />
     <link href="https://Gadem.github.io" />
-    <updated>2023-07-07T14:51:46-06:00</updated>
+    <updated>2024-10-09T14:02:33-06:00</updated>
     <author>
         <name>Adrian Mora (Gadem)</name>
     </author>
@@ -36,7 +36,6 @@
             <![CDATA[
                     <p><img src="https://Gadem.github.io/media/posts/21/hero-2-xl.png" class="type:primaryImage" alt="" /></p>
                 <p>Elementary OS 7 es la última versión de una de las distribuciones de Linux más populares y amadas por su enfoque en la simplicidad y la usabilidad. La nueva versión incluye una serie de novedades y mejoras diseñadas para hacer que el sistema operativo sea aún más fácil de usar y atractivo para una audiencia más amplia.</p>
-<p><img decoding="auto" loading="lazy" src="file:///tmp/lu44746fb5ui.tmp/lu44746fb5ux_tmp_55f70fae811ef90b.png" alt="Elementary OS 7" width="3200" height="1800" align="bottom" border="0" data-is-external-image="true"></p>
 <p>Una de las mayores novedades de Elementary OS 7 es una nueva interfaz de usuario. El sistema operativo ha sido rediseñado con un enfoque en la simplicidad y la elegancia, y cuenta con nuevos iconos, fuentes y temas que brindan un aspecto fresco y moderno. Además, la nueva versión incluye un nuevo centro de control que permite a los usuarios acceder a todas las configuraciones importantes de un solo lugar, lo que simplifica la configuración y el mantenimiento del sistema.</p>
 <p>Otra gran novedad de Elementary OS 7 es la incorporación de aplicaciones nativas. La distribución incluye aplicaciones nativas para una serie de tareas comunes, incluyendo correo electrónico, calendario, navegador web, editor de texto y gestor de archivos. Estas aplicaciones están optimizadas para funcionar de manera fluida y eficiente en el sistema operativo y brindan una experiencia de usuario consistente y coherente.</p>
 <p>Además de estas novedades, la nueva versión de Elementary OS también incluye una serie de mejoras de rendimiento y estabilidad que brindan una experiencia de usuario más fluida y estable. La distribución también incluye la última versión de GNOME, lo que significa que los usuarios tienen acceso a las últimas características y mejoras de este entorno de escritorio popular.</p>
